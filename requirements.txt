@@ -1,0 +1,7 @@
+requests==2.31.0
+beautifulsoup4==4.12.3
+gspread==6.1.2
+google-auth==2.29.0
+python-dotenv==1.0.1
+playwright>=1.45.0
+pytest==8.2.0
