@@ -23,6 +23,7 @@ midnight Nairobi time (EAT) via GitHub Actions with zero manual intervention req
 | AI / Machine Learning | Machine Learning, AI Engineer |
 | Frontend Development | Frontend Developer |
 | Fullstack Development | Fullstack Developer, Full Stack Developer |
+| ICT | ICT |
 
 ---
 

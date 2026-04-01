@@ -43,6 +43,7 @@ SEARCH_QUERIES = [
     ("frontend developer",  "Frontend"),
     ("fullstack developer", "Fullstack"),
     ("full stack developer","Fullstack"),
+    ("ICT",                 "ICT"),
 ]
 
 # Only scrape first N pages per query (most recent listings)
