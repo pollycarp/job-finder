@@ -127,13 +127,16 @@ saves results to Google Sheets, and requires zero manual intervention after depl
 
 ---
 
-### Phase 3C — Fuzu Scraper
+### Phase 3C — JobWebKenya Scraper
 
-- URL pattern: https://fuzu.com/jobs/[category]?location=nairobi
-- Handle any dynamic content with Playwright if necessary
+> Note: Fuzu was replaced with JobWebKenya — Fuzu returns 403 Forbidden for all automated requests.
+
+- URL pattern: https://jobwebkenya.com/?s={query} and https://jobwebkenya.com/page/{n}/?s={query}
+- WordPress-based, server-side rendered (requests + BeautifulSoup)
+- Filter by Nairobi location and today's date
 - Filter to jobs posted today only
 
-**Deliverable:** `scrapers/fuzu.py`
+**Deliverable:** `scrapers/jobwebkenya.py`
 
 ---
 
