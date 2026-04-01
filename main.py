@@ -6,6 +6,7 @@ import sys
 from datetime import datetime
 
 import sheets_client
+import whatsapp_notifier
 from scrapers import brighter_monday, myjobmag, jobwebkenya
 
 # Configure logging
@@ -48,6 +49,7 @@ def run():
     logger.info("-" * 50)
     logger.info(f"Total jobs collected: {len(all_jobs)}")
 
+    written = 0
     if all_jobs:
         try:
             written = sheets_client.save_jobs(all_jobs)
@@ -55,6 +57,13 @@ def run():
         except Exception as e:
             logger.error(f"Failed to save to Google Sheets: {e}", exc_info=True)
             sys.exit(1)
+
+        # Send new jobs to WhatsApp group
+        if written > 0:
+            try:
+                whatsapp_notifier.send_jobs_to_whatsapp(all_jobs[:written])
+            except Exception as e:
+                logger.error(f"WhatsApp notification failed: {e}", exc_info=True)
     else:
         logger.info("No jobs found today. Nothing written to sheet.")
 

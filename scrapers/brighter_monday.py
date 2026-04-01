@@ -56,9 +56,9 @@ def scrape_query(page, query: str, category: str, seen_urls: set) -> list[dict]:
 
     for page_num in range(1, MAX_PAGES + 1):
         url = (
-            f"{BASE_URL}/jobs?q={query.replace(' ', '+')}&location=nairobi"
+            f"{BASE_URL}/jobs?q={query.replace(' ', '+')}&location=kenya"
             if page_num == 1
-            else f"{BASE_URL}/jobs?q={query.replace(' ', '+')}&location=nairobi&page={page_num}"
+            else f"{BASE_URL}/jobs?q={query.replace(' ', '+')}&location=kenya&page={page_num}"
         )
 
         try:
@@ -96,7 +96,7 @@ def scrape_query(page, query: str, category: str, seen_urls: set) -> list[dict]:
 
                 // Location — first span.mb-3
                 const spans = card.querySelectorAll('span.mb-3');
-                const location = spans.length > 0 ? spans[0].innerText.trim() : 'Nairobi';
+                const location = spans.length > 0 ? spans[0].innerText.trim() : 'Kenya';
 
                 results.push({ title, url, company, location });
             });
@@ -114,7 +114,7 @@ def scrape_query(page, query: str, category: str, seen_urls: set) -> list[dict]:
             jobs.append({
                 "Job Title": item["title"],
                 "Company": item["company"],
-                "Location": item["location"] or "Nairobi, Kenya",
+                "Location": item["location"] or "Kenya",
                 "Category": category,
                 "Source": "BrighterMonday",
                 "Job URL": job_url,

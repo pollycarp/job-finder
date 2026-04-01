@@ -1,6 +1,6 @@
 """
 MyJobMag scraper — server-side rendered, uses requests + BeautifulSoup.
-Searches for tech jobs in Nairobi posted today.
+Searches for tech jobs across Kenya posted today.
 """
 import logging
 import time
@@ -56,7 +56,7 @@ def is_today(date_str: str | None) -> bool:
 
 
 def fetch_page(query: str, page: int = 1) -> BeautifulSoup | None:
-    url = f"{BASE_URL}/search/jobs?q={requests.utils.quote(query)}&location=nairobi&currentpage={page}"
+    url = f"{BASE_URL}/search/jobs?q={requests.utils.quote(query)}&currentpage={page}"
     try:
         response = requests.get(url, headers=HEADERS, timeout=15)
         response.raise_for_status()
@@ -95,10 +95,17 @@ def parse_jobs(soup: BeautifulSoup, category: str) -> list[dict]:
         date_li = ul.find("li", id="job-date")
         date_str = parse_date(date_li.get_text()) if date_li else None
 
+        # Location — check for a location tag, fallback to Kenya
+        location_li = ul.find("li", id="job-location")
+        if location_li:
+            location = location_li.get_text(strip=True) or "Kenya"
+        else:
+            location = "Kenya"
+
         jobs.append({
             "Job Title": job_title.strip(),
             "Company": company.strip(),
-            "Location": "Nairobi, Kenya",
+            "Location": location,
             "Category": category,
             "Source": "MyJobMag",
             "Job URL": job_url,
