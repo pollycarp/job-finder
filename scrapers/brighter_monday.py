@@ -13,6 +13,28 @@ logger = logging.getLogger(__name__)
 
 BASE_URL = "https://www.brightermonday.co.ke"
 
+
+def parse_relative_date(date_text: str) -> str | None:
+    """
+    Parse relative date strings like 'Today', '3 hours ago', '1 day ago' into YYYY-MM-DD.
+    Returns today's date if the text indicates a same-day posting, otherwise None.
+    """
+    today = datetime.now().strftime("%Y-%m-%d")
+    text = date_text.strip().lower()
+    if not text:
+        return None
+    if "today" in text or "just now" in text or "hour" in text or "minute" in text:
+        return today
+    if "1 day ago" in text:
+        return today
+    return None
+
+
+def is_today(date_str: str | None) -> bool:
+    if not date_str:
+        return False
+    return date_str == datetime.now().strftime("%Y-%m-%d")
+
 SEARCH_QUERIES = [
     ("data scientist",      "Data Science"),
     ("data analyst",        "Data Science"),
