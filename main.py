@@ -7,7 +7,7 @@ from datetime import datetime
 
 import sheets_client
 import whatsapp_notifier
-from scrapers import brighter_monday, myjobmag, jobwebkenya
+from scrapers import brighter_monday, myjobmag, jobwebkenya, linkedin
 
 # Configure logging
 logging.basicConfig(
@@ -33,6 +33,7 @@ def run():
         ("MyJobMag",      myjobmag.scrape),
         ("JobWebKenya",   jobwebkenya.scrape),
         ("BrighterMonday",brighter_monday.scrape),
+        ("LinkedIn",      linkedin.scrape),
     ]
 
     for name, scrape_fn in scrapers:

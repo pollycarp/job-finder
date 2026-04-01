@@ -22,6 +22,11 @@ SEARCH_QUERIES = [
     ("frontend developer", "Frontend"),
     ("fullstack developer","Fullstack"),
     ("full stack developer","Fullstack"),
+    ("software engineer",  "Software Engineering"),
+    ("backend developer",  "Backend"),
+    ("cloud engineer",     "Cloud/DevOps"),
+    ("DevOps",             "Cloud/DevOps"),
+    ("cybersecurity",      "Cybersecurity"),
     ("ICT",                "ICT"),
 ]
 

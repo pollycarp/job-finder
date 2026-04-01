@@ -15,14 +15,19 @@ logger = logging.getLogger(__name__)
 BASE_URL = "https://www.myjobmag.co.ke"
 
 SEARCH_QUERIES = [
-    ("data scientist",  "Data Science"),
-    ("data analyst",    "Data Science"),
-    ("machine learning","AI/ML"),
-    ("AI engineer",     "AI/ML"),
+    ("data scientist",     "Data Science"),
+    ("data analyst",       "Data Science"),
+    ("machine learning",   "AI/ML"),
+    ("AI engineer",        "AI/ML"),
     ("frontend developer", "Frontend"),
-    ("fullstack developer", "Fullstack"),
+    ("fullstack developer","Fullstack"),
     ("full stack developer","Fullstack"),
-    ("ICT",             "ICT"),
+    ("software engineer",  "Software Engineering"),
+    ("backend developer",  "Backend"),
+    ("cloud engineer",     "Cloud/DevOps"),
+    ("DevOps",             "Cloud/DevOps"),
+    ("cybersecurity",      "Cybersecurity"),
+    ("ICT",                "ICT"),
 ]
 
 HEADERS = {
