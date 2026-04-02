@@ -16,14 +16,16 @@ BASE_URL = "https://www.brightermonday.co.ke"
 
 def parse_relative_date(date_text: str) -> str | None:
     """
-    Parse relative date strings like 'Today', '3 hours ago', '1 day ago' into YYYY-MM-DD.
-    Returns today's date if the text indicates a same-day posting, otherwise None.
+    Parse BrighterMonday relative date strings into YYYY-MM-DD.
+    Only returns today's date for same-day postings, otherwise None.
+    Examples: 'Today', '3 hours ago', '45 minutes ago', 'Just now', '1 day ago'
+    Rejects: '1 week ago', '2 months ago', '4 weeks ago', etc.
     """
     today = datetime.now().strftime("%Y-%m-%d")
     text = date_text.strip().lower()
     if not text:
         return None
-    if "today" in text or "just now" in text or "hour" in text or "minute" in text:
+    if "today" in text or "just now" in text or "minute" in text or "hour" in text:
         return today
     if "1 day ago" in text:
         return today
@@ -55,7 +57,7 @@ SEARCH_QUERIES = [
 MAX_PAGES = 2
 
 
-def scrape_query(page, query: str, category: str, seen_urls: set) -> list[dict]:
+def scrape_query(page, query: str, category: str, seen_urls: set, today_only: bool = True) -> list[dict]:
     """Scrape a single search query using an open Playwright page."""
     jobs = []
     today = datetime.now().strftime("%Y-%m-%d")
@@ -82,29 +84,38 @@ def scrape_query(page, query: str, category: str, seen_urls: set) -> list[dict]:
 
         # Extract all job cards on this page
         cards_data = page.evaluate("""() => {
-            const links = document.querySelectorAll('a[data-cy="listing-title-link"]');
+            const cards = document.querySelectorAll('div[data-cy="listing-cards-components"]');
             const results = [];
-            links.forEach(link => {
-                const card = link.parentElement?.parentElement;
-                if (!card) return;
 
-                // Title from the <p> inside the link, or title attribute
+            cards.forEach(card => {
+                const link = card.querySelector('a[data-cy="listing-title-link"]');
+                if (!link) return;
+
+                // Title
                 const titleEl = link.querySelector('p.text-lg') || link.querySelector('p');
                 const title = titleEl ? titleEl.innerText.trim() : link.getAttribute('title') || '';
 
                 // URL
                 const url = link.getAttribute('href') || '';
 
-                // Company — p.text-blue-700 sibling
-                const companyEl = card.querySelector('p.text-blue-700') ||
-                                  card.querySelector('p.text-sm.text-blue-700');
+                // Inner card (2 levels up from link)
+                const innerCard = link.parentElement?.parentElement;
+
+                // Company
+                const companyEl = innerCard?.querySelector('p.text-blue-700') ||
+                                  innerCard?.querySelector('p.text-sm.text-blue-700');
                 const company = companyEl ? companyEl.innerText.trim() : '';
 
                 // Location — first span.mb-3
-                const spans = card.querySelectorAll('span.mb-3');
-                const location = spans.length > 0 ? spans[0].innerText.trim() : 'Kenya';
+                const spans = innerCard?.querySelectorAll('span.mb-3');
+                const location = spans?.length > 0 ? spans[0].innerText.trim() : 'Kenya';
 
-                results.push({ title, url, company, location });
+                // Date — in .border-t bottom section, inside .ml-auto div
+                const borderT = card.querySelector('.border-t');
+                const datePEl = borderT?.querySelector('.ml-auto p');
+                const dateText = datePEl ? datePEl.innerText.trim() : '';
+
+                results.push({ title, url, company, location, dateText });
             });
             return results;
         }""")
@@ -112,10 +123,16 @@ def scrape_query(page, query: str, category: str, seen_urls: set) -> list[dict]:
         if not cards_data:
             break
 
+        found_today = False
         for item in cards_data:
             job_url = item["url"]
             if not job_url or job_url in seen_urls:
                 continue
+
+            date_str = parse_relative_date(item.get("dateText", ""))
+
+            if today_only and not date_str:
+                continue  # Skip jobs older than today
 
             jobs.append({
                 "Job Title": item["title"],
@@ -124,9 +141,14 @@ def scrape_query(page, query: str, category: str, seen_urls: set) -> list[dict]:
                 "Category": category,
                 "Source": "BrighterMonday",
                 "Job URL": job_url,
-                "Date Posted": today,
+                "Date Posted": date_str or today,
             })
             seen_urls.add(job_url)
+            found_today = True
+
+        # Stop paginating if no today's jobs on this page
+        if today_only and not found_today:
+            break
 
         time.sleep(random.uniform(1, 2))
 
@@ -161,7 +183,7 @@ def scrape(today_only: bool = True) -> list[dict]:
 
         for query, category in SEARCH_QUERIES:
             logger.info(f"BrighterMonday: searching '{query}'...")
-            jobs = scrape_query(page, query, category, seen_urls)
+            jobs = scrape_query(page, query, category, seen_urls, today_only)
             all_jobs.extend(jobs)
             logger.info(f"BrighterMonday: '{query}' → {len(jobs)} job(s)")
             time.sleep(random.uniform(2, 3))

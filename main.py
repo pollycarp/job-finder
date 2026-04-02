@@ -47,6 +47,20 @@ def run():
             logger.error(f"{name} scraper failed: {e}", exc_info=True)
             results[name] = 0
 
+    # Cross-source deduplication by title + company
+    seen_title_company = set()
+    deduped_jobs = []
+    for job in all_jobs:
+        key = (job.get("Job Title", "").lower().strip(),
+               job.get("Company", "").lower().strip())
+        if key not in seen_title_company:
+            seen_title_company.add(key)
+            deduped_jobs.append(job)
+    removed = len(all_jobs) - len(deduped_jobs)
+    if removed:
+        logger.info(f"Cross-source deduplication removed {removed} duplicate(s).")
+    all_jobs = deduped_jobs
+
     logger.info("-" * 50)
     logger.info(f"Total jobs collected: {len(all_jobs)}")
 
