@@ -2,7 +2,7 @@ name: Daily Job Scraper
 
 on:
   schedule:
-    - cron: '0 21 * * *'   # 9 PM UTC = Midnight Nairobi time (EAT UTC+3)
+    - cron: '0 */2 * * *'  # Every 2 hours
   workflow_dispatch:         # Allow manual runs from GitHub UI
 
 jobs:
