@@ -9,12 +9,14 @@ jobs:
   scrape:
     runs-on: ubuntu-latest
     timeout-minutes: 30
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GH_PAT }}
+          token: ${{ github.token }}
 
       - name: Set up Python
         uses: actions/setup-python@v5
