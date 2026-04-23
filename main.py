@@ -2,8 +2,9 @@
 Main pipeline — runs all scrapers and saves results to Google Sheets.
 """
 import logging
+import os
 import sys
-from datetime import datetime
+from datetime import datetime, timezone
 
 import sheets_client
 import whatsapp_notifier
@@ -18,6 +19,24 @@ logging.basicConfig(
     ],
 )
 logger = logging.getLogger(__name__)
+
+
+LOG_FILE = os.path.join(os.path.dirname(__file__), "activity_log.md")
+
+
+def _append_activity_log(jobs: list[dict]) -> None:
+    """Append newly found jobs to activity_log.md for git-based contribution tracking."""
+    timestamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+    lines = [f"\n## {timestamp} — {len(jobs)} new job(s)\n\n"]
+    for job in jobs:
+        lines.append(
+            f"- **{job.get('Job Title', 'N/A')}** at {job.get('Company', 'N/A')} "
+            f"({job.get('Location', 'N/A')}) [{job.get('Source', '')}]  \n"
+            f"  {job.get('Job URL', '')}\n"
+        )
+    with open(LOG_FILE, "a", encoding="utf-8") as f:
+        f.writelines(lines)
+    logger.info(f"Activity log updated: {LOG_FILE}")
 
 
 def run():
@@ -65,18 +84,21 @@ def run():
     logger.info(f"Total jobs collected: {len(all_jobs)}")
 
     written = 0
+    new_jobs = []
     if all_jobs:
         try:
-            written = sheets_client.save_jobs(all_jobs)
+            written, new_jobs = sheets_client.save_jobs(all_jobs)
             logger.info(f"Google Sheets: {written} new row(s) written.")
         except Exception as e:
             logger.error(f"Failed to save to Google Sheets: {e}", exc_info=True)
             sys.exit(1)
 
-        # Send new jobs to WhatsApp group
         if written > 0:
+            _append_activity_log(new_jobs)
+
+            # Send new jobs to WhatsApp group
             try:
-                whatsapp_notifier.send_jobs_to_whatsapp(all_jobs[:written])
+                whatsapp_notifier.send_jobs_to_whatsapp(new_jobs)
             except Exception as e:
                 logger.error(f"WhatsApp notification failed: {e}", exc_info=True)
     else:

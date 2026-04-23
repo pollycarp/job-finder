@@ -79,7 +79,7 @@ def save_jobs(jobs: list[dict]) -> int:
     """
     if not jobs:
         logger.info("No jobs to save.")
-        return 0
+        return 0, []
 
     worksheet = get_sheet()
     existing_urls = get_existing_urls(worksheet)
@@ -88,7 +88,7 @@ def save_jobs(jobs: list[dict]) -> int:
 
     if not new_jobs:
         logger.info("All jobs already exist in the sheet. Nothing to write.")
-        return 0
+        return 0, []
 
     today = datetime.now().strftime("%Y-%m-%d")
     rows = []
@@ -106,4 +106,4 @@ def save_jobs(jobs: list[dict]) -> int:
 
     worksheet.append_rows(rows)
     logger.info(f"Wrote {len(rows)} new job(s) to Google Sheets.")
-    return len(rows)
+    return len(rows), new_jobs
