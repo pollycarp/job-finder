@@ -50,3 +50,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/senior-mechanical-engineer-scientific-research-corporation-1
 - **Senior Data Scientist – Credit Eligibility** at M-KOPA Solar (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/senior-data-scientist-credit-eligibility-m-kopa-solar/
+
+## 2026-04-24 11:04 UTC — 3 new job(s)
+
+- **Biomedical/Medical Engineering** at The Nyeri National Polytechnic (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/biomedical-medical-engineering-nyeri-national-polytechnic/
+- **Electrical & Electronics Engineering (Electronics)** at The Nyeri National Polytechnic (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/electrical-electronics-engineering-electronics-nyeri-national-polytechnic/
+- **Electrical & Electronics Engineering (Power)** at The Nyeri National Polytechnic (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/electrical-electronics-engineering-power-nyeri-national-polytechnic/
