@@ -35,3 +35,18 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/ict-senior-officer-software-development-united-nations-office-for-project-services-unops
 - **ICT Teacher** at Nairobi International School (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/ict-teacher-nairobi-international-school-1
+
+## 2026-04-24 09:28 UTC — 6 new job(s)
+
+- **Financial & Data Analyst – Nairobi** at Solar Panda (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/financial-data-analyst-nairobi-solar-panda
+- **Senior Backend Engineer (AI-Native)** at Umba (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-backend-engineer-ai-native-umba
+- **Platform Engineer (DevOps)** at Palladium International (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/platform-engineer-devops-palladium-international
+- **Senior Civil Engineer** at Scientific Research Corporation (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-civil-engineer-scientific-research-corporation-1
+- **Senior Mechanical Engineer** at Scientific Research Corporation (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-mechanical-engineer-scientific-research-corporation-1
+- **Senior Data Scientist – Credit Eligibility** at M-KOPA Solar (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-data-scientist-credit-eligibility-m-kopa-solar/
