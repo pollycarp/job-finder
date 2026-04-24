@@ -59,3 +59,14 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/electrical-electronics-engineering-electronics-nyeri-national-polytechnic/
 - **Electrical & Electronics Engineering (Power)** at The Nyeri National Polytechnic (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/electrical-electronics-engineering-power-nyeri-national-polytechnic/
+
+## 2026-04-24 13:06 UTC — 4 new job(s)
+
+- **Renewables Energy Engineer - (ENG-L7.126)** at Zutari (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/renewables-energy-engineer-eng-l7-126-zutari-1
+- **Analyst** at Visa (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/analyst-at-visa/
+- **ICT Senior Officer – Software Development** at United Nations Office for Project Services (UNOPS) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/ict-senior-officer-software-development-united-nations-office-project-services-unops/
+- **Graduate/Entry Level Software Engineer/Programming/Coding** at Comprite Kenya Ltd. (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/graduateentry-level-software-engineerprogrammingcoding-gm55g0
