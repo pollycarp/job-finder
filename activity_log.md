@@ -24,3 +24,14 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/cyber-transformation-lead-alliance-led-xp4450
 - **DevOps Platform & Network Infrastructure Administrator** at Speedy Chui Africa Limited (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/devops-platform-network-infrastructure-administrator-4neeev
+
+## 2026-04-24 07:55 UTC — 4 new job(s)
+
+- **Fintech Data Analyst** at Power Learn Project (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/fintech-data-analyst-power-learn-project
+- **Full-Stack Developer** at Power Learn Project (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/full-stack-developer-power-learn-project
+- **ICT Senior Officer - Software Development** at United Nations Office for Project Services (UNOPS) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-senior-officer-software-development-united-nations-office-for-project-services-unops
+- **ICT Teacher** at Nairobi International School (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-teacher-nairobi-international-school-1
