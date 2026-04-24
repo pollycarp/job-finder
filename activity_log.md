@@ -70,3 +70,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/ict-senior-officer-software-development-united-nations-office-project-services-unops/
 - **Graduate/Entry Level Software Engineer/Programming/Coding** at Comprite Kenya Ltd. (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/graduateentry-level-software-engineerprogrammingcoding-gm55g0
+
+## 2026-04-24 16:50 UTC — 1 new job(s)
+
+- **Junior AI Solutions Engineer** at Nathan Digital (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/junior-ai-solutions-engineer-nathan-digital
