@@ -130,3 +130,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/business-development-manager-ict-elv-solutions-mybest-ltd
 - **Maintenance Team Lead** at Mars (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/maintenance-team-lead-mars/
+
+## 2026-04-25 18:43 UTC — 1 new job(s)
+
+- **Renewables Energy Engineer – (ENG-L7.126)** at Zutari (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/renewables-energy-engineer-eng-l7-126-zutari/
