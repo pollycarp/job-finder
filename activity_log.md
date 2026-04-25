@@ -75,3 +75,40 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Junior AI Solutions Engineer** at Nathan Digital (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/junior-ai-solutions-engineer-nathan-digital
+
+## 2026-04-25 04:34 UTC — 17 new job(s)
+
+- **Applied Scientist - Data & AI** at Siemens Electronic Systems Design & Manufacturing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/applied-scientist-data-ai-8m005p
+- **Financial & Data Analyst** at Wingubox Ltd (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/financial-data-analyst-k7mm8v
+- **Data Entry Officer** at Kenyatta National Hospital (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-entry-officer-d9rr00
+- **Project Finance & Modelling Analyst** at Inuka Partners (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/project-finance-modelling-analyst-vdmmwm
+- **Analyst** at Visa (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/analyst-vdmmdm
+- **Business Intelligence Analyst** at BryComm, LLC (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/business-intelligence-analyst-45jj5z
+- **Low-Code Developer (m/f/d)** at Siemens Electronic Systems Design & Manufacturing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/low-code-developer-mfd-m0mmgd
+- **DATA ENGINEER - MACHINE LEARNING AND DATA ANALYTICS** at FLAREXA TECHNOLOGIES PRIVATE LIMITED (Full Time) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-engineer-machine-learning-and-data-analytics-5pwwd0
+- **Software Development Engineer - Data & AI** at Siemens Electronic Systems Design & Manufacturing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/software-development-engineer-data-ai-k7mmgv
+- **Senior Program Manager - 1928 & 1929** at In All Media (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-program-manager-1928-1929-2kzz8k
+- **Data & AI Architecture Lead - Africa** at KPMG Africa (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-ai-architecture-lead-africa-pgpp0m
+- **Senior SEO & AI Discoverability Specialist** at CCI Global (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-seo-ai-discoverability-specialist-rr22ng
+- **Regional Senior Advisor – Space & Connectivity Practice** at Access Partnership (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/regional-senior-advisor-space-connectivity-practice-9k00j8
+- **Account Executive** at SalesRabbit (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/account-executive-9j4pz5-v1
+- **.NET Developer** at Support Services Group - Dominican Republic (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/net-developer-k7mmp5
+- **Building Automation Service Specialist** at Siemens Electronic Systems Design & Manufacturing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/building-automation-service-specialist-n955px
+- **Sales Specialist - Starszy_a Specjalista_tka ds. Sprzedaży - sektor dostawców technologicznych (hardware & software) w Siemens Finance (f/m/d)** at Siemens Electronic Systems Design & Manufacturing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/sales-specialist-starszy-a-specjalista-tka-ds-sprzedazy-sektor-dostawcow-technologicznych-hardware-software-w-siemens-finance-fmd-gm5590
