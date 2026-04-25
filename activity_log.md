@@ -123,3 +123,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/senior-mechanical-engineer-scientific-research-corporation/
 - **Senior Civil Engineer** at Scientific Research Corporation (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/senior-civil-engineer-scientific-research-corporation/
+
+## 2026-04-25 16:37 UTC — 2 new job(s)
+
+- **Business Development Manager (ICT / ELV Solutions)** at Mybest Ltd (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/business-development-manager-ict-elv-solutions-mybest-ltd
+- **Maintenance Team Lead** at Mars (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/maintenance-team-lead-mars/
