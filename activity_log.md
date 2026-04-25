@@ -112,3 +112,14 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/building-automation-service-specialist-n955px
 - **Sales Specialist - Starszy_a Specjalista_tka ds. Sprzedaży - sektor dostawców technologicznych (hardware & software) w Siemens Finance (f/m/d)** at Siemens Electronic Systems Design & Manufacturing (Rest of Kenya) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/sales-specialist-starszy-a-specjalista-tka-ds-sprzedazy-sektor-dostawcow-technologicznych-hardware-software-w-siemens-finance-fmd-gm5590
+
+## 2026-04-25 12:47 UTC — 4 new job(s)
+
+- **Senior Backend Engineer (AI-Native)** at Umba (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-backend-engineer-ai-native-umba/
+- **Platform Engineer (DevOps)** at Palladium International (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/platform-engineer-devops-palladium-international/
+- **Senior Mechanical Engineer** at Scientific Research Corporation (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-mechanical-engineer-scientific-research-corporation/
+- **Senior Civil Engineer** at Scientific Research Corporation (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-civil-engineer-scientific-research-corporation/
