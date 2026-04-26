@@ -135,3 +135,50 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Renewables Energy Engineer – (ENG-L7.126)** at Zutari (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/renewables-energy-engineer-eng-l7-126-zutari/
+
+## 2026-04-26 04:58 UTC — 22 new job(s)
+
+- **Senior Machine Learning Engineer / Data Scientist (m/f/d)** at Siemens Electronic Systems Design & Manufacturing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-machine-learning-engineer-data-scientist-mfd-9k00gx
+- **Software Field Service Engineer (f/m/x)** at Siemens Electronic Systems Design & Manufacturing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/software-field-service-engineer-fmx-6q77vz
+- **Ultra High-Field MRI Onsite Collaboration Scientist (f/m/d) (temporary for 2 years)** at Siemens Electronic Systems Design & Manufacturing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ultra-high-field-mri-onsite-collaboration-scientist-fmd-temporary-for-2-years-9k00wj
+- **Project Controls Engineer** at Scientific Research Corporation (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/project-controls-engineer-x8ddxz
+- **Durability and PME Analyst** at BURN (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/durability-and-pme-analyst-8m00g6
+- **Level II Support Officer** at HFC Kenya (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/level-ii-support-officer-m0mmd9
+- **Test Architect (f/m/d) Railigent X - IoT Platform** at Siemens Electronic Systems Design & Manufacturing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/test-architect-fmd-railigent-x-iot-platform-rr227g
+- **People Operations Assistant** at CrossBoundary Group (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/people-operations-assistant-n955wv
+- **Senior IT Business Analyst, BAM** at Britam (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-it-business-analyst-bam-7jvv98
+- **Chief AI Officer** at Weritas (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/chief-ai-officer-n9550v
+- **Field Service Engineer - Automation and Motion Control systems** at Siemens Electronic Systems Design & Manufacturing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/field-service-engineer-automation-and-motion-control-systems-erddxx
+- **Senior Backend Engineer (AI-Native)** at Umba (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-backend-engineer-ai-native-rr2255
+- **Technology Operations Associate - IT Support** at A&O IT Group (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/technology-operations-associate-it-support-d9rrn0
+- **Project Manager - Utilities & Solutions** at Siemens Electronic Systems Design & Manufacturing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/project-manager-utilities-solutions-erddwx
+- **Bilingual (EN/FR) Talent Acquisition Partner: Go-to-Market** at Siemens Electronic Systems Design & Manufacturing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/bilingual-enfr-talent-acquisition-partner-go-to-market-x8ddw4
+- **Applications Engineer (HF-Electromagnetic Simulation)** at Siemens Electronic Systems Design & Manufacturing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/applications-engineer-hf-electromagnetic-simulation-k7mmx5
+- **Technical Solution Director** at Siemens Electronic Systems Design & Manufacturing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/technical-solution-director-45jjrz
+- **Formal Trust & Security PE** at Siemens Electronic Systems Design & Manufacturing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/formal-trust-security-pe-5pwwgr
+- **Senior Building Automation Design Engineer** at Siemens Electronic Systems Design & Manufacturing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-building-automation-design-engineer-d9rr20
+- **Vertical Sales Chemical Account Executive** at Siemens Electronic Systems Design & Manufacturing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/vertical-sales-chemical-account-executive-2kzzwk
+- **Enterprise Customer Partner – Transformation & Growth (Power & Utilities Focus)** at Siemens Electronic Systems Design & Manufacturing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/enterprise-customer-partner-transformation-growth-power-utilities-focus-7jvvgm
+- **Cybersecurity Professional - IT/OT (w/m/d)** at Siemens Electronic Systems Design & Manufacturing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/cybersecurity-professional-itot-wmd-qzqqgw
