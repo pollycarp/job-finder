@@ -182,3 +182,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/enterprise-customer-partner-transformation-growth-power-utilities-focus-7jvvgm
 - **Cybersecurity Professional - IT/OT (w/m/d)** at Siemens Electronic Systems Design & Manufacturing (Rest of Kenya) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/cybersecurity-professional-itot-wmd-qzqqgw
+
+## 2026-04-26 12:49 UTC — 1 new job(s)
+
+- **ICT Technician** at Kiirua Technical Training Institute (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-technician-kiirua-technical-training-institute
