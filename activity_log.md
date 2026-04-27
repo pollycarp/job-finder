@@ -242,3 +242,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/associate-director-ai-transformation-idinsight-1
 - **Applications Developer** at Wananchi Group (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/applications-developer-wananchi-group
+
+## 2026-04-27 19:10 UTC — 2 new job(s)
+
+- **Submit CVs – New Recruitment** at Konoin Technical Training Institute (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-konoin-technical-training-institute/
+- **Information Systems Auditor – Grade 11** at Kenyatta University (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/information-systems-auditor-grade-11-kenyatta-university/
