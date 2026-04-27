@@ -226,3 +226,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/structural-design-engineer-ism-africa-2
 - **Electrical Design Engineer** at ISM Africa (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/electrical-design-engineer-ism-africa
+
+## 2026-04-27 13:24 UTC — 2 new job(s)
+
+- **Senior Officer, Data Analyst and Impact Measurement** at International Federation of Red Cross and Red Crescent Societies (IFRC) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-officer-data-analyst-and-impact-measurement-international-federation-of-red-cross-and-red-crescent-societies-ifrc
+- **ICT Officers - 2 Posts** at Mount Kenya University (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-officers-2-posts-mount-kenya-university
