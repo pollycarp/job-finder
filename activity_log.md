@@ -211,3 +211,18 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/ict-technician-kiirua-technical-training-institute/
 - **Intern Software Developer** at Sarabi Realty Group (Kenya) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/intern-software-developer-m0mm99
+
+## 2026-04-27 11:36 UTC — 6 new job(s)
+
+- **Business Analyst 1, Data Analysis** at Central Bank of Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/business-analyst-1-data-analysis-central-bank-of-kenya
+- **Senior Officer, Liquidity Management and Data Analysis, Financial Institutions Operations (Senior Business Analyst 2)** at Central Bank of Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-officer-liquidity-management-and-data-analysis-financial-institutions-operations-senior-business-analyst-2-central-bank-of-kenya
+- **Data Engineer** at CrossBoundary (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-engineer-crossboundary
+- **Quality Assurance (QA) Engineer** at Reeds Africa Consult (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/quality-assurance-qa-engineer-reeds-africa-consult
+- **Structural Design Engineer** at ISM Africa (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/structural-design-engineer-ism-africa-2
+- **Electrical Design Engineer** at ISM Africa (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/electrical-design-engineer-ism-africa
