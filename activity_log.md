@@ -202,3 +202,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/backend-developers-and-senior-qa-analysts-6q77m7
 - **Operations & Compliance Engineer (m/f/d)** at Siemens Electronic Systems Design & Manufacturing (Rest of Kenya) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/operations-compliance-engineer-mfd-6q7747
+
+## 2026-04-27 08:12 UTC — 3 new job(s)
+
+- **Agricultural Technician** at Kiirua Technical Training Institute (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/agricultural-technician-kiirua-technical-training-institute/
+- **ICT Technician** at Kiirua Technical Training Institute (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/ict-technician-kiirua-technical-training-institute/
+- **Intern Software Developer** at Sarabi Realty Group (Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/intern-software-developer-m0mm99
