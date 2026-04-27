@@ -233,3 +233,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/senior-officer-data-analyst-and-impact-measurement-international-federation-of-red-cross-and-red-crescent-societies-ifrc
 - **ICT Officers - 2 Posts** at Mount Kenya University (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/ict-officers-2-posts-mount-kenya-university
+
+## 2026-04-27 15:35 UTC — 3 new job(s)
+
+- **Tupande Machine Operation and Maintenance Supervisor (Fixed-Term)** at One Acre Fund (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/tupande-machine-operation-and-maintenance-supervisor-fixed-term-one-acre-fund
+- **Associate Director, AI Transformation** at IDinsight (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/associate-director-ai-transformation-idinsight-1
+- **Applications Developer** at Wananchi Group (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/applications-developer-wananchi-group
