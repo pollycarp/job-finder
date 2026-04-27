@@ -187,3 +187,18 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **ICT Technician** at Kiirua Technical Training Institute (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/ict-technician-kiirua-technical-training-institute
+
+## 2026-04-27 05:21 UTC — 6 new job(s)
+
+- **AI Output Tester** at Blue Oak Consulting (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ai-output-tester-7jvvr8
+- **Senior Blockchain Engineer (Protocol Layer)** at Weritas (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-blockchain-engineer-protocol-layer-pgpp74
+- **Head of Web5 & Decentralized Identity** at Weritas (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/head-of-web5-decentralized-identity-z8226g
+- **Business Development Manager - Operations Software** at Siemens Electronic Systems Design & Manufacturing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/business-development-manager-operations-software-wrmm5g
+- **BACKEND DEVELOPERS AND SENIOR QA Analysts** at Tezza Business Solutions Ltd (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/backend-developers-and-senior-qa-analysts-6q77m7
+- **Operations & Compliance Engineer (m/f/d)** at Siemens Electronic Systems Design & Manufacturing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/operations-compliance-engineer-mfd-6q7747
