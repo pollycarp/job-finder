@@ -249,3 +249,24 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-konoin-technical-training-institute/
 - **Information Systems Auditor – Grade 11** at Kenyatta University (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/information-systems-auditor-grade-11-kenyatta-university/
+
+## 2026-04-28 06:30 UTC — 9 new job(s)
+
+- **ICT Assistants - 6 Posts** at Nairobi City Water and Sewerage Company Limited (NCWSC) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-assistants-6-posts-nairobi-city-water-and-sewerage-company-limited-ncwsc
+- **Structural Design Engineer** at ISM Africa (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/structural-design-engineer-ism-africa-3/
+- **Electrical Design Engineer** at ISM Africa (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/electrical-design-engineer-ism-africa/
+- **Senior Officer, Data Analyst and Impact Measurement** at International Federation of Red Cross and Red Crescent Societies - IFRC (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-officer-data-analyst-and-impact-measurement-gm5569
+- **Data Migration Specialist** at Tezza Business Solutions Ltd (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-migration-specialist-erdd82
+- **Senior NetSuite Administrator/Analyst (BIN0002)** at hammerjack (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-netsuite-administratoranalyst-bin0002-d9rrg2
+- **Manager, Technical Solutions** at Palo Alto Networks (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/manager-technical-solutions-8m00rj
+- **Digital & E-Channels Support Officer** at Infinite Talent Middleware Test Company (Kisumu) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/digital-e-channels-support-officer-k7mmz8
+- **Private Sector Cooperation Technical Advisor - Digital Outsourcing Jobs for Kenya's Youth (develoPPP)** at GIZ KE (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/private-sector-cooperation-technical-advisor-digital-outsourcing-jobs-for-kenyas-youth-developpp-j6mm06
