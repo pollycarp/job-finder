@@ -304,3 +304,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/data-analyst-m0mm2r
 - **ICT & Coding Instructor** at StarQode Tech Hub (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/ict-instructor-wrmm74
+
+## 2026-04-28 16:13 UTC — 2 new job(s)
+
+- **Junior AI Developer** at Nathan Digital (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/junior-ai-developer-nathan-digital-1
+- **Software Developer** at Solvo Global (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/software-developer-solvo-global
