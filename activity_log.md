@@ -293,3 +293,14 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/lab-analyst-water-wastewater-tatu-city-limited-2/
 - **Data Engineer** at CrossBoundary (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/data-engineer-crossboundary/
+
+## 2026-04-28 13:34 UTC — 4 new job(s)
+
+- **Senior Data Scientist** at SunCulture Kenya Ltd (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-data-scientist-sunculture-kenya-ltd-3
+- **AI Automation Specialist** at Solvo Global (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ai-automation-specialist-solvo-global
+- **DATA ANALYST** at Early Hr Consultants (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-analyst-m0mm2r
+- **ICT & Coding Instructor** at StarQode Tech Hub (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ict-instructor-wrmm74
