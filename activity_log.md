@@ -270,3 +270,26 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/digital-e-channels-support-officer-k7mmz8
 - **Private Sector Cooperation Technical Advisor - Digital Outsourcing Jobs for Kenya's Youth (develoPPP)** at GIZ KE (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/private-sector-cooperation-technical-advisor-digital-outsourcing-jobs-for-kenyas-youth-developpp-j6mm06
+
+## 2026-04-28 10:12 UTC — 10 new job(s)
+
+- **Software Developer** at ABC Bank (African Banking Corporation Limited) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/software-developer-abc-bank-african-banking-corporation-limited-1
+- **Network Operations Center (NOC) Engineer** at Gulf African Bank (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/network-operations-center-noc-engineer-gulf-african-bank
+- **Assistant Engineer Water Provision** at County Government of Kisumu (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/assistant-engineer-water-provision-kisumu-county
+- **Assistant Engineer Water Infrastructure** at County Government of Kisumu (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/assistant-engineer-water-infrastructure-kisumu-county
+- **Assistant Sanitation Engineer** at County Government of Kisumu (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/assistant-sanitation-engineer-kisumu-county
+- **Environmental Engineer** at County Government of Kisumu (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/environmental-engineer-kisumu-county
+- **Database Administrator – ICT Department** at ABC Bank (African Banking Corporation Limited) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/database-administrator-ict-department-abc-bank-african-banking-corporation-limited
+- **Senior Officer, Data Analyst and Impact Measurement** at International Federation of Red Cross and Red Crescent Societies (IFRC) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-officer-data-analyst-impact-measurement-international-federation-red-cross-red-crescent-societies-ifrc/
+- **Lab Analyst – Water & Wastewater** at Tatu City Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/lab-analyst-water-wastewater-tatu-city-limited-2/
+- **Data Engineer** at CrossBoundary (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/data-engineer-crossboundary/
