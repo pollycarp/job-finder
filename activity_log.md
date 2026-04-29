@@ -311,3 +311,22 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/junior-ai-developer-nathan-digital-1
 - **Software Developer** at Solvo Global (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/software-developer-solvo-global
+
+## 2026-04-29 06:22 UTC — 8 new job(s)
+
+- **Senior Data Scientist** at SunCulture (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-data-scientist-0kppqk
+- **Asset Finance Manager- Logbook and Asset Financing** at Umba (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/asset-finance-manager-logbook-and-asset-financing-n955r0
+- **Sr. Field Service Engineer** at Veeco (Full Time) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/sr-field-service-engineer-d9rrv5
+- **Senior Azure GenAI Architect** at Sonata Software North America Inc. (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-azure-genai-architect-rr22p4
+- **Associate Director, AI Transformation** at IDinsight (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/associate-director-ai-transformation-z822gv
+- **Postproduction Manager** at WPP Production Chennai (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/postproduction-manager-7jvvn5
+- **Postproduction Manager** at WPP Production (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/postproduction-manager-vdmmnw
+- **NOC Engenieer Tier 3** at Solvo Global (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/noc-engenieer-tier-3-x8dd0n
