@@ -330,3 +330,16 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/postproduction-manager-vdmmnw
 - **NOC Engenieer Tier 3** at Solvo Global (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/noc-engenieer-tier-3-x8dd0n
+
+## 2026-04-29 10:02 UTC — 5 new job(s)
+
+- **AI Orchestration Engineer - Computer Science** at Zetech University (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ai-orchestration-engineer-computer-science-zetech-university
+- **Enterprise / Solution Architecture Lead (Cloud / Platform) - Africa** at KPMG (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/enterprise-solution-architecture-lead-cloud-platform-africa-kpmg
+- **Engineer - IPCC Planning** at Safaricom Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/engineer-ipcc-planning-safaricom-kenya
+- **Executive Operations – Chaingers** at Henkel (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/executive-operations-chaingers-henkel/
+- **Junior AI Developer** at Nathan Digital (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/junior-ai-developer-nathan-digital/
