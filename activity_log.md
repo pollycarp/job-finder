@@ -357,3 +357,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/senior-backend-engineer-hf-group
 - **Quality Assurance Engineer** at HF Group (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/quality-assurance-engineer-hf-group-1
+
+## 2026-04-29 15:56 UTC — 1 new job(s)
+
+- **Chief Engineer** at Acacia Premier Hotel (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/chief-engineer-acacia-premier-hotel
