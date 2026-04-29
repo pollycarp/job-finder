@@ -348,3 +348,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Account Developer - Horeca** at MAL Consultancy (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/account-developer-horeca-mal-consultancy
+
+## 2026-04-29 13:29 UTC — 3 new job(s)
+
+- **Senior Frontend Engineer** at HF Group (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-frontend-engineer-hf-group
+- **Senior Backend Engineer** at HF Group (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-backend-engineer-hf-group
+- **Quality Assurance Engineer** at HF Group (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/quality-assurance-engineer-hf-group-1
