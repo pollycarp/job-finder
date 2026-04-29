@@ -343,3 +343,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/executive-operations-chaingers-henkel/
 - **Junior AI Developer** at Nathan Digital (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/junior-ai-developer-nathan-digital/
+
+## 2026-04-29 11:31 UTC — 1 new job(s)
+
+- **Account Developer - Horeca** at MAL Consultancy (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/account-developer-horeca-mal-consultancy
