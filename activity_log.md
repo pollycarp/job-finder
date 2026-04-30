@@ -399,3 +399,16 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/sustainability-associate-buildings-infrastructure-bureau-veritas-group/
 - **Senior Procurement Officer** at Victory Farms (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/senior-procurement-officer-victory-farms/
+
+## 2026-04-30 13:27 UTC — 5 new job(s)
+
+- **Principal ICT Assistant** at Wildlife Research and Training Institute (WRTI) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/principal-ict-assistant-wildlife-research-and-training-institute-wrti-1
+- **Automation QA Engineer** at Tana (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/automation-qa-engineer-tana/
+- **Senior Manager Retail Digital Solution Analyst & innovation Lead** at NCBA Group (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-manager-retail-digital-solution-analyst-innovation-lead-ncba-group/
+- **Field Service Engineer – Blower Auto** at Sidel (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/field-service-engineer-blower-auto-sidel/
+- **Submit CVs – New Recruitment** at Safaricom Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-safaricom-kenya-6/
