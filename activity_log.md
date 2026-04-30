@@ -385,3 +385,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/sme-business-development-manager-erdn5j
 - **Chief Marketing Officer - Fintech** at Ann and Sons Limited (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/chief-marketing-officer-fintech-7jv85q
+
+## 2026-04-30 10:04 UTC — 1 new job(s)
+
+- **ICT Trainer - 8posts** at Thika Technical Training Institute (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-trainer-8posts-thika-technical-training-institute
