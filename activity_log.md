@@ -362,3 +362,26 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Chief Engineer** at Acacia Premier Hotel (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/chief-engineer-acacia-premier-hotel
+
+## 2026-04-30 06:27 UTC — 10 new job(s)
+
+- **Sustainability Associate B&I** at Bureau Veritas North America (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/sustainability-associate-bi-6q7xk8
+- **REALTY SPECIALIST** at Naval Facilities Engineering Systems Command (NAVFAC) (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/realty-specialist-rr2zz4
+- **Senior Manager GTM Data Analytics & Engineering** at TeamViewer (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-manager-gtm-data-analytics-engineering-9k0m97
+- **Digital Solutions Adoption & Influence Lead (f/m/d) for Germany and Portugal** at Siemens Electronic Systems Design & Manufacturing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/digital-solutions-adoption-influence-lead-fmd-for-germany-and-portugal-5pw645
+- **Account Manager, Inside sales** at Novonesis (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/account-manager-inside-sales-8m0vvn
+- **NOC TECHNICIAN MSP** at Solvo Global (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/noc-technician-msp-8m0vz0
+- **UI/UX Developers (Frontend Engineer)** at In All Media (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/uiux-developers-frontend-engineer-45j4d4
+- **Senior Frontend Engineer - Digital Payments** at PayTech Group (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-frontend-engineer-digital-payments-0kpggj
+- **SME Business Development Manager** at Eskimi (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/sme-business-development-manager-erdn5j
+- **Chief Marketing Officer - Fintech** at Ann and Sons Limited (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/chief-marketing-officer-fintech-7jv85q
