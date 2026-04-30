@@ -390,3 +390,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **ICT Trainer - 8posts** at Thika Technical Training Institute (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/ict-trainer-8posts-thika-technical-training-institute
+
+## 2026-04-30 11:33 UTC — 3 new job(s)
+
+- **Data Analyst M/f** at AGL- Africa Global Logistics (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-analyst-m-f-agl-africa-global-logistics
+- **Sustainability Associate (Buildings & Infrastructure)** at Bureau Veritas Group (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/sustainability-associate-buildings-infrastructure-bureau-veritas-group/
+- **Senior Procurement Officer** at Victory Farms (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-procurement-officer-victory-farms/
