@@ -417,3 +417,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Medior/Senior IOH Platform Team Engineer** at Cigna (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/medior-senior-ioh-platform-team-engineer-cigna/
+
+## 2026-04-30 19:12 UTC — 2 new job(s)
+
+- **IT Systems & Digital Innovation Specialist** at Micato Safaris (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/systems-digital-innovation-specialist-micato-safaris/
+- **ICT Trainer – 8posts** at Thika Technical Training Institute (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/ict-trainer-8posts-thika-technical-training-institute/
