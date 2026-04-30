@@ -412,3 +412,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/field-service-engineer-blower-auto-sidel/
 - **Submit CVs – New Recruitment** at Safaricom Kenya (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-safaricom-kenya-6/
+
+## 2026-04-30 17:14 UTC — 1 new job(s)
+
+- **Medior/Senior IOH Platform Team Engineer** at Cigna (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/medior-senior-ioh-platform-team-engineer-cigna/
