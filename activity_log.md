@@ -619,3 +619,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/head-of-ict-msf-ubuntu-45jn7v
 - **BUSINESS DEVELOPMENT OFFICER (TECHNOLOGICAL SOLUTIONS)** at MSVL Group (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/business-development-officer-technological-solutions-45j8e8
+
+## 2026-05-01 09:31 UTC — 3 new job(s)
+
+- **Full-Stack Platform Engineer** at Social Impact (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/full-stack-platform-engineer-social-impact/
+- **ISP Technician- Mombasa** at Fireside Engineering Group (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/isp-technician-mombasa-fireside-engineering-group/
+- **Principal ICT Assistant** at Wildlife Research and Training Institute (WRTI) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/principal-ict-assistant-wildlife-research-training-institute-wrti/
