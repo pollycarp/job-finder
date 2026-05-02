@@ -658,3 +658,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Lead DevOps Engineer, Foundry RnD** at MasterCard (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/lead-devops-engineer-foundry-rnd-mastercard-2/
+
+## 2026-05-02 10:46 UTC — 2 new job(s)
+
+- **Systems and App Developer** at Victory Farms (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/systems-app-developer-victory-farms/
+- **Junior Developer** at Victory Farms (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/junior-developer-victory-farms/
