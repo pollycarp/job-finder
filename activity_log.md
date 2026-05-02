@@ -628,3 +628,28 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/isp-technician-mombasa-fireside-engineering-group/
 - **Principal ICT Assistant** at Wildlife Research and Training Institute (WRTI) (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/principal-ict-assistant-wildlife-research-training-institute-wrti/
+
+## 2026-05-02 04:57 UTC — 11 new job(s)
+
+- **Data Scientist** at PayTech Group (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-scientist-qzqz2w
+- **Consultant - Senior Data Platform Architect** at Living Goods (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/consultant-senior-data-platform-architect-vdmdwv
+- **UI/UX Designer** at PayTech Group (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/uiux-designer-z828vg
+- **Textile Laboratory Technician** at Mount Kenya University (MKU) (Thika) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/textile-laboratory-technician-d9r992
+- **Lead DevOps Engineer, Foundry RnD** at Mastercard (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/lead-devops-engineer-foundry-rnd-84q4v6-v2
+- **Frontend Engineer (EMEA) - 1938** at In All Media (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/frontend-engineer-emea-1938-qzqz2j
+- **Lecturer - Software Engineering** at KCA University (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/lecturer-software-engineering-z8284g
+- **Senior Lecturer - Software Engineering** at KCA University (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-lecturer-software-engineering-qzqzdw
+- **Site Supervisor** at Vestas Kenya (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/site-supervisor-45j5dp
+- **Director, Member Value & Customer Experience** at The Institute of Certified Public Accountants of Kenya (ICPAK) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/director-member-value-customer-experience-8m0466
+- **IT Support Professional** at Transafrica Motors Limited (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/it-support-professional-45j5np
