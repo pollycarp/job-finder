@@ -665,3 +665,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/systems-app-developer-victory-farms/
 - **Junior Developer** at Victory Farms (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/junior-developer-victory-farms/
+
+## 2026-05-02 14:45 UTC — 1 new job(s)
+
+- **Educators - ICT** at Kiota School (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/educators-ict-kiota-school
