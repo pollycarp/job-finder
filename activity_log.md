@@ -653,3 +653,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/director-member-value-customer-experience-8m0466
 - **IT Support Professional** at Transafrica Motors Limited (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/it-support-professional-45j5np
+
+## 2026-05-02 09:01 UTC — 1 new job(s)
+
+- **Lead DevOps Engineer, Foundry RnD** at MasterCard (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/lead-devops-engineer-foundry-rnd-mastercard-2/
