@@ -681,3 +681,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/associate-professor-software-engineering-pgpg00
 - **Design Engineer** at JASBEL Group (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/design-engineer-j6m6x6
+
+## 2026-05-03 18:48 UTC — 1 new job(s)
+
+- **Associate Full Stack Developer** at Nathan Digital (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/associate-full-stack-developer-nathan-digital
