@@ -670,3 +670,14 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Educators - ICT** at Kiota School (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/educators-ict-kiota-school
+
+## 2026-05-03 05:32 UTC — 4 new job(s)
+
+- **Scrum Master** at PayTech Group (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/scrum-master-rr2r72
+- **Professor - Software Engineering** at KCA University (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/professor-software-engineering-2kzk78
+- **Associate Professor - Software Engineering** at KCA University (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/associate-professor-software-engineering-pgpg00
+- **Design Engineer** at JASBEL Group (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/design-engineer-j6m6x6
