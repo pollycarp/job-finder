@@ -695,3 +695,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/ai-operations-lead-m-kopa-solar/
 - **📊 Join the Data Analysis Team at IHF! 🌍** at International Humanity Foundation (Remote (Work From Home)) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/join-the-data-analysis-team-at-ihf-45j5pm
+
+## 2026-05-04 11:47 UTC — 2 new job(s)
+
+- **ICT Officer** at United Winners Sacco (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-officer-united-winners-sacco
+- **Submit CVs – Latest Recruitment** at United Nations (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-latest-recruitment-united-nations/
