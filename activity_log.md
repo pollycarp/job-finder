@@ -686,3 +686,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Associate Full Stack Developer** at Nathan Digital (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/associate-full-stack-developer-nathan-digital
+
+## 2026-05-04 08:23 UTC — 3 new job(s)
+
+- **AI for Good Research Lab: Internship Opportunities** at Microsoft (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/ai-good-research-lab-internship-opportunities-microsoft/
+- **AI Operations Lead** at M-KOPA Solar (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/ai-operations-lead-m-kopa-solar/
+- **📊 Join the Data Analysis Team at IHF! 🌍** at International Humanity Foundation (Remote (Work From Home)) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/join-the-data-analysis-team-at-ihf-45j5pm
