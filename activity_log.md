@@ -734,3 +734,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **ICT Security & Structured Cabling Technician** at Smoothtel (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/ict-security-structured-cabling-technician-smoothtel
+
+## 2026-05-05 17:20 UTC — 2 new job(s)
+
+- **Software Engineering Trainer** at Mediacrest Training College (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/software-engineering-trainer-mediacrest-training-college-3
+- **Cybersecurity Trainer** at Mediacrest Training College (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/cybersecurity-trainer-mediacrest-training-college-2
