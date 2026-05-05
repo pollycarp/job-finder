@@ -702,3 +702,30 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/ict-officer-united-winners-sacco
 - **Submit CVs – Latest Recruitment** at United Nations (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/submit-cvs-latest-recruitment-united-nations/
+
+## 2026-05-05 05:21 UTC — 12 new job(s)
+
+- **Graduate Assistant in Data Science and Artificial Intelligence** at KCA University (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/graduate-assistant-in-data-science-and-artificial-intelligence-wrmrxd
+- **Graduate Assistant in Software Development** at KCA University (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/graduate-assistant-in-software-development-erdrmd
+- **Junior Developer** at Victory Farms (Outside Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/junior-developer-gm5mrm
+- **Information Systems Auditor** at Kenyatta University (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/information-systems-auditor-k7m7kp
+- **IT Systems & Digital Innovation Specialist** at Micato Safaris (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/it-systems-amp-digital-innovation-specialist-j6m6jg
+- **IT & Systems Officer - Aviation Industry** at Corporate Staffing (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/it-systems-officer-aviation-industry-5pwp6e
+- **Educator - ICT** at Kiota School (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/educator-ict-vdmdvj
+- **ICT TRAINER** at Thika Technical Training Institute- TTTI (Thika) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ict-trainer-vdmd0j
+- **Receptionist (ICT-Skilled Front Office Executive)** at Code Blue Medical Training Institute (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/receptionist-ict-skilled-front-office-executive-gm5mqk
+- **Banking Systems Administrator** at National Bank (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/banking-systems-administrator-qzq2xz
+- **Senior Laboratory Technologist Grade C/D** at Kenyatta University (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-laboratory-technologist-grade-cd-n959km
+- **Technician (Fibre & Wireless)** at Corporate Staffing (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/technician-fibre-wireless-6q7qd4
