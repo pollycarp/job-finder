@@ -729,3 +729,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/senior-laboratory-technologist-grade-cd-n959km
 - **Technician (Fibre & Wireless)** at Corporate Staffing (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/technician-fibre-wireless-6q7qd4
+
+## 2026-05-05 15:35 UTC — 1 new job(s)
+
+- **ICT Security & Structured Cabling Technician** at Smoothtel (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-security-structured-cabling-technician-smoothtel
