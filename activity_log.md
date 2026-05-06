@@ -767,3 +767,16 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/ict-assistant-manager-summit-recruitment-and-search
 - **Full-Stack Developer** at BETIKA (Kenya) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/full-stack-developer-erd95z
+
+## 2026-05-06 11:49 UTC — 5 new job(s)
+
+- **Data Scientist** at Family Bank Ltd (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-scientist-family-bank-ltd-3
+- **Programme ICT Officer** at County Government of Kakamega (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/programme-ict-officer-county-government-of-kakamega
+- **Msp Tier 3 Noc Engineer** at Solvo Global (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/msp-tier-3-noc-engineer-solvo-global/
+- **ICT Security & Structured Cabling Technician** at Smoothtel (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/ict-security-structured-cabling-technician-smoothtel/
+- **Remote LLM Agentic Trainer - Programmer** at Turing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/remote-llm-agentic-trainer-programmer-q2p2gw-v4
