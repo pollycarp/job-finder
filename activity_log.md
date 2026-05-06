@@ -760,3 +760,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/transportation-operations-manager-6q7n7d
 - **Business Development Representative** at OpenClassrooms (Rest of Kenya) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/business-development-representative-pgpgkx
+
+## 2026-05-06 08:14 UTC — 2 new job(s)
+
+- **ICT Assistant Manager** at Summit Recruitment and Search (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-assistant-manager-summit-recruitment-and-search
+- **Full-Stack Developer** at BETIKA (Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/full-stack-developer-erd95z
