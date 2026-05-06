@@ -798,3 +798,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Senior Product Manager – Enterprise Applications** at Equity Bank Kenya (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/senior-product-manager-enterprise-applications-equity-bank-kenya-2/
+
+## 2026-05-06 17:33 UTC — 3 new job(s)
+
+- **Retail Manager** at Flexi-Personnel (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/retail-manager-flexi-personnel/
+- **Head of IAM Identity Lifecycle** at Standard Chartered Bank Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/head-iam-identity-lifecycle-standard-chartered-bank-kenya/
+- **IT Associate** at TechnoServe Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/associate-technoserve-kenya-2/
