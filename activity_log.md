@@ -780,3 +780,16 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/ict-security-structured-cabling-technician-smoothtel/
 - **Remote LLM Agentic Trainer - Programmer** at Turing (Rest of Kenya) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/remote-llm-agentic-trainer-programmer-q2p2gw-v4
+
+## 2026-05-06 13:36 UTC — 5 new job(s)
+
+- **Business Analyst** at Rare Carat (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/business-analyst-wrmgrm
+- **AI Evaluation Engineer (Knowledge & Research)** at Gramian Consulting (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ai-evaluation-engineer-knowledge-research-0kpnkd
+- **Ship Load Planner** at Amentum (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ship-load-planner-gm5pw4
+- **Sight and Sound Supervisor** at Amentum (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/sight-and-sound-supervisor-45j0n8
+- **Patch Management Engineer** at Andishi (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/patch-management-engineer-8m0pmr
