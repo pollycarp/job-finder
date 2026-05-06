@@ -741,3 +741,22 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/software-engineering-trainer-mediacrest-training-college-3
 - **Cybersecurity Trainer** at Mediacrest Training College (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/cybersecurity-trainer-mediacrest-training-college-2
+
+## 2026-05-06 05:33 UTC — 8 new job(s)
+
+- **Human Resources Analyst - NPSA 8** at UN Women (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/human-resources-analyst-npsa-8-qzq944
+- **Architect** at Sonata Software North America Inc. (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/architect-7jvpvj
+- **Tooling & Automation Lead-Africa** at KPMG Africa (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/tooling-automation-lead-africa-k7mp5x
+- **GM - Construction & Interior Fit Out projects** at Achyutam International - Consulting in HR & Finance (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/gm-construction-interior-fit-out-projects-x8dg68
+- **L2 Desktop Engineer (Backfill) – Nairobi, Kenya** at ZENOTECH COMPUTERS (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/l2-desktop-engineer-backfill-nairobi-kenya-45j0d8
+- **RMS Operator** at NETIS Group (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/rms-operator-z82z2d
+- **Transportation Operations Manager** at TWYFORD INTERNATIONAL (Kenya) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/transportation-operations-manager-6q7n7d
+- **Business Development Representative** at OpenClassrooms (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/business-development-representative-pgpgkx
