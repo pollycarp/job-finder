@@ -793,3 +793,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/sight-and-sound-supervisor-45j0n8
 - **Patch Management Engineer** at Andishi (Rest of Kenya) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/patch-management-engineer-8m0pmr
+
+## 2026-05-06 16:03 UTC — 1 new job(s)
+
+- **Senior Product Manager – Enterprise Applications** at Equity Bank Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-product-manager-enterprise-applications-equity-bank-kenya-2/
