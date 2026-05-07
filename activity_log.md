@@ -836,3 +836,24 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/full-stack-developer-qzq95k
 - **Junior Development Intern** at We Identify Africa (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/junior-development-intern-0kpnnd
+
+## 2026-05-07 10:20 UTC — 9 new job(s)
+
+- **ICT Supervisor** at Medecins Sans Frontieres (MSF) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-supervisor-medecins-sans-frontieres-msf-2
+- **Assistant Manager, ICT Governance & Assurance** at I&M Bank (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/assistant-manager-ict-governance-assurance-i-m-bank
+- **ICT Teacher** at Nairobi International School (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-teacher-nairobi-international-school-2
+- **Acca Part-time Trainers** at Institute of Advanced Technology Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/acca-part-time-trainers-institute-advanced-technology-limited/
+- **Technical Services Engineer (Systems/Reliability)** at Jambojet (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/technical-services-engineer-systems-reliability-jambojet/
+- **Submit CVs – Latest Recruitment** at GiveDirectly (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-latest-recruitment-givedirectly/
+- **Cyber Security Specialist** at Absa Bank Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/cyber-security-specialist-absa-bank-limited/
+- **Safety Inspector** at Amentum (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/safety-inspector-0kpndm
+- **Ground Cargo / Freight Supervisor** at Amentum (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ground-cargo-freight-supervisor-45j075
