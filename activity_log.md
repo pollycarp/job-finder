@@ -857,3 +857,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/safety-inspector-0kpndm
 - **Ground Cargo / Freight Supervisor** at Amentum (Rest of Kenya) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/ground-cargo-freight-supervisor-45j075
+
+## 2026-05-07 13:35 UTC — 1 new job(s)
+
+- **Spatial Data Analyst** at UN-Habitat (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/spatial-data-analyst-un-habitat-4
