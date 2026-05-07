@@ -807,3 +807,32 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/head-iam-identity-lifecycle-standard-chartered-bank-kenya/
 - **IT Associate** at TechnoServe Kenya (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/associate-technoserve-kenya-2/
+
+## 2026-05-07 06:36 UTC — 13 new job(s)
+
+- **Senior Software Engineer (Remote)** at GiveDirectly (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-software-engineer-remote-givedirectly
+- **Testing and Repairs Officer** at SunCulture Kenya Ltd (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/testing-repairs-officer-sunculture-kenya-ltd-4/
+- **Remote ML Engineer - 60735** at Turing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/remote-ml-engineer-60735-xp4pqz-v4
+- **Remote C# Developer** at Turing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/remote-c-developer-vwnwxp-v3
+- **Remote Software Engineer (Go/Golang)** at Turing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/remote-software-engineer-gogolang-nprpq0-v3
+- **Remote Software Engineer (Rust)** at Turing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/remote-software-engineer-rust-4ner72-v3
+- **Legal Research Associate (Legal Intelligence)** at wansom.ai (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/legal-research-associate-legal-intelligence-erd9xv
+- **Dotnet Senior Developer** at Sonata Software North America Inc. (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/dotnet-senior-developer-8m0pkr
+- **Senior Full-Stack Engineer** at Palta (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-full-stack-engineer-8m0p9r
+- **AI Operations Specialist, Trilogy (Remote) - $200,000/year USD** at Crossover (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ai-operations-specialist-trilogy-remote-200000year-usd-9jp527-v1
+- **Head of IAM Identity Lifecycle** at Standard Chartered (Full Time) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/head-of-iam-identity-lifecycle-6q7nvn
+- **Full Stack Developer** at We Identify Africa (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/full-stack-developer-qzq95k
+- **Junior Development Intern** at We Identify Africa (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/junior-development-intern-0kpnnd
