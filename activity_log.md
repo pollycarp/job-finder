@@ -862,3 +862,24 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Spatial Data Analyst** at UN-Habitat (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/spatial-data-analyst-un-habitat-4
+
+## 2026-05-08 05:57 UTC — 9 new job(s)
+
+- **End User Services – Digital Workplace Security Engineer** at NTT DATA, Inc. (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/end-user-services-digital-workplace-security-engineer-pmk4kp-v1
+- **Operations Manager** at Essential (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/operations-manager-9k0520
+- **IT Technical Support Engineer** at NTT DATA, Inc. (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/it-technical-support-engineer-9k0560
+- **Senior .NET/Platform Engineer** at Andishi (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-netplatform-engineer-qzq987
+- **Sales Engineer** at Trimble Inc. (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/sales-engineer-k7mpv2
+- **Tech Sales Executive - Kenya** at BagginsHQ (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/tech-sales-executive-kenya-gw22v2-v1
+- **EcoStruxure IT - Enterprise Account Manager** at Schneider Electric (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ecostruxure-it-enterprise-account-manager-x8dg9w
+- **Senior Automation QA Engineer** at AllCares (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-automation-qa-engineer-j6mpdw
+- **Cyber Security Specialist** at Absa Group (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/cyber-security-specialist-2kz7n2
