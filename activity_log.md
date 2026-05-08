@@ -897,3 +897,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/data-engineer-international-rescue-committee-3/
 - **Submit CVs – Latest Recruitment** at NTT Ltd (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/submit-cvs-latest-recruitment-ntt-ltd/
+
+## 2026-05-08 13:15 UTC — 1 new job(s)
+
+- **Member Association Support Director** at SOS Children’s Villages (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/member-association-support-director-sos-childrens-villages/
