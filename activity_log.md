@@ -890,3 +890,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/assistant-research-officer-epidemiologist-data-analyst-nairobi-kemya-medical-research-kemri
 - **ICT Officer** at North Coast Medical Training College (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/ict-officer-north-coast-medical-training-college
+
+## 2026-05-08 09:12 UTC — 2 new job(s)
+
+- **Data Engineer** at International Rescue Committee (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/data-engineer-international-rescue-committee-3/
+- **Submit CVs – Latest Recruitment** at NTT Ltd (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-latest-recruitment-ntt-ltd/
