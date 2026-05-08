@@ -883,3 +883,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/senior-automation-qa-engineer-j6mpdw
 - **Cyber Security Specialist** at Absa Group (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/cyber-security-specialist-2kz7n2
+
+## 2026-05-08 07:23 UTC — 2 new job(s)
+
+- **Assistant Research Officer – Epidemiologist/Data Analyst Nairobi** at Kenya Medical Research - KEMRI (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/assistant-research-officer-epidemiologist-data-analyst-nairobi-kemya-medical-research-kemri
+- **ICT Officer** at North Coast Medical Training College (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-officer-north-coast-medical-training-college
