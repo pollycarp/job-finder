@@ -902,3 +902,14 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Member Association Support Director** at SOS Children’s Villages (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/member-association-support-director-sos-childrens-villages/
+
+## 2026-05-09 09:14 UTC — 4 new job(s)
+
+- **Data Analyst (Global Data Hub)** at SOS Children's Villages (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-analyst-global-data-hub-sos-children-s-villages
+- **Electrician, Engineering and Technology** at Accurex Leadership and Management Consultants Ltd (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/electrician-engineering-technology-accurex-leadership-management-consultants-ltd/
+- **Public Works Director / Chief Engineer** at Amentum (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/public-works-director-chief-engineer-d9r05g
+- **Visual/Photographic Services Supervisor** at Amentum (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/visualphotographic-services-supervisor-qzq9pz
