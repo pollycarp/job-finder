@@ -913,3 +913,44 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/public-works-director-chief-engineer-d9r05g
 - **Visual/Photographic Services Supervisor** at Amentum (Rest of Kenya) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/visualphotographic-services-supervisor-qzq9pz
+
+## 2026-05-10 06:34 UTC — 19 new job(s)
+
+- **Expert Research Scientist on Polyfunctional Robot Perception & AI** at Siemens Electronic Systems Design & Manufacturing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/expert-research-scientist-on-polyfunctional-robot-perception-ai-8m0kvp
+- **Principal Scientist** at Siemens Electronic Systems Design & Manufacturing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/principal-scientist-5pwrw0
+- **Expert Research Scientist on Polyfunctional Robot Embedded Systems** at Siemens Electronic Systems Design & Manufacturing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/expert-research-scientist-on-polyfunctional-robot-embedded-systems-m0mvrm
+- **Regional Sales Manager - North-East and Yorkshire** at Siemens Electronic Systems Design & Manufacturing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/regional-sales-manager-north-east-and-yorkshire-k7m6mv
+- **Senior CT Product & Clinical Support Application Specialist** at Siemens Electronic Systems Design & Manufacturing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-ct-product-clinical-support-application-specialist-7jvxvn
+- **Finance Manager - FinAgra KE** at FinAgra KE Limited (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/finance-manager-finagra-ke-x8dwdq
+- **Production Shift Coordinator** at Mars (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/production-shift-coordinator-qzqwqz
+- **Farm Operations Manager - Rain-Fed Division** at FinAgra KE Limited (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/farm-operations-manager-rain-fed-division-8m0kz6
+- **Agronomist - Rain-Fed Operations** at FinAgra KE Limited (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/agronomist-rain-fed-operations-2kz8rk
+- **Senior Advisor / Software Developer / Web Application Developer** at SOS Children's Villages International (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-advisor-software-developer-web-application-developer-6q7rxz
+- **Health Officer (working as Women’s health recruitment consultant)** at CloserMed (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/health-officer-working-as-womens-health-recruitment-consultant-vdm9mm
+- **Public Health Officer (working as Women’s health recruitment consultant)** at CloserMed (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/public-health-officer-working-as-womens-health-recruitment-consultant-wrmnmp
+- **Solution Verification Engineer - Cranes** at Siemens Electronic Systems Design & Manufacturing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/solution-verification-engineer-cranes-rr26zj
+- **Senior Applications Engineer - Emulation** at Siemens Electronic Systems Design & Manufacturing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-applications-engineer-emulation-rr26zg
+- **Technical Librarian (Facilities)** at Amentum (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/technical-librarian-facilities-vdm945
+- **Senior Manager, M&A Strategist (Inorganic Strategy) - US** at Siemens Electronic Systems Design & Manufacturing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-manager-ma-strategist-inorganic-strategy-us-pgpnwm
+- **Grounds Crew Leader** at Amentum (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/grounds-crew-leader-45jr4r
+- **Head of Sales** at CloudPlexo (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/head-of-sales-vdm94m
+- **Senior Finance HR and Admin Officer - Kobby Technologies** at Kobby Technologies (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-finance-hr-and-admin-officer-kobby-technologies-9k0rm8
