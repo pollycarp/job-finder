@@ -991,3 +991,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/pre-sales-engineer-gebaudesicherheit-80-100-7jvxwm
 - **Senior Security Analyst/Expert (m/f/d) Product CERT** at Siemens Electronic Systems Design & Manufacturing (Rest of Kenya) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/senior-security-analystexpert-mfd-product-cert-6q7rkz
+
+## 2026-05-11 10:59 UTC — 3 new job(s)
+
+- **Submit CVs – New Recruitment** at KCB Bank Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-kcb-bank-kenya-24/
+- **DATA ANALYST NOBEL LENDING** at Early Hr Consultants (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-analyst-nobel-lending-z82rzg
+- **Finance Analyst** at Solar Panda Kenya Ltd (Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/finance-analyst-8m0kp9
