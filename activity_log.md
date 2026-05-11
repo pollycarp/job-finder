@@ -1000,3 +1000,14 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/data-analyst-nobel-lending-z82rzg
 - **Finance Analyst** at Solar Panda Kenya Ltd (Kenya) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/finance-analyst-8m0kp9
+
+## 2026-05-11 17:56 UTC — 4 new job(s)
+
+- **Dean - School of ICT, Media & Engineering** at Zetech University (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/dean-school-of-ict-media-engineering-zetech-university-1
+- **Applications Analyst** at CDL Human Resource (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/applications-analyst-cdl-human-resource-2/
+- **Manager, Reconciliations** at Standard Bank Group (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/manager-reconciliations-standard-bank-group/
+- **Submit CVs – Latest Recruitment** at Co-operative Bank of Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-latest-recruitment-co-operative-bank-kenya-2/
