@@ -954,3 +954,40 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/head-of-sales-vdm94m
 - **Senior Finance HR and Admin Officer - Kobby Technologies** at Kobby Technologies (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/senior-finance-hr-and-admin-officer-kobby-technologies-9k0rm8
+
+## 2026-05-11 07:04 UTC — 17 new job(s)
+
+- **Data Analyst (Global Data Hub)** at SOS Children’s Villages (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/data-analyst-global-data-hub-sos-childrens-villages/
+- **Business Analyst D365 Finance and Operations** at SOS Children’s Villages (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/business-analyst-d365-finance-operations-sos-childrens-villages/
+- **Assistant Wellsite Drilling Fluids Engineer** at Baker Hughes (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/assistant-wellsite-drilling-fluids-engineer-baker-hughes/
+- **Senior Advisor / Software Developer / Web Application Developer** at SOS Children’s Villages (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-advisor-software-developer-web-application-developer-sos-childrens-villages/
+- **Team Leader - Field Service** at Siemens Electronic Systems Design & Manufacturing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/team-leader-field-service-n950xv
+- **Operations Analyst, People & Performance** at Crimson Education (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/operations-analyst-people-performance-vdm9d5
+- **Expert Research Scientist on Polyfunctional Robot Mechatronics System** at Siemens Electronic Systems Design & Manufacturing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/expert-research-scientist-on-polyfunctional-robot-mechatronics-system-vdm9w5
+- **Expert Engineer on Polyfunctional Robot System Integration** at Siemens Electronic Systems Design & Manufacturing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/expert-engineer-on-polyfunctional-robot-system-integration-6q7rdz
+- **Student Intern-Marine2** at Siemens Electronic Systems Design & Manufacturing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/student-intern-marine2-0kp8wx
+- **Strategic Student Program (SSP) - IT Local Support Intern** at Siemens Electronic Systems Design & Manufacturing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/strategic-student-program-ssp-it-local-support-intern-x8dw24
+- **Applications Engineer - FPGA Prototyping** at Siemens Electronic Systems Design & Manufacturing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/applications-engineer-fpga-prototyping-d9rd70
+- **Field Service Engineer** at Siemens Electronic Systems Design & Manufacturing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/field-service-engineer-8m0k56
+- **Building Automation Systems Specialist** at Siemens Electronic Systems Design & Manufacturing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/building-automation-systems-specialist-45jrnz
+- **Jake's Place Manager** at Amentum (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/jakes-place-manager-0kp8nw
+- **Solution Consultant – SherpaX 3S for Salesforce CLM (RCA/ARM) (m/f/d)** at Siemens Electronic Systems Design & Manufacturing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/solution-consultant-sherpax-3s-for-salesforce-clm-rcaarm-mfd-qzqw2e
+- **Pre-Sales Engineer Gebäudesicherheit 80-100%** at Siemens Electronic Systems Design & Manufacturing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/pre-sales-engineer-gebaudesicherheit-80-100-7jvxwm
+- **Senior Security Analyst/Expert (m/f/d) Product CERT** at Siemens Electronic Systems Design & Manufacturing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-security-analystexpert-mfd-product-cert-6q7rkz
