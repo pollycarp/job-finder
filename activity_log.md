@@ -1073,3 +1073,14 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/cyber-security-analyst-devsecops-stratostaff/
 - **QUANTITY SURVEYOR** at CSZ DECORATION LIMITED (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/quantity-surveyor-x8dw9j
+
+## 2026-05-12 16:22 UTC — 4 new job(s)
+
+- **Senior Software Engineer (Tech Lead)** at Zeraki (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-software-engineer-tech-lead-zeraki
+- **Head of ICT** at AA Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/head-of-ict-aa-kenya-1
+- **ICT Officer – Grade Ncpd 6 One (1) Post** at National Council for Population and Development (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-officer-grade-ncpd-6-one-1-post-national-council-for-population-and-development
+- **Dean – School of ICT, Media & Engineering** at Zetech University (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/dean-school-ict-media-engineering-zetech-university/
