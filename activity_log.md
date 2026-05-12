@@ -1060,3 +1060,16 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/executive-secretarysenior-office-administrator-ref-no-kotdahr1262026-45jr7e
 - **Chief Manager, Corporate Research & Strategy Ref No: KoTDA/HR125/2026** at Konza Technopolis Development Authority- KoTDA (Rest of Kenya) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/chief-manager-corporate-research-strategy-ref-no-kotdahr1252026-5pwr8g
+
+## 2026-05-12 14:01 UTC — 5 new job(s)
+
+- **ICT Manager-Business Systems & Applications** at Consolidated Bank of Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-manager-business-systems-applications-consolidated-bank-of-kenya
+- **ICT Officer -Business Systems & Applications** at Consolidated Bank of Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-officer-business-systems-applications-consolidated-bank-of-kenya
+- **Water Engineer — Non-Revenue Water (NRW) Management** at Malindi Water and Sewerage Company (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/water-engineer-non-revenue-water-nrw-management-malindi-water-sewerage-company/
+- **Cyber Security Analyst (DevSecOps)** at Stratostaff (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/cyber-security-analyst-devsecops-stratostaff/
+- **QUANTITY SURVEYOR** at CSZ DECORATION LIMITED (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/quantity-surveyor-x8dw9j
