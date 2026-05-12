@@ -1011,3 +1011,52 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/manager-reconciliations-standard-bank-group/
 - **Submit CVs – Latest Recruitment** at Co-operative Bank of Kenya (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/submit-cvs-latest-recruitment-co-operative-bank-kenya-2/
+
+## 2026-05-12 10:30 UTC — 23 new job(s)
+
+- **Principal Ict Officer- Job Grade Cue 4** at Commission for University Education (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/principal-ict-officer-job-grade-cue-4-commission-for-university-education
+- **Senior Ict Assistant- Job Grade Cue 7** at Commission for University Education (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-ict-assistant-job-grade-cue-7-commission-for-university-education
+- **Information Communication Technology (ICT) Officer II** at Water Resources Authority (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/information-communication-technology-ict-officer-ii-water-resources-authority
+- **Information Communication Technology (ICT) Assistant III - 2 Posts** at Water Resources Authority (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/information-communication-technology-ict-assistant-iii-2-posts-water-resources-authority
+- **Senior React Developer** at Rainforest Alliance (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-react-developer-rainforest-alliance/
+- **Senior .Net Developer** at Rainforest Alliance (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-net-developer-rainforest-alliance/
+- **Business Intelligence Analyst** at SENRI Ltd. (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/business-intelligence-analyst-6q7r44
+- **Business Analyst D365 Finance and Operations** at SOS Children's Villages (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/business-analyst-d365-finance-and-operations-k7m6v8
+- **Remote ML Engineer - 60735** at Turing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/remote-ml-engineer-60735-xp4pqz-v5
+- **Data Architect – AI Enablement** at Co-operative Bank of Kenya (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-architect-ai-enablement-wrmnj4
+- **Solutions Architect – AI Enablement** at Co-operative Bank of Kenya (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/solutions-architect-ai-enablement-7jvx9d
+- **Production Order Planner** at Siemens Electronic Systems Design & Manufacturing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/production-order-planner-k7m6q8
+- **Farm Operations Manager - Rain-Fed Division** at FinAgra KE Limited (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/farm-operations-manager-rain-fed-division-5pwr4r
+- **Agronomist - Rain-Fed Operations** at FinAgra KE Limited (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/agronomist-rain-fed-operations-0kp8gx
+- **Staff Protocol Engineer** at Jobgether (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/staff-protocol-engineer-j6m5w6
+- **Product Manager – AI Enablement** at Co-operative Bank of Kenya (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/product-manager-ai-enablement-6q7rm4
+- **Remote C# Developer** at Turing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/remote-c-developer-vwnwxp-v4
+- **Remote Software Engineer (Go/Golang)** at Turing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/remote-software-engineer-gogolang-nprpq0-v4
+- **Remote Software Engineer (Rust)** at Turing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/remote-software-engineer-rust-4ner72-v4
+- **Structural Graduate Engineer** at AG&E (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/structural-graduate-engineer-gm54j9
+- **Renewals Specialist - MEA (Arabic Speaker)** at DailyOSINT (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/renewals-specialist-mea-arabic-speaker-2kz8n8
+- **Executive Secretary/Senior Office Administrator Ref No: KoTDA/HR126/2026** at Konza Technopolis Development Authority- KoTDA (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/executive-secretarysenior-office-administrator-ref-no-kotdahr1262026-45jr7e
+- **Chief Manager, Corporate Research & Strategy Ref No: KoTDA/HR125/2026** at Konza Technopolis Development Authority- KoTDA (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/chief-manager-corporate-research-strategy-ref-no-kotdahr1252026-5pwr8g
