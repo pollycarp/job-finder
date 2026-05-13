@@ -1121,3 +1121,18 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/senior-net-developer-vdm97w
 - **Cyber Security Analyst (DevSecOps) - 1-Year Fixed Term Contract** at Cleave global e services (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/cyber-security-analyst-devsecops-1-year-fixed-term-contract-9k0re5
+
+## 2026-05-13 10:20 UTC — 6 new job(s)
+
+- **Part-Time - Software Engineering** at Mama Ngina University College (MNUC) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/part-time-software-engineering-mama-ngina-university-college-mnuc
+- **Automation Engineer (Manual Testing Focus)** at Tezza Business Solutions Ltd (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/automation-engineer-manual-testing-focus-tezza-business-solutions-ltd/
+- **Senior Software Engineer (Tech Lead)** at Zeraki (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-software-engineer-tech-lead-zeraki/
+- **Business Intelligence Analyst** at Absa Bank Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/business-intelligence-analyst-absa-bank-limited-3/
+- **Submit CVs – Employment Opportunities** at Consolidated Bank of Kenya (12 Positions) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-employment-opportunities-consolidated-bank-kenya-12-positions/
+- **Head of ICT** at AA Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/head-ict-aa-kenya/
