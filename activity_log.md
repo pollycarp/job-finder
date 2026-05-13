@@ -1136,3 +1136,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/submit-cvs-employment-opportunities-consolidated-bank-kenya-12-positions/
 - **Head of ICT** at AA Kenya (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/head-ict-aa-kenya/
+
+## 2026-05-13 19:47 UTC — 3 new job(s)
+
+- **Senior Technical Support Engineer** at NTT Ltd (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-technical-support-engineer-ntt-ltd/
+- **Senior Full Stack Engineer – Python| Frontend (Angular/React) – ()** at Equity Bank Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-full-stack-engineer-python-frontend-angular-react-equity-bank-kenya/
+- **Senior Full Stack Engineer (Java| Mobile)** at Equity Bank Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-full-stack-engineer-java-mobile-equity-bank-kenya/
