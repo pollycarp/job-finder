@@ -1145,3 +1145,14 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/senior-full-stack-engineer-python-frontend-angular-react-equity-bank-kenya/
 - **Senior Full Stack Engineer (Java| Mobile)** at Equity Bank Kenya (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/senior-full-stack-engineer-java-mobile-equity-bank-kenya/
+
+## 2026-05-13 21:25 UTC — 4 new job(s)
+
+- **Licensed Surveyor** at Amentum (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/licensed-surveyor-gm542m
+- **Graphic Artist** at Amentum (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/graphic-artist-pgpnkj
+- **NGIS General Manager** at Amentum (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ngis-general-manager-k7m69p
+- **ifiX Trainees Liaison Job** at ifiX Technical Institute (Thika) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ifix-trainees-liaison-job-9k0rq5
