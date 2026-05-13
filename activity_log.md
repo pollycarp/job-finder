@@ -1084,3 +1084,40 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/ict-officer-grade-ncpd-6-one-1-post-national-council-for-population-and-development
 - **Dean – School of ICT, Media & Engineering** at Zetech University (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/dean-school-ict-media-engineering-zetech-university/
+
+## 2026-05-13 06:48 UTC — 17 new job(s)
+
+- **Lead AI Automation Engineer** at M-KOPA Solar (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/lead-ai-automation-engineer-m-kopa-solar
+- **Project Manager** at Palta (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/project-manager-erdp0d
+- **Cybersecurity Professional - Senior Identity & Access Management (IAM) Expert (f/m/d)** at Siemens Electronic Systems Design & Manufacturing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/cybersecurity-professional-senior-identity-access-management-iam-expert-fmd-rr26p4
+- **Maintenance Engineer** at Siemens Electronic Systems Design & Manufacturing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/maintenance-engineer-pgpnvv
+- **Lead AI Automation Engineer** at M-KOPA (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/lead-ai-automation-engineer-rr2694
+- **Math Experts for AI Training** at Gramian Consulting (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/math-experts-for-ai-training-z82r9v
+- **SEO /SEM Specialist** at Odixcity Consulting (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/seo-sem-specialist-gm54er
+- **Telecom Solutions Architect** at Jobgether (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/telecom-solutions-architect-x8dw0n
+- **Country & Investment Manager** at BFREE (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/country-investment-manager-x8dw7n
+- **Senior Full Stack Engineer - Python| Frontend (Angular/React)** at Equity Bank Limited (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-full-stack-engineer-python-frontend-angularreact-45jrvm
+- **Sight and Sound Supervisor** at Amentum (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/sight-and-sound-supervisor-45j0n8-v1
+- **Solar PV Instructor** at Siemens Electronic Systems Design & Manufacturing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/solar-pv-instructor-k7m6jz
+- **SALES OFFICER - Business Development & Account Growth** at BCE Systems, Ltd. (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/sales-officer-business-development-account-growth-rr26e4
+- **Sales Officer** at BCE Systems, Ltd. (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/sales-officer-45jrzm
+- **Healthcare EDI developer** at Andishi (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/healthcare-edi-developer-n95060
+- **Senior .Net Developer** at Rainforest Alliance (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-net-developer-vdm97w
+- **Cyber Security Analyst (DevSecOps) - 1-Year Fixed Term Contract** at Cleave global e services (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/cyber-security-analyst-devsecops-1-year-fixed-term-contract-9k0re5
