@@ -1168,3 +1168,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/head-of-ict-projects-africa-management-solutions-limited-amsol
 - **Engineer Cyber Security Assurance** at NCBA Group (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/engineer-cyber-security-assurance-ncba-group/
+
+## 2026-05-14 13:51 UTC — 2 new job(s)
+
+- **Security Foreman** at Victory Farms (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/security-foreman-victory-farms/
+- **Data Scientist** at Anonymous Employer (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-scientist-5pwz96
