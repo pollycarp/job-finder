@@ -1161,3 +1161,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Data Scientist (AI-Native) — Growth & Credit** at Umba (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/data-scientist-ai-native-growth-credit-umba
+
+## 2026-05-14 10:11 UTC — 2 new job(s)
+
+- **Head of ICT & Projects** at Africa Management Solutions Limited (AMSOL) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/head-of-ict-projects-africa-management-solutions-limited-amsol
+- **Engineer Cyber Security Assurance** at NCBA Group (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/engineer-cyber-security-assurance-ncba-group/
