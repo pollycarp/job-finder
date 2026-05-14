@@ -1156,3 +1156,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/ngis-general-manager-k7m69p
 - **ifiX Trainees Liaison Job** at ifiX Technical Institute (Thika) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/ifix-trainees-liaison-job-9k0rq5
+
+## 2026-05-14 06:45 UTC — 1 new job(s)
+
+- **Data Scientist (AI-Native) — Growth & Credit** at Umba (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-scientist-ai-native-growth-credit-umba
