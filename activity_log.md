@@ -1175,3 +1175,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/security-foreman-victory-farms/
 - **Data Scientist** at Anonymous Employer (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/data-scientist-5pwz96
+
+## 2026-05-14 19:33 UTC — 1 new job(s)
+
+- **Submit CVs – Latest Recruitment** at Africa Management Solutions Limited (AMSOL) – (10 Positions) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-latest-recruitment-at-africa-management-solutions-limited-amsol-10-positions/
