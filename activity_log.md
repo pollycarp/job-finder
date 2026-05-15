@@ -1180,3 +1180,40 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Submit CVs – Latest Recruitment** at Africa Management Solutions Limited (AMSOL) – (10 Positions) (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/submit-cvs-latest-recruitment-at-africa-management-solutions-limited-amsol-10-positions/
+
+## 2026-05-15 06:58 UTC — 17 new job(s)
+
+- **KTP Associate, Engineering (ENG250R)** at Society for Energy Transition (Full Time) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ktp-associate-engineering-eng250r-vdmkk8
+- **MANAGEMENT AND PROGRAM ANALYST** at Naval Facilities Engineering Systems Command (NAVFAC) (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/management-and-program-analyst-d9r22j
+- **Opportunity for LoanIQ Techno functional BA-Chennai** at Atyeti Inc (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/opportunity-for-loaniq-techno-functional-ba-chennai-2kzw8d
+- **[Entry Level] Software Tester (2605-2)** at JND Inc. (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/entry-level-software-tester-2605-2-pgpj82
+- **[Entry Level] Software Tester / Field Tester (2605-2)** at JND Inc. (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/entry-level-software-tester-field-tester-2605-2-qzq564
+- **Head of SME Business** at Umba (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/head-of-sme-business-84q7qr-v2
+- **Engineering Design Specialist - 72123** at Turing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/engineering-design-specialist-72123-zpg96n-v1
+- **Remote Ruby Engineer** at Turing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/remote-ruby-engineer-xp42r0-v3
+- **Dotnet Developer-ERP** at Sonata Software North America Inc. (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/dotnet-developer-erp-rr2jj8
+- **Chemistry Experts - AI Training** at Gramian Consulting (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/chemistry-experts-ai-training-wrmknm
+- **Physics Experts for AI Training** at Gramian Consulting (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/physics-experts-for-ai-training-rr2j58
+- **Chief of Staff** at Apollo Agriculture (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/chief-of-staff-qzq5w4
+- **Data Engineer** at Ezra (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-engineer-8m09kz
+- **[Entry Level] Network QA Engineer - Cell Phone Network Field Testing (2605-2)** at JND Inc. (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/entry-level-network-qa-engineer-cell-phone-network-field-testing-2605-2-8m09gz
+- **UICAP Mapping Technician** at Amentum (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/uicap-mapping-technician-m0mjn6
+- **Safety Inspector** at Amentum (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/safety-inspector-0kpndm-v1
+- **RETENTION AGENT - SAFARICOM** at Smollan (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/retention-agent-safaricom-5pwzv2
