@@ -1224,3 +1224,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/data-analyst-associate-chancen-international
 - **Full Stack Engineer** at Absa Bank Limited (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/full-stack-engineer-absa-bank-limited/
+
+## 2026-05-15 16:02 UTC — 2 new job(s)
+
+- **DevOps Engineer** at 4G Capital (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/devops-engineer-4g-capital
+- **ICT Teacher** at Makini High School (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-teacher-makini-high-school-1
