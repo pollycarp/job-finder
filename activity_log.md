@@ -1217,3 +1217,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/safety-inspector-0kpndm-v1
 - **RETENTION AGENT - SAFARICOM** at Smollan (Rest of Kenya) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/retention-agent-safaricom-5pwzv2
+
+## 2026-05-15 10:19 UTC — 2 new job(s)
+
+- **Data Analyst Associate** at Chancen International (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-analyst-associate-chancen-international
+- **Full Stack Engineer** at Absa Bank Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/full-stack-engineer-absa-bank-limited/
