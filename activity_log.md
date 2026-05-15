@@ -1231,3 +1231,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/devops-engineer-4g-capital
 - **ICT Teacher** at Makini High School (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/ict-teacher-makini-high-school-1
+
+## 2026-05-15 22:50 UTC — 1 new job(s)
+
+- **Ship Store Cashier** at Amentum (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ship-store-cashier-pgpj5p
