@@ -1265,3 +1265,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/computer-science-domain-experts-remote-j6mx9v
 - **Monitoring & Evaluation Specialist (CLAP)** at GIZ KE (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/monitoring-evaluation-specialist-clap-vdmk0k
+
+## 2026-05-16 09:28 UTC — 1 new job(s)
+
+- **Intern Data Analyst** at Palladium International (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/intern-data-analyst-palladium-international-2
