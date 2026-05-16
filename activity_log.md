@@ -1236,3 +1236,32 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Ship Store Cashier** at Amentum (Rest of Kenya) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/ship-store-cashier-pgpj5p
+
+## 2026-05-16 06:21 UTC — 13 new job(s)
+
+- **Data Analyst Associate** at Chancen International (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-analyst-associate-wrmkx5
+- **Intern Data Analyst** at Palladium: Make It Possible (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/intern-data-analyst-z82jw8
+- **Senior Android Engineer** at Jobgether (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-android-engineer-8m09rr
+- **Junior Advisor – Switch2/ ODS Destruction. (ETCC)** at GIZ KE (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/junior-advisor-switch2-ods-destruction-etcc-z82jq8
+- **DevSecOps Engineer (India/Malaysia)** at Standard Chartered (Full Time) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/devsecops-engineer-indiamalaysia-d9r2qw
+- **Consultant Graphic Designer** at WPP Production Chennai (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/consultant-graphic-designer-9k0nzw
+- **Engineer Consultant** at Q2IMPACT (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/engineer-consultant-rr2jwx
+- **Chemical Engineer | Remote** at Crossing Hurdles (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/chemical-engineer-remote-5pwzkn
+- **Sensor Payload Operator/Technician** at TSC (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/sensor-payload-operatortechnician-pgpj4q
+- **Consultant – Website Optimization and Content Migration** at ReliefWeb (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/consultant-website-optimization-and-content-migration-wrmk95
+- **Head of Sales** at CloudPlexo (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/head-of-sales-vdm94m-v1
+- **Computer Science Domain Experts | Remote** at Crossing Hurdles (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/computer-science-domain-experts-remote-j6mx9v
+- **Monitoring & Evaluation Specialist (CLAP)** at GIZ KE (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/monitoring-evaluation-specialist-clap-vdmk0k
