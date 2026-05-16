@@ -1270,3 +1270,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Intern Data Analyst** at Palladium International (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/intern-data-analyst-palladium-international-2
+
+## 2026-05-16 22:43 UTC — 2 new job(s)
+
+- **Electrical Engineering Pod Lead - 72132** at Turing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/electrical-engineering-pod-lead-72132-5pwz0n
+- **Transportation Program Manager** at Amentum (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/transportation-program-manager-z82j99
