@@ -1277,3 +1277,160 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/electrical-engineering-pod-lead-72132-5pwz0n
 - **Transportation Program Manager** at Amentum (Rest of Kenya) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/transportation-program-manager-z82j99
+
+## 2026-05-17 09:34 UTC — 77 new job(s)
+
+- **Data Scientist** at Family Bank Kenya (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-scientist-m0mn99
+- **Data Scientist (AI-Native) — Growth & Credit** at Umba (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-scientist-ai-native-growth-credit-7jv07j
+- **Clinical Bioinformatician, Cancer Centre** at Aga Khan Hospitals (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/clinical-bioinformatician-cancer-centre-0kp7gd-v1
+- **Maize Plant Health Scientist (Internationally Recruited)** at International Maize and Wheat Improvement Center (CIMMYT) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/maize-plant-health-scientist-internationally-recruited-x8dx6n
+- **Spatial Data Analyst** at UN-Habitat (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/spatial-data-analyst-84eq59-v1
+- **Financial & Data Analyst** at Solar Panda (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/financial-data-analyst-vdmx08
+- **Data Analyst Associate** at CHANCEN International (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-analyst-associate-qzqgk4
+- **Data Analyst M/f** at Africa Global Logistics Kenya (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-analyst-mf-9k0g86
+- **Business Analyst 1, Data Analysis (Business Analyst 1)** at Central Bank of Kenya (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/business-analyst-1-data-analysis-business-analyst-1-rr27d4
+- **Data Analysis Trainer** at Mediacrest Training College (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-analysis-trainer-gm58w0
+- **Business Intelligence Analyst** at SENRI LTD (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/business-intelligence-analyst-9k0wk7
+- **Business intelligence Analyst** at Absa Group Ltd (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/business-intelligence-analyst-0kpd5x
+- **Manager, Internal Consulting** at Food For Education (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/manager-internal-consulting-wrmjzk
+- **Data Engineer** at International Rescue Committee (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-engineer-r8dzkj-v2
+- **Chief Financial Officer** at Ufanisi Digital Media (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/chief-financial-officer-wrmj5j
+- **Field Collection Officer** at Mogo Kenya Limited (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/field-collection-officer-z82evv
+- **Technical Lead, CMAM Avance** at International Rescue Committee (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/technical-lead-cmam-avance-j6mzk6
+- **AI for Good Research Lab: Internship Opportunities** at Microsoft (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ai-for-good-research-lab-internship-opportunities-qzq62z
+- **Data Science Trainer** at Mediacrest Training College (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-science-trainer-wrmwz0
+- **Manager, Reconciliations** at Standard Bank Group (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/manager-reconciliations-qzqgq6
+- **Data Engineer** at Family Bank Kenya (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-engineer-x8dqz4
+- **TECHNOLOGIST III- JOB GRADE AC, 6. REF: UOE/AC/C/03/04/02/2026: FIELDS: CHEMISTRY (1), BIOLOGY (1), PHYSICS (1), COMPUTER SCIENCE (1), TECHNOLOGY EDUCATION (1), ENGINEERING (1), FOOD SCIENCE AND CONSUMER SCIENCES (1), AND HEALTH SCIENCES (1).** at University of Eldoret- UOE (Rest of Kenya (Eldoret)) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/technologist-iii-job-grade-ac-6-ref-uoeacc0304022026-fields-chemistry-1-biology-1-physics-1-computer-science-1-technology-education-1-engineering-1-food-science-and-consumer-sciences-1-and-health-sciences-1-gm58n9
+- **Assistant Laboratory Technician I – Gross Anatomy** at Pwani University (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/assistant-laboratory-technician-i-gross-anatomy-qzq6rw
+- **LABORATORY TECHNICIAN II PATHOLOGY REF: PU/ADV/11/05/2026 GRADE 7** at Pwani University- PU (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/laboratory-technician-ii-pathology-ref-puadv11052026-grade-7-8m0g6j
+- **LABORATORY TECHNICIAN II MICROBIOLOGY AND PARASITOLOGY REF: PU/ADV/09/05/2026 GRADE 7** at Pwani University- PU (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/laboratory-technician-ii-microbiology-and-parasitology-ref-puadv09052026-grade-7-d9rnp2
+- **GRADE 6 REF: PU/ADV/08/05/2026 ASSISTANT LABORATORY TECHNICIAN I GROSS ANATOMY** at Pwani University- PU (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/grade-6-ref-puadv08052026-assistant-laboratory-technician-i-gross-anatomy-gm58e9
+- **LABORATORY TECHNICIAN II MEDICAL BIOCHEMISTRY REF: PU/ADV/10/05/2026 GRADE 7** at Pwani University- PU (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/laboratory-technician-ii-medical-biochemistry-ref-puadv10052026-grade-7-m0mjxj
+- **REQUIREMENTS FOR THE POSITION OF LABORATORY TECHNICIAN II HISTOLOGY GRADE 7** at Pwani University- PU (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/requirements-for-the-position-of-laboratory-technician-ii-histology-grade-7-x8dk0w
+- **Data Analytics And Artificial Intelligence Intern** at UNEP (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-analytics-and-artificial-intelligence-intern-erdw02
+- **Trade Finance & Exports Manager** at Umba (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/trade-finance-exports-manager-d7xpew-v2
+- **M-Pesa Africa: Senior Data Architect** at SAFARICOM (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/m-pesa-africa-senior-data-architect-gw2rg2-v1
+- **Automation QA Engineer** at Tana (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/automation-qa-engineer-7jvgpn
+- **Lead DevOps Engineer, Foundry RnD** at Mastercard (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/lead-devops-engineer-foundry-rnd-84q4v6-v3
+- **Business Development Manager: Microsoft Dynamics 365** at Software Dynamics (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/business-development-manager-microsoft-dynamics-365-vdmzpx
+- **Senior Software Engineering Manager** at Ezra (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-software-engineering-manager-q2pzmn-v1
+- **Principal Architect** at Ezra (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/principal-architect-07mkqz-v1
+- **Senior Advisor / Software Developer / Web Application Developer** at SOS Children's Villages (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-advisor-software-developer-web-application-developer-5pwv67
+- **Senior QA Engineer** at Burn (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-qa-engineer-8m0gg6
+- **Senior Frontend Engineer** at HF Group (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-frontend-engineer-rr27rj
+- **Software Engineering Trainer** at Mediacrest Training College (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/software-engineering-trainer-pgp8mr
+- **Senior Software Engineer (Remote)** at GiveDirectly, Inc (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-software-engineer-remote-m0md4w
+- **Quality Assurance Engineer** at HF Group (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/quality-assurance-engineer-erdwn9
+- **Project Management Trainer** at Mediacrest Training College (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/project-management-trainer-q2p824-v1
+- **IP Services Sales Manager** at Nokia (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ip-services-sales-manager-07md26-v1
+- **Agricultural Engineering Technician** at Sikri Technical and Vocational Training College for the Blind and Deaf- STVCBD (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/agricultural-engineering-technician-9k0np6
+- **Assistant Accountant** at BURHANI ENGINEERS (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/assistant-accountant-8m0gqn
+- **AM Core & AN** at Nokia (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/am-core-an-d9r4jr
+- **SaaS Technical Solutions Support Officer - ERP** at HF Group (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/saas-technical-solutions-support-officer-erp-9k0gk8
+- **Sales Executive USS** at Riana Group of Companies (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/sales-executive-uss-n95j4k
+- **Graphic Artist** at Amentum (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/graphic-artist-m0mgkd-v1
+- **Business Intelligence Specialist** at Ezra (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/business-intelligence-specialist-gm5zqr
+- **Presales Consultant** at Techno Brain (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/presales-consultant-vdmz9m
+- **Production Unit Coordinator** at Sikri Technical and Vocational Training College for the Blind and Deaf- STVCBD (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/production-unit-coordinator-2kzg96
+- **Human Resource Officer** at Sikri Technical and Vocational Training College for the Blind and Deaf- STVCBD (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/human-resource-officer-8m0g89
+- **Database Administrator** at Tana (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/database-administrator-45j6d2
+- **Senior .Net Developer** at Rainforest Alliance (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-net-developer-vdm97w-v1
+- **Cybersecurity Trainer** at Mediacrest Training College (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/cybersecurity-trainer-7jvgd8
+- **SOC Manager** at Prime Bank (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/soc-manager-5pwgd0
+- **Member Association Support Director** at SOS Children's Villages (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/member-association-support-director-pgp8v0
+- **Managing Director, INUA Nexus (Global Business Services)** at INUA AI (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/managing-director-inua-nexus-global-business-services-45j4p2-v1
+- **ICT Supervisor** at MEDECINS SAN FRONTIERES (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ict-supervisor-k7m09z
+- **ICT Technician** at Kiirua Technical Institute (Full Time) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ict-technician-9k0g6j
+- **ICT Teacher** at Nairobi International School (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ict-teacher-5pwggr
+- **ICT Trainer** at Thika Technical Training Institute (Thika) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ict-trainer-6q755z
+- **ICT Teacher(Prep School)** at Nairobi International School (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ict-teacherprep-school-7jvgq8
+- **ICT Security & Structured Cabling Technician** at Smoothtel Kenya (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ict-security-structured-cabling-technician-qzq68w
+- **IT Technical Support Engineer** at NTT Limited (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/it-technical-support-engineer-7jvg0m
+- **IT Program Officer Ref No: KoTDA/HR129/2026** at Konza Technopolis Development Authority- KoTDA (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/it-program-officer-ref-no-kotdahr1292026-k7mx42
+- **Information Systems Auditor Ref No: KoTDA/HR127/2026** at Konza Technopolis Development Authority- KoTDA (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/information-systems-auditor-ref-no-kotdahr1272026-m0md6g
+- **Executive Secretary/Senior Office Administrator Ref No: KoTDA/HR126/2026** at Konza Technopolis Development Authority- KoTDA (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/executive-secretarysenior-office-administrator-ref-no-kotdahr1262026-45jr7e-v1
+- **IoT Engineer KoTDA/HR130/2026** at Konza Technopolis Development Authority- KoTDA (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/iot-engineer-kotdahr1302026-9k0gvj
+- **Enterprise Applications Consultant/Implementation Specialist** at NTT Limited (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/enterprise-applications-consultantimplementation-specialist-jqv72v-v1
+- **Learner Client Project Manager (Fixed Term Contract)** at NTT Limited (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/learner-client-project-manager-fixed-term-contract-gm5852
+- **Knowledge Management Specialist** at AFIDEP (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/knowledge-management-specialist-9k0gxj
+- **SAP Architecture Consultant** at NTT Limited (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/sap-architecture-consultant-zpg5w9-v1
+- **Senior Technical Support Engineer** at NTT Limited (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-technical-support-engineer-45jpge
+- **Alliance Specialist – Cloud Hyperscalers** at NTT Limited (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/alliance-specialist-cloud-hyperscalers-gm5zgr
