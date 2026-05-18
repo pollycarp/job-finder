@@ -1462,3 +1462,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/ict-officer-intern-kenya-electricity-generating-company-kengen
 - **IT Event Management Engineer** at World Vision Kenya (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/event-management-engineer-world-vision-kenya/
+
+## 2026-05-18 15:00 UTC — 2 new job(s)
+
+- **Software Development & Systems Engineering (Financial Systems)** at Safaricom Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/software-development-systems-engineering-financial-systems-safaricom-kenya
+- **Senior Software Engineer (Backend Node .js)** at Deimos (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-software-engineer-backend-node-js-deimos-2
