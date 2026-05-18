@@ -1451,3 +1451,14 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/full-stack-developer-cellipay-gm5de8
 - **Cloud Developer Paas & Saas Ref No: KoTDA/HR128/2026** at Konza Technopolis Development Authority- KoTDA (Rest of Kenya) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/cloud-developer-paas-saas-ref-no-kotdahr1282026-k7m2zx
+
+## 2026-05-18 11:43 UTC — 4 new job(s)
+
+- **Machine Learning Operations Specialist - CIMMYT** at World Agroforestry Centre (ICRAF) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/machine-learning-operations-specialist-cimmyt-world-agroforestry-centre-icraf
+- **Full Stack Engineer** at Bandwidth & Cloud Services Group(BCS Group) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/full-stack-engineer-bandwidth-cloud-services-group-bcs-group
+- **ICT Officer Intern** at Kenya Electricity Generating Company PLC, KenGen (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-officer-intern-kenya-electricity-generating-company-kengen
+- **IT Event Management Engineer** at World Vision Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/event-management-engineer-world-vision-kenya/
