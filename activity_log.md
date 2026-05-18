@@ -1434,3 +1434,20 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/senior-technical-support-engineer-45jpge
 - **Alliance Specialist – Cloud Hyperscalers** at NTT Limited (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/alliance-specialist-cloud-hyperscalers-gm5zgr
+
+## 2026-05-18 08:00 UTC — 7 new job(s)
+
+- **Intern Data Analyst** at Palladium International (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/intern-data-analyst-palladium-international-2/
+- **Intern Analyst – Power & Infrastructure** at CrossBoundary (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/intern-analyst-power-infrastructure-crossboundary/
+- **Java Developer** at Tana (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/java-developer-tana/
+- **Submit CVs – New Recruitment** at 4G Capital (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-4g-capital/
+- **Senior Backend Engineer** at HF Group (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-backend-engineer-j6m20z
+- **Full-Stack Developer - CelliPay** at Cellipay Limited (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/full-stack-developer-cellipay-gm5de8
+- **Cloud Developer Paas & Saas Ref No: KoTDA/HR128/2026** at Konza Technopolis Development Authority- KoTDA (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/cloud-developer-paas-saas-ref-no-kotdahr1282026-k7m2zx
