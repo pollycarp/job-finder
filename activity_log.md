@@ -1516,3 +1516,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/ict-officer-internship-9k0w7w
 - **Digital Project Manager** at World Vision (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/digital-project-manager-rr25dx
+
+## 2026-05-19 11:00 UTC — 3 new job(s)
+
+- **ICT Officer II - Grade Ad 8 [System/Programme Developer]** at Laikipia University (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-officer-ii-grade-ad-8-system-programme-developer-laikipia-university
+- **ICT Officer II- Grade Ad 8 [System Networking]** at Laikipia University (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-officer-ii-grade-ad-8-system-networking-laikipia-university
+- **Design Engineer** at Safal Group (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/design-engineer-safal-group-4/
