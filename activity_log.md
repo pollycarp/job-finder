@@ -1469,3 +1469,50 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/software-development-systems-engineering-financial-systems-safaricom-kenya
 - **Senior Software Engineer (Backend Node .js)** at Deimos (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/senior-software-engineer-backend-node-js-deimos-2
+
+## 2026-05-19 07:43 UTC — 22 new job(s)
+
+- **Data Analyst, Data Products** at Rainforest Alliance (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-analyst-data-products-rainforest-alliance-1
+- **Machine Learning Operations Specialist – CIMMYT** at World Agroforestry Centre (ICRAF) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/machine-learning-operations-specialist-cimmyt-world-agroforestry-centre-icraf/
+- **Senior Software Engineer (Backend Node .js)** at Deimos (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-software-engineer-backend-node-js-deimos/
+- **Software Development & Systems Engineering (Financial Systems)** at Safaricom Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/software-development-systems-engineering-financial-systems-safaricom-kenya/
+- **MLOps Support Team Lead** at CloudFactory (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/mlops-support-team-lead-cloudfactory/
+- **Knowledge Officer - Internship** at KenGen (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/knowledge-officer-internship-8m0d04
+- **Driver/ Office Support- Isiolo & Laikipia Counties (2 positions)** at IUCN Eastern and Southern Africa (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/driver-office-support-isiolo-laikipia-counties-2-positions-z826v9
+- **Carbon Technical Officer** at Burn (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/carbon-technical-officer-gw2r6k-v2
+- **Machine Learning Operations Specialist - CIMMYT** at World Agroforestry Centre (ICRAF) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/machine-learning-operations-specialist-cimmyt-qzqv47
+- **Remote ML Engineer - 60735** at Turing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/remote-ml-engineer-60735-xp4pqz-v6
+- **IT Event Management Engineer** at World Vision (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/it-event-management-engineer-gm5890
+- **Remote C# Developer** at Turing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/remote-c-developer-vwnwxp-v5
+- **AI & Automation Consultant** at Burn (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ai-automation-consultant-zpgjjr-v1
+- **Associate** at Digital Divide Data (DDD) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/associate-pmk0pw-v1
+- **Software Development & Systems Engineering (Financial Systems)** at Safaricom PLC (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/software-development-systems-engineering-financial-systems-0kpzgm
+- **Operational Response Team (ORT) Senior/Principal Technical Advisor** at Air Force Research Laboratory (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/operational-response-team-ort-seniorprincipal-technical-advisor-rr202n
+- **Public Works Director / Chief Engineer** at Amentum (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/public-works-director-chief-engineer-d9r05g-v1
+- **Human Feedback Contributor** at Tech Pipeline (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/human-feedback-contributor-x8dzjw
+- **EHS Manager** at Burn (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ehs-manager-6q7xmj-v1
+- **Project Manager_LN - (4755)** at International Medical Corps (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/project-manager-ln-4755-wrmjd5
+- **ICT Officer - Internship** at KenGen (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ict-officer-internship-9k0w7w
+- **Digital Project Manager** at World Vision (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/digital-project-manager-rr25dx
