@@ -1534,3 +1534,14 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/remote-business-analyst-57510-jqnejr-v8
 - **Channel Account Manager** at Exclusive Networks (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/channel-account-manager-9jpkg8-v2
+
+## 2026-05-19 18:04 UTC — 4 new job(s)
+
+- **Submit CVs – Latest Recruitment** at IDinsight (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-latest-recruitment-idinsight/
+- **Investments Analyst Internship** at Cytonn Investments (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/investments-analyst-internship-cytonn-investments-5/
+- **Acquire to Retire Analyst** at Safaricom Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/acquire-retire-analyst-safaricom-kenya/
+- **Entrepreunereship Trainer** at Ujima Foundation for Training and Development (Kisumu) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/entrepreunereship-trainer-0kpz7z
