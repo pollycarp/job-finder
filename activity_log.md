@@ -1525,3 +1525,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/ict-officer-ii-grade-ad-8-system-networking-laikipia-university
 - **Design Engineer** at Safal Group (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/design-engineer-safal-group-4/
+
+## 2026-05-19 14:44 UTC — 3 new job(s)
+
+- **KYC Analyst (Banking Industry)** at Sheer Logic Management Consultants Ltd (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/kyc-analyst-banking-industry-5d76gp-v1
+- **Remote Business Analyst - 57510** at Turing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/remote-business-analyst-57510-jqnejr-v8
+- **Channel Account Manager** at Exclusive Networks (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/channel-account-manager-9jpkg8-v2
