@@ -1570,3 +1570,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/cisoc-analyst-20p85p-v1
 - **API & Developer Market Place lead** at SAFARICOM (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/api-developer-market-place-lead-9k0dk6
+
+## 2026-05-20 10:48 UTC — 2 new job(s)
+
+- **Junior Software Developer** at Salix Data (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/junior-software-developer-salix-data/
+- **JUNIOR DATA ANALYST** at Early Hr Consultants (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/junior-data-analyst-9k0d28
