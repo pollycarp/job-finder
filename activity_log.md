@@ -1545,3 +1545,28 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/acquire-retire-analyst-safaricom-kenya/
 - **Entrepreunereship Trainer** at Ujima Foundation for Training and Development (Kisumu) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/entrepreunereship-trainer-0kpz7z
+
+## 2026-05-20 07:41 UTC — 11 new job(s)
+
+- **DevOps Engineer** at Living Goods (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/devops-engineer-living-goods-3
+- **Delivery Owner** at CloudFactory (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/delivery-owner-qzqvzn
+- **Product Manager – AI Enablement** at Co-operative Bank (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/product-manager-ai-enablement-wrm8g0
+- **Enterprise Business Analyst – AI Enablement** at Co-operative Bank (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/enterprise-business-analyst-ai-enablement-k7mq7m
+- **CoE Lead Safety, Workspace & Wellbeing** at SAFARICOM (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/coe-lead-safety-workspace-wellbeing-qzqvwn
+- **Intelligent Ops & Governance Lead** at SAFARICOM (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/intelligent-ops-governance-lead-0kpzkz
+- **Software Development & Systems Engineering (Financial Systems)** at SAFARICOM (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/software-development-systems-engineering-financial-systems-d9r627
+- **Technical Services Intern** at Kenya Broadcasting Corporation- KBC (Kisumu) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/technical-services-intern-j6mwp4
+- **Business Development Manager** at Synnefa (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/business-development-manager-z826rr
+- **CISOC Analyst** at KCB Group (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/cisoc-analyst-20p85p-v1
+- **API & Developer Market Place lead** at SAFARICOM (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/api-developer-market-place-lead-9k0dk6
