@@ -1577,3 +1577,18 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/junior-software-developer-salix-data/
 - **JUNIOR DATA ANALYST** at Early Hr Consultants (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/junior-data-analyst-9k0d28
+
+## 2026-05-20 14:43 UTC — 6 new job(s)
+
+- **Programme Policy Officer – Data Analyst (NOA)** at World Food Programme (WFP) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/programme-policy-officer-data-analyst-noa-world-food-programme-wfp
+- **Senior Platform Engineer** at Deimos (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-platform-engineer-deimos/
+- **Senior Site Reliability Engineer** at Deimos (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-site-reliability-engineer-deimos-3/
+- **NetSuite Engineer** at Blue Ventures (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/netsuite-engineer-blue-ventures/
+- **Technology Senior Auditor** at Citi (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/technology-senior-auditor-citi/
+- **Data Analyst** at INFINITE TALENT LIMITED (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-analyst-9k0d2x
