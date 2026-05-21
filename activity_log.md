@@ -1660,3 +1660,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/technology-training-assistant-african-advanced-level-telecommunications-institute/
 - **Software Development Engineer** at OpenTech Global Services Ltd (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/software-development-engineer-5pw86g
+
+## 2026-05-21 14:48 UTC — 3 new job(s)
+
+- **Cluster Director Engineering** at Fairmont Hotels & Resorts (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/cluster-director-engineering-fairmont-hotels-resorts/
+- **Electrical Engineer** at COREcruitment Ltd (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/electrical-engineer-corecruitment-ltd/
+- **Project Manager (Upstream) – Nairobi, Kenya** at WTS Energy (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/project-manager-upstream-nairobi-kenya-wts-energy/
