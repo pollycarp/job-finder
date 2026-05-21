@@ -1669,3 +1669,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/electrical-engineer-corecruitment-ltd/
 - **Project Manager (Upstream) – Nairobi, Kenya** at WTS Energy (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/project-manager-upstream-nairobi-kenya-wts-energy/
+
+## 2026-05-21 17:56 UTC — 3 new job(s)
+
+- **Full–stack Software Developer – 2 Posts** at Kenya Broadcasting Corporation (KBC) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/full-stack-software-developer-2-posts-kenya-broadcasting-corporation-kbc/
+- **Submit CVs – Latest Recruitment** at County Government of Nyeri (31 Positions) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-latest-recruitment-county-government-nyeri-31-positions/
+- **IT Officer** at Biovision Africa Trust (BvAT) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/officer-biovision-africa-trust-bvat/
