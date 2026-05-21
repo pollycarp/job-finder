@@ -1641,3 +1641,22 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/senior-manager-domain-architect-integrations-middleware-45jm9z
 - **Finserve Support Agent** at Equity Bank Kenya (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/finserve-support-agent-5pw50r
+
+## 2026-05-21 11:05 UTC — 8 new job(s)
+
+- **Junior Data Analyst & Operations Assistant - Nairobi** at Emerge Egress Consulting (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/junior-data-analyst-operations-assistant-nairobi-emerge-egress-consulting
+- **Full–stack Software Developer - 2 Posts** at Kenya Broadcasting Corporation (KBC) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/full-stack-software-developer-2-posts-kenya-broadcasting-corporation-kbc
+- **ICT / Graphic Designer Intern** at County Government of Nyeri (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-graphic-designer-intern-county-government-of-nyeri-1
+- **Integration Microservices Engineer** at NCBA Group (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/integration-microservices-engineer-ncba-group/
+- **Software Developer (OpenSRP, FHIR Integration), Digital Technology & Delivery** at Palladium International (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/software-developer-opensrp-fhir-integration-digital-technology-delivery-palladium-international/
+- **Director, Digital Platforms & Business Development** at Palladium International (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/director-digital-platforms-business-development-palladium-international/
+- **Technology Training Assistant** at African Advanced Level Telecommunications Institute (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/technology-training-assistant-african-advanced-level-telecommunications-institute/
+- **Software Development Engineer** at OpenTech Global Services Ltd (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/software-development-engineer-5pw86g
