@@ -1592,3 +1592,52 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/technology-senior-auditor-citi/
 - **Data Analyst** at INFINITE TALENT LIMITED (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/data-analyst-9k0d2x
+
+## 2026-05-21 07:48 UTC — 23 new job(s)
+
+- **Data Analyst-Operations** at CDL Human Resource (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-analyst-operations-cdl-human-resouce
+- **Lead Software Engineer** at MasterCard (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/lead-software-engineer-mastercard
+- **Programme Policy Officer – Data Analyst (NOA)** at World Food Programme (WFP) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/programme-policy-officer-data-analyst-noa-world-food-programme-wfp/
+- **Financial Planning and Analysis Manager** at International Institute of Tropical Agriculture (IITA) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/financial-planning-and-analysis-manager-rr20j9
+- **Product Owner** at NCBA (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/product-owner-m0m4z9
+- **Acquire to Retire Analyst** at SAFARICOM (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/acquire-to-retire-analyst-7jvm28
+- **Senior Full Stack Engineer (Java| Mobile)** at Equity Bank Kenya (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-full-stack-engineer-java-mobile-x8dz5z
+- **Associate** at Digital Divide Data (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/associate-qzqvne
+- **Senior Associate, AI Transformation** at IDInsight (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-associate-ai-transformation-z826kx
+- **Data Architect – AI Enablement** at Co-operative Bank (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-architect-ai-enablement-vdmq8p
+- **Full Stack Engineer III/IV** at IDInsight (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/full-stack-engineer-iiiiv-j6mwer
+- **Full Stack Engineer** at Bandwidth & Cloud Services Group(BCS Group) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/full-stack-engineer-wrm866
+- **Junior Software Developer** at Salix Data (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/junior-software-developer-6q7mwz
+- **Senior Full Stack Engineer - Python| Frontend (Angular/React)** at Equity Bank Kenya (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-full-stack-engineer-python-frontend-angularreact-7jvm4m
+- **Senior Software Engineer (Backend Node .js)** at Deimos (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-software-engineer-backend-node-js-rr2095
+- **DevOps Engineer** at Living Goods (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/devops-engineer-9k0dzx
+- **Internship Opportunity** at Software Dynamics (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/internship-opportunity-k7mqjn
+- **Senior Site Reliability Engineer** at Deimos (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-site-reliability-engineer-wrm806
+- **ICT Manager-Business Systems & Applications** at Consolidated Bank of Kenya (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ict-manager-business-systems-applications-gm50eq
+- **Occupational Safety & Health (OSH) Administrator** at Food For Education (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/occupational-safety-health-osh-administrator-x8dzv4
+- **Information Security Officer** at Consolidated Bank of Kenya (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/information-security-officer-6q7m07
+- **Senior Manager – Domain Architect Integrations & Middleware** at KCB Group (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-manager-domain-architect-integrations-middleware-45jm9z
+- **Finserve Support Agent** at Equity Bank Kenya (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/finserve-support-agent-5pw50r
