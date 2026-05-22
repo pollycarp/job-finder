@@ -1678,3 +1678,38 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/submit-cvs-latest-recruitment-county-government-nyeri-31-positions/
 - **IT Officer** at Biovision Africa Trust (BvAT) (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/officer-biovision-africa-trust-bvat/
+
+## 2026-05-22 07:41 UTC — 16 new job(s)
+
+- **ICT Officer Interns - 3 Posts** at County Government of Nyeri (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-officer-interns-3-posts-county-government-of-nyeri
+- **Data Analyst, Data Products** at Rainforest Alliance (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-analyst-data-products-erdjpd
+- **Manager, Product Management** at Living Goods (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/manager-product-management-45jqne
+- **Technologists - Physics** at University of Eldoret (Rest of Kenya (Eldoret)) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/technologists-physics-x8dekn
+- **Technologists - Biology** at University of Eldoret (Rest of Kenya (Eldoret)) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/technologists-biology-8m0x9n
+- **Technologists - Technology Education** at University of Eldoret (Rest of Kenya (Eldoret)) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/technologists-technology-education-vdm5kw
+- **Technologists - Computer Science** at University of Eldoret (Rest of Kenya (Eldoret)) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/technologists-computer-science-0kp09k
+- **Technologists - Chemistry** at University of Eldoret (Rest of Kenya (Eldoret)) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/technologists-chemistry-vdm5gw
+- **Technologists - Food Science and Consumer Sciences** at University of Eldoret (Rest of Kenya (Eldoret)) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/technologists-food-science-and-consumer-sciences-0kp0kk
+- **Solutions Architect – AI Enablement** at Co-operative Bank (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/solutions-architect-ai-enablement-7jvrwd
+- **Tender Manager - Drilling and Completions Fluids** at Baker Hughes (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/tender-manager-drilling-and-completions-fluids-5pw5v0
+- **AI Specialist** at Remote Raven (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ai-specialist-qzq86p
+- **Senior Platform Engineer** at Deimos (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-platform-engineer-2kznq8
+- **IT Officer** at Biovision Africa Trust (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/it-officer-pgpq60
+- **Environmental Data Research And Methodology Intern** at UNEP (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/environmental-data-research-and-methodology-intern-9k06k5
+- **ICT Officer -Business Systems & Applications** at Consolidated Bank of Kenya (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ict-officer-business-systems-applications-9k06r5
