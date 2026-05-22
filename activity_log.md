@@ -1725,3 +1725,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Backend Developer** at Savannah Informatics (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/backend-developer-savannah-informatics-4
+
+## 2026-05-22 17:50 UTC — 1 new job(s)
+
+- **ICT Intern** at AIC Kijabe Hospital (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-intern-aic-kijabe-hospital-2
