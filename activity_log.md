@@ -1713,3 +1713,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/environmental-data-research-and-methodology-intern-9k06k5
 - **ICT Officer -Business Systems & Applications** at Consolidated Bank of Kenya (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/ict-officer-business-systems-applications-9k06r5
+
+## 2026-05-22 10:47 UTC — 2 new job(s)
+
+- **Data Analyst** at DHL Supply Chain Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-analyst-dhl-supply-chain-kenya
+- **Cyber Security Instructor** at StarQode Tech Hub (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/cyber-security-instructor-vdm5pv
