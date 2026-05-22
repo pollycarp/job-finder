@@ -1720,3 +1720,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/data-analyst-dhl-supply-chain-kenya
 - **Cyber Security Instructor** at StarQode Tech Hub (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/cyber-security-instructor-vdm5pv
+
+## 2026-05-22 14:22 UTC — 1 new job(s)
+
+- **Backend Developer** at Savannah Informatics (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/backend-developer-savannah-informatics-4
