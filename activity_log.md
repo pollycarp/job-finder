@@ -1775,3 +1775,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/integrated-maintenance-strategy-and-implementation-consultant-global-programme-division-immunization-7-months-coe-nairobi-kenya-remote-req-593216-d9rjgr
 - **Integrated Maintenance Strategy and Implementation Consultant, Global Programme Division, Immunization, 7 months, CoE Nairobi, Kenya (Remote), Req: 593216** at UNICEF Bangladesh (Rest of Kenya) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/integrated-maintenance-strategy-and-implementation-consultant-global-programme-division-immunization-7-months-coe-nairobi-kenya-remote-req-593216-rr24xm
+
+## 2026-05-23 09:50 UTC — 2 new job(s)
+
+- **Lead AI Engineer - Financial Inclusion** at M-KOPA Solar (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/lead-ai-engineer-financial-inclusion-m-kopa-solar
+- **Junior Full Stack Developer** at Jubilee Insurance (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/junior-full-stack-developer-jubilee-insurance-1
