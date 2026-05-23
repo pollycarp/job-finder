@@ -1730,3 +1730,48 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **ICT Intern** at AIC Kijabe Hospital (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/ict-intern-aic-kijabe-hospital-2
+
+## 2026-05-23 06:33 UTC — 21 new job(s)
+
+- **Data Analyst** at DHL Kenya (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-analyst-x8de92
+- **Senior Analyst- Data Intelligence** at Sun King (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-analyst-data-intelligence-vdm5rg
+- **Merchant Fraud Monitoring Analyst** at Cleave global e services (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/merchant-fraud-monitoring-analyst-8m0xwx
+- **Artisan Process Electrical** at Coca-Cola (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/artisan-process-electrical-0kp00j
+- **Technologists - Engineering** at University of Eldoret (Rest of Kenya (Eldoret)) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/technologists-engineering-0kp068
+- **Manager, AI Adoption and Innovation** at Evidence Action (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/manager-ai-adoption-and-innovation-5pw8n6
+- **Technologist - Health Sciences** at University of Eldoret (Rest of Kenya (Eldoret)) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/technologist-health-sciences-6q74wd
+- **AI Data Specialist - Swahili** at RWS Group (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ai-data-specialist-swahili-k7mvej
+- **General Manager** at Network Recruitment (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/general-manager-5pw8j6
+- **Engineering Team Leader** at Jobgether (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/engineering-team-leader-84qmq7-v2
+- **Fire Risk Assessment Consultant** at Celnor Group (Full Time) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/fire-risk-assessment-consultant-m0m9ww
+- **Entrepreneur-in-Residence, Market Expansion** at Carry1st (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/entrepreneur-in-residence-market-expansion-wrm57j
+- **Part-Time Lecturer - Software Engineering** at Mama Ngina University College (MNUC) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/part-time-lecturer-software-engineering-0kp05j
+- **Design Engineer** at Safal Group (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/design-engineer-45jnd9-v1
+- **Network Security Sales Engineer** at Tana (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/network-security-sales-engineer-8m0x6x
+- **Information Technology Help Desk Technician** at Solvo Global Careers (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/information-technology-help-desk-technician-45jqk2
+- **IT Administrator Assistant** at Corporate Staffing (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/it-administrator-assistant-7jvm0g
+- **SEN, LCW, ICT, SPHE Teacher** at Kilkenny and Carlow Education and Training Board - Training Services (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/sen-lcw-ict-sphe-teacher-pgpqex
+- **Business Manager -Enterprise** at Black Box (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/business-manager-enterprise-pgpq4x
+- **Integrated Maintenance Strategy and Implementation Consultant, Global Programme Division, Immunization, 7 months, CoE Nairobi, Kenya (Remote), Req: 593216** at UNICEF (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/integrated-maintenance-strategy-and-implementation-consultant-global-programme-division-immunization-7-months-coe-nairobi-kenya-remote-req-593216-d9rjgr
+- **Integrated Maintenance Strategy and Implementation Consultant, Global Programme Division, Immunization, 7 months, CoE Nairobi, Kenya (Remote), Req: 593216** at UNICEF Bangladesh (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/integrated-maintenance-strategy-and-implementation-consultant-global-programme-division-immunization-7-months-coe-nairobi-kenya-remote-req-593216-rr24xm
