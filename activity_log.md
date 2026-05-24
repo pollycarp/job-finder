@@ -1782,3 +1782,14 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/lead-ai-engineer-financial-inclusion-m-kopa-solar
 - **Junior Full Stack Developer** at Jubilee Insurance (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/junior-full-stack-developer-jubilee-insurance-1
+
+## 2026-05-24 06:59 UTC — 4 new job(s)
+
+- **Data Analyst (SQL / Python) | $15/hr Remote** at Crossing Hurdles (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-analyst-sql-python-15hr-remote-j6m7nz
+- **Operations Analyst | $15/hr Remote** at Crossing Hurdles (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/operations-analyst-15hr-remote-gm5jv4
+- **Head of Product & Engineering** at Turnkey Africa Ltd (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/head-of-product-engineering-0kp0ee
+- **Island Room Manager** at Amentum (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/island-room-manager-pgpqx2
