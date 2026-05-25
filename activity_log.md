@@ -1827,3 +1827,20 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-jubilee-insurance-5/
 - **Data Analyst-Operations** at Kaziweza Limited (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/data-analyst-operations-pgp5p2
+
+## 2026-05-25 16:21 UTC — 7 new job(s)
+
+- **Junior Engineer** at TakaTaka Solutions (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/junior-engineer-takataka-solutions/
+- **General Manager – True Gas** at Burhani Engineers Ltd (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/general-manager-true-gas-burhani-engineers-ltd/
+- **Stores and Inventory Assistant** at Burhani Engineers Ltd (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/stores-inventory-assistant-burhani-engineers-ltd-2/
+- **Junior Quality Assurance (QA) Engineer** at M-Gas (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/junior-quality-assurance-qa-engineer-m-gas/
+- **Meter Engineer – Process and Automation** at M-Gas (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/meter-engineer-process-automation-m-gas/
+- **​Production Manager (Paints)** at MSVL Group (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/%e2%80%8bproduction-manager-paints-msvl-group/
+- **IT Manager** at Collection Africa Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/manager-collection-africa-limited/
