@@ -1793,3 +1793,24 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/head-of-product-engineering-0kp0ee
 - **Island Room Manager** at Amentum (Rest of Kenya) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/island-room-manager-pgpqx2
+
+## 2026-05-25 08:19 UTC — 9 new job(s)
+
+- **Principal: AI & Product Engineer - Kenya** at Cellulant Corporation (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/principal-ai-product-engineer-kenya-cellulant-corporation
+- **Lead AI Engineer – Financial Inclusion** at M-KOPA Solar (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/lead-ai-engineer-financial-inclusion-m-kopa-solar/
+- **Licensed Aircraft Engineer** at AirKenya Express Ltd (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/licensed-aircraft-engineer-airkenya-express-ltd/
+- **Backend Developer** at Savannah Informatics (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/backend-developer-savannah-informatics-3/
+- **ICT Intern** at AIC Kijabe Hospital (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/ict-intern-aic-kijabe-hospital-3/
+- **Senior Specialist – Cloud & Network Cyber Security** at Safaricom Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-specialist-cloud-network-cyber-security-safaricom-kenya/
+- **Research Officer II: Actuary** at International Livestock Research Institute (ILRI) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/research-officer-ii-actuary-vdm5n8
+- **(Senior) Director, Global Monitoring, Evaluation, and Learning** at Evidence Action (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-director-global-monitoring-evaluation-and-learning-6q740j
+- **Software Engineering Internship** at TRINOVA TECHNOLOGIES LIMITED (Remote (Work From Home)) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/software-engineering-internship-d9rj5j
