@@ -1814,3 +1814,16 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/senior-director-global-monitoring-evaluation-and-learning-6q740j
 - **Software Engineering Internship** at TRINOVA TECHNOLOGIES LIMITED (Remote (Work From Home)) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/software-engineering-internship-d9rj5j
+
+## 2026-05-25 13:04 UTC — 5 new job(s)
+
+- **Data Privacy Analyst** at Co-operative Bank of Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-privacy-analyst-co-operative-bank-of-kenya-1
+- **Part-Time Lecturer - Data Science and Machine Learning** at Rongo University (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/part-time-lecturer-data-science-and-machine-learning-rongo-university
+- **Part-Time Lecturer - Information Technology and Machine Learning - 4 Posts** at Rongo University (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/part-time-lecturer-information-technology-and-machine-learning-4-posts-rongo-university
+- **Submit CVs – New Recruitment** at Jubilee Insurance (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-jubilee-insurance-5/
+- **Data Analyst-Operations** at Kaziweza Limited (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-analyst-operations-pgp5p2
