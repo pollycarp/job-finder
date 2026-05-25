@@ -1844,3 +1844,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/%e2%80%8bproduction-manager-paints-msvl-group/
 - **IT Manager** at Collection Africa Limited (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/manager-collection-africa-limited/
+
+## 2026-05-25 19:21 UTC — 2 new job(s)
+
+- **Principal: AI & Product Engineer – Kenya** at Cellulant Corporation (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/principal-ai-product-engineer-kenya-cellulant-corporation/
+- **Digital Transformation Project Manager (PMII)** at World Vision Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/digital-transformation-project-manager-pmii-world-vision-kenya/
