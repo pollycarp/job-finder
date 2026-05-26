@@ -1851,3 +1851,30 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/principal-ai-product-engineer-kenya-cellulant-corporation/
 - **Digital Transformation Project Manager (PMII)** at World Vision Kenya (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/digital-transformation-project-manager-pmii-world-vision-kenya/
+
+## 2026-05-26 07:41 UTC — 12 new job(s)
+
+- **Submit CVs – Latest Recruitment** at United Nations Environment Programme (UNEP) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-latest-recruitment-united-nations-environment-programme-unep-8/
+- **Principal: Treasury (Back Office) Operations - Kenya** at Cellulant Group (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/principal-treasury-back-office-operations-kenya-5pw2px
+- **Principal: AI & Product Engineer - Kenya** at Cellulant (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/principal-ai-product-engineer-kenya-rr2k8x
+- **Senior Lecturer (Enterprenuership) – Grade XIII** at Masinde Muliro University (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-lecturer-enterprenuership-grade-xiii-k7mdgw
+- **Meter Engineer - Process and Automation** at M-Gas (Kisumu) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/meter-engineer-process-and-automation-m0mkp2
+- **Aerospace Ground Equipment (AGE) Manager** at Amentum (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/aerospace-ground-equipment-age-manager-d9rzdm
+- **Senior Specialist – Cloud & Network Cyber Security** at SAFARICOM (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-specialist-cloud-network-cyber-security-wrm925
+- **ICT Intern** at AIC Kijabe Hospital (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ict-intern-j6mdqv
+- **Program Management Associate** at International Livestock Research Institute (ILRI) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/program-management-associate-d75nkj-v2
+- **Director, Strategy & Operations** at This Ability (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/director-strategy-operations-gm5kwn
+- **Intern - Sustainable Agricultural Systems and Policies (AgSys)** at GIZ KE (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/intern-sustainable-agricultural-systems-and-policies-agsys-j6md4v
+- **Intern - GIZ Digital Transformation Centre Kenya Phase 2** at GIZ KE (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/intern-giz-digital-transformation-centre-kenya-phase-2-rr2kzx
