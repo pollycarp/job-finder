@@ -1893,3 +1893,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/junior-quality-assurance-qa-engineer-pgp57w
 - **Backend Developer** at Savannah Informatics Limited (Savannah) (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/backend-developer-pgp5qw
+
+## 2026-05-27 11:36 UTC — 3 new job(s)
+
+- **Business Technology Services Interns (10) Posts** at Jubilee Insurance (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/business-technology-services-interns-10-posts-jubilee-insurance/
+- **Aircraft Engineer** at AirKenya Express Ltd (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/aircraft-engineer-airkenya-express-ltd/
+- **Domain Consultant (Presales)** at Palo Alto Networks (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/domain-consultant-presales-palo-alto-networks/
