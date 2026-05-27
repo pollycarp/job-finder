@@ -1878,3 +1878,18 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/intern-sustainable-agricultural-systems-and-policies-agsys-j6md4v
 - **Intern - GIZ Digital Transformation Centre Kenya Phase 2** at GIZ KE (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/intern-giz-digital-transformation-centre-kenya-phase-2-rr2kzx
+
+## 2026-05-27 08:00 UTC — 6 new job(s)
+
+- **ICT Department - 3 Posts** at National Construction Authority (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-department-3-posts-national-construction-authority
+- **Design Engineer (Nairobi)** at Safal Group (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/design-engineer-nairobi-safal-group/
+- **NOC Engineer Intern** at West Indian Ocean Cable Company (WIOCC) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/noc-engineer-intern-west-indian-ocean-cable-company-wiocc/
+- **Director General/ Chief Executive Officer (CEO)** at Technical and Vocational Education and Training Authority (TVETA) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/director-general-chief-executive-officer-ceo-technical-vocational-education-training-authority-tveta/
+- **Junior Quality Assurance (QA) Engineer** at M-Gas (Kisumu) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/junior-quality-assurance-qa-engineer-pgp57w
+- **Backend Developer** at Savannah Informatics Limited (Savannah) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/backend-developer-pgp5qw
