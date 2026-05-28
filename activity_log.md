@@ -1927,3 +1927,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Java Developer** at Tana (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/java-developer-tana-2/
+
+## 2026-05-28 15:35 UTC — 2 new job(s)
+
+- **Systems and App Developer** at Victory Farms (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/systems-app-developer-victory-farms-2/
+- **Graduate Aquaculture Learning and Training (GALT Cohort 9)** at Victory Farms (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/graduate-aquaculture-learning-training-galt-cohort-9-victory-farms/
