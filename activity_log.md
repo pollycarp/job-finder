@@ -1907,3 +1907,18 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Design Engineer (Nairobi)** at Safal Group (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/design-engineer-nairobi-2kz22q
+
+## 2026-05-28 07:54 UTC — 6 new job(s)
+
+- **Full-Stack Developer** at Power Learn Project (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/full-stack-developer-power-learn-project-1
+- **Communication Officer III** at International Livestock Research Institute (ILRI) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/communication-officer-iii-wrm94p
+- **Boat Engineer** at Amentum (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/boat-engineer-rr2kpj
+- **Intern - Information Technology (IT)​** at UNEP (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/intern-information-technology-it-d9rzpg
+- **Power Platform Consultant** at UNEP (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/power-platform-consultant-x8dn90
+- **Branch Manager** at SMEP Microfinance Bank Limited (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/branch-manager-n95kvx
