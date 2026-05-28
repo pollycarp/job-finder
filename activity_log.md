@@ -1922,3 +1922,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/power-platform-consultant-x8dn90
 - **Branch Manager** at SMEP Microfinance Bank Limited (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/branch-manager-n95kvx
+
+## 2026-05-28 11:35 UTC — 1 new job(s)
+
+- **Java Developer** at Tana (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/java-developer-tana-2/
