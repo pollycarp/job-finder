@@ -1952,3 +1952,20 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/ict-and-data-protection-associate-shining-hope-for-communities
 - **Network Implementation Engineer** at NTT Ltd (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/network-implementation-engineer-ntt-ltd/
+
+## 2026-05-29 14:45 UTC — 7 new job(s)
+
+- **Senior Data Analyst** at Keitt Exporters Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-data-analyst-keitt-exporters-limited
+- **Software Engineer** at African Management Institute (AMI) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/software-engineer-african-management-institute-ami
+- **Submit CVs – Latest Recruitment** at Solvo Global (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-latest-recruitment-solvo-global/
+- **Submit CVs – New Recruitment** at CDL Human Resource (9 Positions) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-cdl-human-resource-9-positions-2/
+- **Submit CVs – New Recruitment** at Shining Hope For Communities (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-shining-hope-communities-3/
+- **Full Stack Software Engineer — AI-Native Builder** at Leysco LTD (Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/full-stack-software-engineer-ai-native-builder-n958p9
+- **Technical SEO Specialist** at Ciriz Digital Services (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/technical-seo-specialist-qzqx7w
