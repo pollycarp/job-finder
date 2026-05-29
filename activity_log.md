@@ -1945,3 +1945,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/it-strategy-value-specialist-qzqxdw
 - **Team Lead, Head Office Compliance (Re-advertisement)** at National Bank of Kenya (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/team-lead-head-office-compliance-re-advertisement-45jw4z
+
+## 2026-05-29 11:24 UTC — 2 new job(s)
+
+- **ICT and Data Protection Associate** at Shining Hope For Communities (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-and-data-protection-associate-shining-hope-for-communities
+- **Network Implementation Engineer** at NTT Ltd (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/network-implementation-engineer-ntt-ltd/
