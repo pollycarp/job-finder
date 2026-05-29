@@ -1934,3 +1934,14 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/systems-app-developer-victory-farms-2/
 - **Graduate Aquaculture Learning and Training (GALT Cohort 9)** at Victory Farms (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/graduate-aquaculture-learning-training-galt-cohort-9-victory-farms/
+
+## 2026-05-29 07:51 UTC — 4 new job(s)
+
+- **Data Privacy Analyst** at Co-operative Bank (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-privacy-analyst-z82wvx
+- **Junior Software Engineers** at Xobriq Technologies Limited (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/junior-software-engineers-j6m9mr
+- **IT Strategy & Value Specialist** at NCBA (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/it-strategy-value-specialist-qzqxdw
+- **Team Lead, Head Office Compliance (Re-advertisement)** at National Bank of Kenya (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/team-lead-head-office-compliance-re-advertisement-45jw4z
