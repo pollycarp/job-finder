@@ -1990,3 +1990,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/associate-client-manager-rr2mj2
 - **Junior Technical Advisor - Resilience Initiative Africa** at GIZ KE (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/junior-technical-advisor-resilience-initiative-africa-vdmvdp
+
+## 2026-05-30 11:18 UTC — 2 new job(s)
+
+- **Senior Data Analyst** at Keitt Exporters Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-data-analyst-keitt-exporters-limited/
+- **Technical Lead** at pycs (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/technical-lead-pycs/
