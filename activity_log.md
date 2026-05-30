@@ -1969,3 +1969,24 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/full-stack-software-engineer-ai-native-builder-n958p9
 - **Technical SEO Specialist** at Ciriz Digital Services (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/technical-seo-specialist-qzqx7w
+
+## 2026-05-30 06:45 UTC — 9 new job(s)
+
+- **Full–stack Software Developer** at Kenya Broadcasting Corporation- KBC (Kisumu) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/full-stack-software-developer-rr2m62
+- **Mobile Security Technician** at Sun King (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/mobile-security-technician-5d75zg-v1
+- **Network Implementation Engineer** at NTT Limited (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/network-implementation-engineer-9k0x5v
+- **Vehicle Maintenance Analyst** at Amentum (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/vehicle-maintenance-analyst-jqv274-v1
+- **Air Transportation Supervisor** at Amentum (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/air-transportation-supervisor-2kz9k6
+- **KE-Senior Manager, Information Security (National)** at Church World Service (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ke-senior-manager-information-security-national-z82wpg
+- **Domain Consultant (Presales)** at Palo Alto Networks (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/domain-consultant-presales-vdm06m
+- **Associate Client Manager** at NTT Limited (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/associate-client-manager-rr2mj2
+- **Junior Technical Advisor - Resilience Initiative Africa** at GIZ KE (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/junior-technical-advisor-resilience-initiative-africa-vdmvdp
