@@ -1997,3 +1997,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/senior-data-analyst-keitt-exporters-limited/
 - **Technical Lead** at pycs (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/technical-lead-pycs/
+
+## 2026-05-30 15:04 UTC — 2 new job(s)
+
+- **Software Engineer** at African Management Institute (AMI) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/software-engineer-african-management-institute-ami/
+- **Manager, Information Systems Audit** at Diamond Trust Bank (DTB) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/manager-information-systems-audit-diamond-trust-bank-dtb/
