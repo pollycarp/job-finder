@@ -2009,3 +2009,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **KE-Software Developer (National)** at Church World Service (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/ke-software-developer-national-rr2m52
+
+## 2026-05-31 17:01 UTC — 1 new job(s)
+
+- **ICT Bid & Tender Intern** at Green Com Enterprise Solutions Ltd (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-bid-tender-intern-green-com-enterprise-solutions-ltd-1
