@@ -2004,3 +2004,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/software-engineer-african-management-institute-ami/
 - **Manager, Information Systems Audit** at Diamond Trust Bank (DTB) (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/manager-information-systems-audit-diamond-trust-bank-dtb/
+
+## 2026-05-31 07:42 UTC — 1 new job(s)
+
+- **KE-Software Developer (National)** at Church World Service (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ke-software-developer-national-rr2m52
