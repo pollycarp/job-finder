@@ -2014,3 +2014,18 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **ICT Bid & Tender Intern** at Green Com Enterprise Solutions Ltd (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/ict-bid-tender-intern-green-com-enterprise-solutions-ltd-1
+
+## 2026-06-01 09:17 UTC — 6 new job(s)
+
+- **Global R&D Data Analyst (Fixed-Term)** at One Acre Fund (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/global-r-d-data-analyst-fixed-term-one-acre-fund-1
+- **ICT Bid & Tender Intern** at Green Com Enterprise Solutions Ltd (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/ict-bid-tender-intern-green-com-enterprise-solutions-ltd/
+- **Senior Analyst - BCG Vantage, Social Impact** at Boston Consulting Group (BCG) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-analyst-bcg-vantage-social-impact-6q7886
+- **Visual/Photographic Services Supervisor** at Amentum (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/visualphotographic-services-supervisor-qzq9pz-v1
+- **NGIS General Manager** at Amentum (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ngis-general-manager-k7m69p-v1
+- **Pedagogical Expert** at edc.org (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/pedagogical-expert-pmkv00-v1
