@@ -2029,3 +2029,14 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/ngis-general-manager-k7m69p-v1
 - **Pedagogical Expert** at edc.org (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/pedagogical-expert-pmkv00-v1
+
+## 2026-06-01 15:52 UTC — 4 new job(s)
+
+- **Data Scientist - Credit Eligibility - Nairobi** at M-KOPA Solar (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-scientist-credit-eligibility-nairobi-m-kopa-solar
+- **Lecturer - Software Engineering Computer Science** at Gretsa University (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/lecturer-software-engineering-computer-science-gretsa-university
+- **ICT Intern - 2 Posts** at Trans Nzoia County Water & Sanitation Company Ltd (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-intern-2-posts-trans-nzoia-county-water-sanitation-company-ltd
+- **Part-Time Lecturers - Health Records & ICT** at Amref Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/part-time-lecturers-health-records-ict-amref-kenya
