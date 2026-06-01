@@ -2040,3 +2040,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/ict-intern-2-posts-trans-nzoia-county-water-sanitation-company-ltd
 - **Part-Time Lecturers - Health Records & ICT** at Amref Kenya (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/part-time-lecturers-health-records-ict-amref-kenya
+
+## 2026-06-01 20:15 UTC — 3 new job(s)
+
+- **Submit CVs – New Recruitment** at M-KOPA Solar (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-m-kopa-solar-4/
+- **Frontend Lead** at Power Learn Project (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/frontend-lead-power-learn-project/
+- **Software Sales Executive** at CDL Human Resource (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/software-sales-executive-cdl-human-resource/
