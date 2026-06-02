@@ -2078,3 +2078,24 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/junior-react-developer-m0mqwg
 - **Fire & Emergency Services Administrative Assistant** at Amentum (Rest of Kenya) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/fire-emergency-services-administrative-assistant-6q7z4d-v1
+
+## 2026-06-02 13:58 UTC — 9 new job(s)
+
+- **Data Analyst** at Calltronix Contact & Training Centre (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-analyst-calltronix-contact-training-centre-1
+- **Full Stack Web Developer** at Medecins Sans Frontieres (MSF) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/full-stack-web-developer-medecins-sans-frontieres-msf
+- **ICT Manager** at Stratostaff (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-manager-stratostaff-1
+- **Deputy Director, Human Resource Management and Development** at ICT Authority (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/deputy-director-human-resource-management-and-development-ict-authority
+- **Principal ICT Officer** at ICT Authority (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/principal-ict-officer-ict-authority
+- **Principal Legal Officer** at ICT Authority (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/principal-legal-officer-ict-authority
+- **Lecturer – Software Engineering Computer Science** at Gretsa University (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/lecturer-software-engineering-computer-science-gretsa-university/
+- **Information and Technology Intern** at Kenya Network Information Centre (KENIC) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/information-technology-intern-kenya-network-information-centre-kenic/
+- **Information Technology Intern** at Save the Children Colombia (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/information-technology-intern-wpd2pp-v2
