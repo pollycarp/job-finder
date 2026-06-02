@@ -2099,3 +2099,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/information-technology-intern-kenya-network-information-centre-kenic/
 - **Information Technology Intern** at Save the Children Colombia (Rest of Kenya) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/information-technology-intern-wpd2pp-v2
+
+## 2026-06-02 18:05 UTC — 2 new job(s)
+
+- **Business Development Manager – ICT & Digital Transformation** at Viscar Industrial Capacity (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/business-development-manager-ict-digital-transformation-viscar-industrial-capacity
+- **ICT Associate - Quality Assurance, IPSAS** at United Nations Office for Project Services (UNOPS) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-associate-quality-assurance-ipsas-united-nations-office-for-project-services-unops
