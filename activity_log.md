@@ -2049,3 +2049,32 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/frontend-lead-power-learn-project/
 - **Software Sales Executive** at CDL Human Resource (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/software-sales-executive-cdl-human-resource/
+
+## 2026-06-02 08:26 UTC — 13 new job(s)
+
+- **Software Engineering Team Lead** at M-KOPA Solar (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/software-engineering-team-lead-m-kopa-solar-6
+- **Data Quality Analyst Assistant** at JHC Consulting (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-quality-analyst-assistant-rr2mxq
+- **Financial Market Analyst (Kenya)** at Capital.com (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/financial-market-analyst-kenya-qzqxn6
+- **Junior Project Coordinator** at JHC Consulting (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/junior-project-coordinator-k7mnzp
+- **Operations Analyst | $15/hr Remote** at Crossing Hurdles (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/operations-analyst-15hr-remote-gm5jv4-v1
+- **Psychologist (working as Medical Recruitment Consultant)** at CloserMed (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/psychologist-working-as-medical-recruitment-consultant-pgprrv
+- **Software Engineering Team Lead** at M-KOPA (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/software-engineering-team-lead-k7mnnz
+- **Boat Engineer** at Amentum (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/boat-engineer-rr2kpj-v1
+- **Licensed Surveyor** at Amentum (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/licensed-surveyor-gm542m-v2
+- **UICAP Mapping Technician** at Amentum (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/uicap-mapping-technician-m0mjn6-v1
+- **Sight and Sound Supervisor** at Amentum (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/sight-and-sound-supervisor-45j0n8-v3
+- **Junior React Developer** at JHC Consulting (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/junior-react-developer-m0mqwg
+- **Fire & Emergency Services Administrative Assistant** at Amentum (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/fire-emergency-services-administrative-assistant-6q7z4d-v1
