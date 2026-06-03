@@ -2106,3 +2106,40 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/business-development-manager-ict-digital-transformation-viscar-industrial-capacity
 - **ICT Associate - Quality Assurance, IPSAS** at United Nations Office for Project Services (UNOPS) (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/ict-associate-quality-assurance-ipsas-united-nations-office-for-project-services-unops
+
+## 2026-06-03 08:54 UTC — 17 new job(s)
+
+- **Frontend Developer (1 Year Fixed-Term Contract)** at Britam (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/frontend-developer-1-year-fixed-term-contract-britam
+- **ICT Assistant - KM 6** at Kibwezi Makindu water and Sanitation Company (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-assistant-km-6-kibwezi-makindu-water-and-sanitation-company
+- **Deputy Director, Human Resources & Administration** at ICT Authority (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/deputy-director-human-resources-administration-ict-authority
+- **Assistant Director, Programme Management** at ICT Authority (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/assistant-director-programme-management-ict-authority
+- **Principal Internal Auditor** at ICT Authority (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/principal-internal-auditor-ict-authority
+- **Principal Planning, Monitoring & Evaluation Officer** at ICT Authority (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/principal-planning-monitoring-evaluation-officer-ict-authority
+- **Principal ICT Technical Support Officer** at ICT Authority (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/principal-ict-technical-support-officer-ict-authority
+- **Principal Legal Officer** at ICT Authority (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/principal-legal-officer-ict-authority-1
+- **Cocos2d-x Junior Game Developer** at Micro1 (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/cocos2d-x-junior-game-developer-erdzg5
+- **IT Director** at Innovations for Poverty Action (IPA) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/it-director-erd855
+- **Frontend Lead** at Power Learn Project (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/frontend-lead-k7mn4p
+- **Bartender** at Amentum (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/bartender-qzqxpv
+- **Associate, Document Management** at Rainforest Alliance (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/associate-document-management-wrm0vd
+- **Senior Business Analyst- Debt Collection** at Mogo Kenya Limited (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-business-analyst-debt-collection-z82k4d
+- **Information and Technology Intern** at Kenya Network Information Centre (KeNIC) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/information-and-technology-intern-pgp9px
+- **Executive, Support & Services - Hospitality management software** at IDS Software Management WLL (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/executive-support-services-hospitality-management-software-k7mkgx
+- **ICT Officer II - Grade Ad 8 [System/Programme Developer]** at Laikipia University (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ict-officer-ii-grade-ad-8-systemprogramme-developer-k7mn9j
