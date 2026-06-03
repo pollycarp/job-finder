@@ -2143,3 +2143,22 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/executive-support-services-hospitality-management-software-k7mkgx
 - **ICT Officer II - Grade Ad 8 [System/Programme Developer]** at Laikipia University (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/ict-officer-ii-grade-ad-8-systemprogramme-developer-k7mn9j
+
+## 2026-06-03 14:29 UTC — 8 new job(s)
+
+- **ICT Assistant – Network Administration** at HCS Affiliates Group (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-assistant-network-administration-hcs-affiliates-group
+- **Senior Sales Associate – ICT & ELV Solutions (Regional Markets)** at Nexus Staffing Solutions (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-sales-associate-ict-elv-solutions-regional-markets-nexus-staffing-solutions
+- **Engineer, Data** at Standard Bank Group (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/engineer-data-standard-bank-group/
+- **NET Application Development Engineer** at Cigna (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/net-application-development-engineer-cigna/
+- **Submit CVs – Employment Opportunities** at Kibwezi Makindu water and Sanitation Company (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-employment-opportunities-kibwezi-makindu-water-sanitation-company/
+- **Business Development Manager** at Nairobi Inland Cargo Terminal (NICT) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/business-development-manager-nairobi-inland-cargo-terminal-nict/
+- **Submit CVs – Ongoing Recruitment** at ICT Authority (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-ongoing-recruitment-ict-authority/
+- **Mid-Level Full-Stack Software Developer — Payroll System** at RWK Group (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/mid-level-full-stack-software-developer-payroll-system-n9586m
