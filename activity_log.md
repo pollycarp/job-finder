@@ -2189,3 +2189,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/ict-assistant-ii-nyeri-water-sewerage-company-limited-nyewasco
 - **ICT Intern** at Konza Technopolis Development Authority (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/ict-intern-konza-technopolis-development-authority
+
+## 2026-06-04 19:58 UTC — 1 new job(s)
+
+- **Tier 1 IT Helpdesk or MSP Support Agent** at Solvo Global (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/tier-1-helpdesk-msp-support-agent-solvo-global/
