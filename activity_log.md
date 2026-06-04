@@ -2173,3 +2173,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/part-time-lecturer-health-records-ict-erd8rz
 - **ICT Officer II- Grade Ad 8 [System Networking]** at Laikipia University (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/ict-officer-ii-grade-ad-8-system-networking-erd89z
+
+## 2026-06-04 12:43 UTC — 2 new job(s)
+
+- **Automation Engineer for a duration of 3 months (Manual Testing Focus)** at Tezza Business Solutions Ltd (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/automation-engineer-duration-3-months-manual-testing-focus-tezza-business-solutions-ltd/
+- **IT Helpdesk Techinician** at Solvo Global (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/helpdesk-techinician-solvo-global/
