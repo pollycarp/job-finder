@@ -2162,3 +2162,14 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/submit-cvs-ongoing-recruitment-ict-authority/
 - **Mid-Level Full-Stack Software Developer — Payroll System** at RWK Group (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/mid-level-full-stack-software-developer-payroll-system-n9586m
+
+## 2026-06-04 08:17 UTC — 4 new job(s)
+
+- **Jr. AI Solutions Engineer** at Nathan Digital (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/jr-ai-solutions-engineer-nathan-digital
+- **Head of Internal Audit** at International Livestock Research Institute (ILRI) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/head-internal-audit-international-livestock-research-institute-ilri/
+- **Part-Time Lecturer- Health Records & ICT** at AMREF Health Africa (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/part-time-lecturer-health-records-ict-erd8rz
+- **ICT Officer II- Grade Ad 8 [System Networking]** at Laikipia University (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ict-officer-ii-grade-ad-8-system-networking-erd89z
