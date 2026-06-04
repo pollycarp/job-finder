@@ -2180,3 +2180,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/automation-engineer-duration-3-months-manual-testing-focus-tezza-business-solutions-ltd/
 - **IT Helpdesk Techinician** at Solvo Global (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/helpdesk-techinician-solvo-global/
+
+## 2026-06-04 16:49 UTC — 3 new job(s)
+
+- **Data Analyst - Sales** at Royal Mabati Factory (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-analyst-sales-royal-mabati-factory
+- **ICT Assistant II** at Nyeri Water & Sewerage Company Limited (NYEWASCO) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-assistant-ii-nyeri-water-sewerage-company-limited-nyewasco
+- **ICT Intern** at Konza Technopolis Development Authority (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-intern-konza-technopolis-development-authority
