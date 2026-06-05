@@ -2194,3 +2194,26 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Tier 1 IT Helpdesk or MSP Support Agent** at Solvo Global (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/tier-1-helpdesk-msp-support-agent-solvo-global/
+
+## 2026-06-05 08:05 UTC — 10 new job(s)
+
+- **AI Platform Engineer** at International Rescue Committee (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ai-platform-engineer-international-rescue-committee
+- **ICT Intern** at Kituo Cha Sheria (KITUO) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-intern-kituo-cha-sheria-kituo
+- **Data Annotator (Romanian) | $15/hr Remote** at Crossing Hurdles (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-annotator-romanian-15hr-remote-z82k7r
+- **Software Engineer** at African Management Institute (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/software-engineer-d9rqqm
+- **Human Resources Manager** at Umba (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/human-resources-manager-0kpvq8
+- **Technical Lead** at Pycs (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/technical-lead-5pwnnn
+- **Automation Engineer - (Manual Testing Focus)** at Tezza Business Solutions (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/automation-engineer-manual-testing-focus-6q7w8p
+- **Solutions Consultant 2** at Palo Alto Networks (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/solutions-consultant-2-erd8zk
+- **Technical Manager (Kenya)** at CITAM (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/technical-manager-kenya-wrmxxz
+- **Teacher Intern- Secondary School -Kakuma ( Open to Kenyan Nationals Only)** at Lutheran World Federation (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/teacher-intern-secondary-school-kakuma-open-to-kenyan-nationals-only-n95vvg
