@@ -2224,3 +2224,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/dean-school-of-ict-media-engineering-zetech-university-2
 - **ICT Tutor - Kitengela** at Riccati Business College (Kenya) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/ict-tutor-kitengela-vdmrnm
+
+## 2026-06-05 14:31 UTC — 3 new job(s)
+
+- **Head of ICT(Financial Services)** at CDL Human Resource (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/head-of-ict-financial-services-cdl-human-resouce
+- **Dean – School of ICT, Media & Engineering** at Zetech University (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/dean-school-ict-media-engineering-zetech-university-2/
+- **SENIOR SALES ASSOCIATE – ICT & ELV SOLUTIONS** at POWERVISION CONSULTANCY (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-sales-associate-ict-elv-solutions-qzqnpz
