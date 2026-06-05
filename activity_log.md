@@ -2217,3 +2217,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/technical-manager-kenya-wrmxxz
 - **Teacher Intern- Secondary School -Kakuma ( Open to Kenyan Nationals Only)** at Lutheran World Federation (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/teacher-intern-secondary-school-kakuma-open-to-kenyan-nationals-only-n95vvg
+
+## 2026-06-05 11:36 UTC — 2 new job(s)
+
+- **Dean - School of ICT, Media & Engineering** at Zetech University (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/dean-school-of-ict-media-engineering-zetech-university-2
+- **ICT Tutor - Kitengela** at Riccati Business College (Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ict-tutor-kitengela-vdmrnm
