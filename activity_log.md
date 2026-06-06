@@ -2233,3 +2233,32 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/dean-school-ict-media-engineering-zetech-university-2/
 - **SENIOR SALES ASSOCIATE – ICT & ELV SOLUTIONS** at POWERVISION CONSULTANCY (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/senior-sales-associate-ict-elv-solutions-qzqnpz
+
+## 2026-06-06 06:51 UTC — 13 new job(s)
+
+- **ICT Program Director** at Ericsson (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-program-director-ericsson-6
+- **ICT Associate - Quality Assurance, IPSAS** at UNOPS (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ict-associate-quality-assurance-ipsas-8m075p
+- **AI Quality Analyst (Bulgarian) | $15/hr Remote** at Crossing Hurdles (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ai-quality-analyst-bulgarian-15hr-remote-z820zx
+- **AI Content Specialist (Romanian) | $15/hr Remote** at Crossing Hurdles (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ai-content-specialist-romanian-15hr-remote-6q7jnz
+- **Manager, Investments** at Kenya Reinsurance Corporation (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/manager-investments-wrm6ep
+- **AI Platform Engineer** at International Rescue Committee (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ai-platform-engineer-8m07zp
+- **Engineering Team Leader** at Remote (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/engineering-team-leader-erdk9x
+- **Full Stack Web Developer** at Welthungerhilfe (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/full-stack-web-developer-9k0v88
+- **Customer Support Analyst** at World Vision (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/customer-support-analyst-2kzx0k
+- **Endpoint Engineer** at World Vision (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/endpoint-engineer-j6m04d
+- **Field Service Engineer** at Jaza Energy (Outside Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/field-service-engineer-6q7w0g
+- **ICT Intern** at Kituo Cha Sheria (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ict-intern-5pwkdr
+- **Bidding & Tendering Interns** at Green Com Enterprise Solutions LTD (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/bidding-tendering-interns-m0mwrd
