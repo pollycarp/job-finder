@@ -2267,3 +2267,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Senior Support Staff - ICT** at Pwani Oil (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/senior-support-staff-ict-pwani-oil
+
+## 2026-06-07 07:52 UTC — 1 new job(s)
+
+- **AI Quality Analyst (Romanian) | $15/hr Remote** at Crossing Hurdles (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ai-quality-analyst-romanian-15hr-remote-vdmjxp
