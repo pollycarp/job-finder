@@ -2272,3 +2272,20 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **AI Quality Analyst (Romanian) | $15/hr Remote** at Crossing Hurdles (Rest of Kenya) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/ai-quality-analyst-romanian-15hr-remote-vdmjxp
+
+## 2026-06-08 08:50 UTC — 7 new job(s)
+
+- **Fullstack Developer - (Node js (Typescript), Vue 3, React, NoSQL, MongoDB, Git)** at Nathan Digital (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/fullstack-developer-node-js-typescript-vue-3-react-nosql-mongodb-git-nathan-digital
+- **Fullstack Developer – (Node js (Typescript), Vue 3, React, NoSQL, MongoDB, Git)** at Nathan Digital (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/fullstack-developer-node-js-typescript-vue-3-react-nosql-mongodb-git-nathan-digital/
+- **Submit CVs – New Recruitment** at Phoenix Capital (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-phoenix-capital/
+- **Senior Support Staff – ICT** at Pwani Oil (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-support-staff-ict-pwani-oil/
+- **ICT Program Director** at Ericsson (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/ict-program-director-ericsson/
+- **Strategic Partnerships & UN/NGO Engagement Specialist** at MMT Alliance (Starter) (Full Time) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/strategic-partnerships-unngo-engagement-specialist-j6m02g
+- **Strategic Partnerships & Business Development Manager – UN & NGO Sector (East Africa)** at MMT Alliance (Starter) (Full Time) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/strategic-partnerships-business-development-manager-un-ngo-sector-east-africa-d9rg48
