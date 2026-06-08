@@ -2299,3 +2299,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **ICT Vendor Management Specialist** at HF Group (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/ict-vendor-management-specialist-hf-group
+
+## 2026-06-08 20:06 UTC — 2 new job(s)
+
+- **Head of Data & Analytics** at Millar Cameron (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/head-data-analytics-millar-cameron/
+- **HR Officer – Learning & Development** at Victory Farms (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/hr-officer-learning-development-victory-farms/
