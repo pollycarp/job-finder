@@ -2289,3 +2289,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/strategic-partnerships-unngo-engagement-specialist-j6m02g
 - **Strategic Partnerships & Business Development Manager – UN & NGO Sector (East Africa)** at MMT Alliance (Starter) (Full Time) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/strategic-partnerships-business-development-manager-un-ngo-sector-east-africa-d9rg48
+
+## 2026-06-08 14:03 UTC — 1 new job(s)
+
+- **Senior Software Engineer** at CIC Insurance (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-software-engineer-cic-insurance
