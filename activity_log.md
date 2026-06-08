@@ -2294,3 +2294,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Senior Software Engineer** at CIC Insurance (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/senior-software-engineer-cic-insurance
+
+## 2026-06-08 17:28 UTC — 1 new job(s)
+
+- **ICT Vendor Management Specialist** at HF Group (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-vendor-management-specialist-hf-group
