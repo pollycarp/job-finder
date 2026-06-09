@@ -2339,3 +2339,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/internship-trainer-building-and-construction-technology-8m0v7r-v1
 - **Administrative Assistant, RVIBS Virtual School** at Rift Valley Institute of Business Studies (RVIBS) (Rest of Kenya) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/administrative-assistant-rvibs-virtual-school-pmk4wv-v1
+
+## 2026-06-09 10:57 UTC — 2 new job(s)
+
+- **Head of AI & Program Technology Engineering** at International Rescue Committee (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/head-of-ai-program-technology-engineering-international-rescue-committee
+- **Head of ICT(Financial Services)** at Kaziweza Limited (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/head-of-ictfinancial-services-6q7j44
