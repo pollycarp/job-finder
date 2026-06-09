@@ -2306,3 +2306,36 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/head-data-analytics-millar-cameron/
 - **HR Officer – Learning & Development** at Victory Farms (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/hr-officer-learning-development-victory-farms/
+
+## 2026-06-09 07:42 UTC — 15 new job(s)
+
+- **Assistant Director ICT (Business Applications)** at JKUAT Enterprises Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/assistant-director-ict-business-applications-jkuat-enterprises-limited
+- **Senior ICT Officer** at Natural State (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-ict-officer-natural-state
+- **Research Technician – Sorghum Breeding** at World Agroforestry Centre (ICRAF) (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/research-technician-sorghum-breeding-6q7j84
+- **Mechanical Technician** at Bamburi Cement Limited (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/mechanical-technician-n95qqe
+- **Head of Internal Audit** at International Livestock Research Institute (ILRI) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/head-of-internal-audit-d9rgg2
+- **Admission Partner -Nakuru** at Rift Valley Institute of Business Studies (RVIBS) (Nakuru) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/admission-partner-nakuru-6q7je6
+- **Admission Partner - Narok** at Rift Valley Institute of Business Studies (RVIBS) (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/admission-partner-narok-gm5669
+- **Admission Partner - Bungoma** at Rift Valley Institute of Business Studies (RVIBS) (Outside Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/admission-partner-bungoma-2kzxv8
+- **Admission Partner - Kakamega** at Rift Valley Institute of Business Studies (RVIBS) (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/admission-partner-kakamega-vdmj0v
+- **Admission Partner - Nyandarua** at Rift Valley Institute of Business Studies (RVIBS) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/admission-partner-nyandarua-z820q6
+- **Internship Trainer - Agriculture – Hospitality – Service & Production** at Rift Valley Institute of Business Studies (RVIBS) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/internship-trainer-agriculture-hospitality-service-production-45jgwe
+- **Internship Trainer - Computer Science – Software Development** at Rift Valley Institute of Business Studies (RVIBS) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/internship-trainer-computer-science-software-development-2kzj42-v1
+- **Internship Trainer - Emergency Medical Technician (EMT)** at Rift Valley Institute of Business Studies (RVIBS) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/internship-trainer-emergency-medical-technician-emt-qzq40k-v1
+- **Internship Trainer - Building and Construction Technology** at Rift Valley Institute of Business Studies (RVIBS) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/internship-trainer-building-and-construction-technology-8m0v7r-v1
+- **Administrative Assistant, RVIBS Virtual School** at Rift Valley Institute of Business Studies (RVIBS) (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/administrative-assistant-rvibs-virtual-school-pmk4wv-v1
