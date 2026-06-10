@@ -2346,3 +2346,40 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/head-of-ai-program-technology-engineering-international-rescue-committee
 - **Head of ICT(Financial Services)** at Kaziweza Limited (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/head-of-ictfinancial-services-6q7j44
+
+## 2026-06-10 08:06 UTC — 17 new job(s)
+
+- **Power BI Developer – Analyst** at Sight and Sound Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/power-bi-developer-analyst-sight-sound-limited/
+- **Data Analyst - Sales** at Royal Mabati Factory Limited (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-analyst-sales-6q7968
+- **AI LEAD** at Digital Qatalyst (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ai-lead-45jvn2
+- **Head of AI & Program Technology Engineering** at International Rescue Committee (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/head-of-ai-program-technology-engineering-qzqedp
+- **Senior Software Engineer** at CIC Insurance Group (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-software-engineer-j6me68
+- **ICT Program Director** at Ericsson kenya (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ict-program-director-8m0wz0
+- **Systems & Data Management Officer** at Phoenix Capital Limited (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/systems-data-management-officer-gm5e5m
+- **IT Manager** at Afstor Energy Limited - Kenya (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/it-manager-8m0w50
+- **ICT Vendor Management Specialist** at HF Group (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ict-vendor-management-specialist-k7merp
+- **Senior Manager, Branch Support (Change Management)** at I&M Bank (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-manager-branch-support-change-management-9k0q07
+- **Internship Trainer - Automotive Engineering** at Rift Valley Institute of Business Studies (RVIBS) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/internship-trainer-automotive-engineering-erd5nk-v1
+- **Internship Trainer - Plumbing Technology** at Rift Valley Institute of Business Studies (RVIBS) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/internship-trainer-plumbing-technology-vdm4v8-v1
+- **Internship Trainer - Fashion & Design** at Rift Valley Institute of Business Studies (RVIBS) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/internship-trainer-fashion-design-2kzrqq-v1
+- **Internship Trainer - Mass Media & Journalism** at Rift Valley Institute of Business Studies (RVIBS) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/internship-trainer-mass-media-journalism-vdm6mj
+- **Internship Trainer - Agriculture – Livestock Production** at Rift Valley Institute of Business Studies (RVIBS) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/internship-trainer-agriculture-livestock-production-j6mjp4-v1
+- **Internship Trainer - Cosmetology & Beauty Therapy** at Rift Valley Institute of Business Studies (RVIBS) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/internship-trainer-cosmetology-beauty-therapy-6q7xjn-v1
+- **Automotive Trainer** at Rift Valley Institute of Business Studies (RVIBS) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/automotive-trainer-qzqrpp
