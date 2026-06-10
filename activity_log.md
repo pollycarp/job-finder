@@ -2383,3 +2383,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/internship-trainer-cosmetology-beauty-therapy-6q7xjn-v1
 - **Automotive Trainer** at Rift Valley Institute of Business Studies (RVIBS) (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/automotive-trainer-qzqrpp
+
+## 2026-06-10 11:47 UTC — 3 new job(s)
+
+- **ICT Assistant – Network Administration** at Kenya Tea Packers Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-assistant-network-administration-kenya-tea-packers-limited
+- **Head of AI & Program Technology Engineering** at International Rescue Committee (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/head-ai-program-technology-engineering-international-rescue-committee/
+- **Analytics, Reports (BI) & Campaign Support Engineer** at Sheer Logic (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/analytics-reports-bi-campaign-support-engineer-sheer-logic/
