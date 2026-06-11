@@ -2392,3 +2392,20 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/head-ai-program-technology-engineering-international-rescue-committee/
 - **Analytics, Reports (BI) & Campaign Support Engineer** at Sheer Logic (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/analytics-reports-bi-campaign-support-engineer-sheer-logic/
+
+## 2026-06-11 08:33 UTC — 7 new job(s)
+
+- **ICT Intern** at Alliance for a Green Revolution in Africa (AGRA) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-intern-alliance-for-a-green-revolution-in-africa-agra
+- **Data Analyst (RTA, MIS & WFM)** at Calltronix Kenya Limited (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-analyst-rta-mis-wfm-9k0qdp
+- **Quality Assurance Analyst I | Teleperformance** at Teleperformance (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/quality-assurance-analyst-i-teleperformance-erdnkv-v1
+- **Assistant Manager Investment, JOB GRADE 4 REF: VA/2/06/2026 (1 Position)** at JKUAT Enterprises Ltd (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/assistant-manager-investment-job-grade-4-ref-va2062026-1-position-qzqe5v
+- **Director of Information Systems** at Burn (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/director-of-information-systems-erdex5
+- **Lecturer in Computer Science** at Catholic University of Eastern Africa (CUEA) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/lecturer-in-computer-science-rr2e78
+- **Senior ICT Officer** at Natural State (Outside Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-ict-officer-45jvp8
