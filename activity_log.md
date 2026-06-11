@@ -2409,3 +2409,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/lecturer-in-computer-science-rr2e78
 - **Senior ICT Officer** at Natural State (Outside Kenya) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/senior-ict-officer-45jvp8
+
+## 2026-06-11 13:57 UTC — 1 new job(s)
+
+- **Machine Learning Operations Specialist – CIMMYT** at Center for International Forestry Research (CIFOR) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/machine-learning-operations-specialist-cimmyt-center-for-international-forestry-research-cifor
