@@ -2414,3 +2414,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Machine Learning Operations Specialist – CIMMYT** at Center for International Forestry Research (CIFOR) (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/machine-learning-operations-specialist-cimmyt-center-for-international-forestry-research-cifor
+
+## 2026-06-11 17:38 UTC — 1 new job(s)
+
+- **Engineer, Software Automation** at Standard Bank Group (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/engineer-software-automation-standard-bank-group
