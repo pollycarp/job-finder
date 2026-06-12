@@ -2419,3 +2419,20 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Engineer, Software Automation** at Standard Bank Group (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/engineer-software-automation-standard-bank-group
+
+## 2026-06-12 08:21 UTC — 7 new job(s)
+
+- **Senior Cloud Platform Engineer** at Solvo Global (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-cloud-platform-engineer-solvo-global
+- **Java Backend Engineering Team Lead** at Triggerise (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/java-backend-engineering-team-lead-erde0k
+- **Public Works Director / Chief Engineer** at Amentum (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/public-works-director-chief-engineer-wrm74z
+- **Website Officer, P3** at UNEP (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/website-officer-p3-erdeev
+- **Administrative Assistant (Locum), GSMC** at Aga Khan Hospitals (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/administrative-assistant-locum-gsmc-wrm765
+- **Consultant Radiologist** at Excelligent Health (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/consultant-radiologist-0kpjjm
+- **Digital Media Specialist, Library Department** at Aga Khan Hospitals (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/digital-media-specialist-library-department-gm5e6n
