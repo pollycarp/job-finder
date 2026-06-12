@@ -2436,3 +2436,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/consultant-radiologist-0kpjjm
 - **Digital Media Specialist, Library Department** at Aga Khan Hospitals (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/digital-media-specialist-library-department-gm5e6n
+
+## 2026-06-12 12:54 UTC — 1 new job(s)
+
+- **Cybersecurity Manager** at Jambojet (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/cybersecurity-manager-jambojet
