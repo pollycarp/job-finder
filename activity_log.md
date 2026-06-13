@@ -2460,3 +2460,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/services-sales-representative-saas-9j468n-v1
 - **2026 Management Trainee Program (HMTP)** at Huawei Technologies (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/2026-management-trainee-program-hmtp-2kzm5k
+
+## 2026-06-13 13:32 UTC — 1 new job(s)
+
+- **Data Analyst** at Infotrak Research and Consulting (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-analyst-infotrak-research-and-consulting-1
