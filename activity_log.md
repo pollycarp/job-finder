@@ -2441,3 +2441,22 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Cybersecurity Manager** at Jambojet (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/cybersecurity-manager-jambojet
+
+## 2026-06-13 07:45 UTC — 8 new job(s)
+
+- **Research Technician – Breeding- CIMMYT** at Center for International Forestry Research (CIFOR) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/research-technician-breeding-cimmyt-x8drp0
+- **Part-Time Lecturer - Information Technology and Machine Learning** at Rongo University (RU) (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/part-time-lecturer-information-technology-and-machine-learning-m0m20d
+- **Base Management lead (CVM)- Fixed** at SAFARICOM (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/base-management-lead-cvm-fixed-9k0758
+- **Senior Product Manager (AI-Native)** at Umba (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-product-manager-ai-native-m0m2pz
+- **Electrical Engineer - Quality Assurance** at Sun King (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/electrical-engineer-quality-assurance-45jkpz
+- **IT Specialist** at The Simba Group (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/it-specialist-2kzm7v
+- **Services Sales Representative (SaaS)** at Oracle (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/services-sales-representative-saas-9j468n-v1
+- **2026 Management Trainee Program (HMTP)** at Huawei Technologies (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/2026-management-trainee-program-hmtp-2kzm5k
