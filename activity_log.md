@@ -2465,3 +2465,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Data Analyst** at Infotrak Research and Consulting (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/data-analyst-infotrak-research-and-consulting-1
+
+## 2026-06-14 15:47 UTC — 3 new job(s)
+
+- **Base Management Lead (CVM)- Fixed** at Safaricom Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/base-management-lead-cvm-fixed-safaricom-kenya/
+- **Senior Cloud Platform Engineer** at Solvo Global (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-cloud-platform-engineer-solvo-global/
+- **Project Manager(Systems Intergration)** at CDL Human Resource (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/project-managersystems-intergration-cdl-human-resource/
