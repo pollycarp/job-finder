@@ -2474,3 +2474,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/senior-cloud-platform-engineer-solvo-global/
 - **Project Manager(Systems Intergration)** at CDL Human Resource (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/project-managersystems-intergration-cdl-human-resource/
+
+## 2026-06-14 17:13 UTC — 1 new job(s)
+
+- **Cybersecurity Manager** at Jambojet (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/cybersecurity-manager-jambojet/
