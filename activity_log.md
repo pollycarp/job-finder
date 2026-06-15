@@ -2500,3 +2500,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/hiring-ict-trainers-iat-mombasa-z820jg
 - **Managed Services Client Delivery Specialist** at NTT Limited (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/managed-services-client-delivery-specialist-evg2dz-v1
+
+## 2026-06-15 15:42 UTC — 3 new job(s)
+
+- **ICT Internship - 2 Posts** at County Assembly of Kericho (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-internship-2-posts-county-assembly-of-kericho
+- **Information, Communications & Technology (ICT) Intern** at Deloitte Consulting (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/information-communications-technology-ict-intern-deloitte-consulting
+- **Projects Accountant** at Burhani Engineers Ltd (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/projects-accountant-burhani-engineers-ltd/
