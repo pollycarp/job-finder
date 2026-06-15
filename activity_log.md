@@ -2509,3 +2509,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/information-communications-technology-ict-intern-deloitte-consulting
 - **Projects Accountant** at Burhani Engineers Ltd (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/projects-accountant-burhani-engineers-ltd/
+
+## 2026-06-15 19:43 UTC — 1 new job(s)
+
+- **Senior Scientist -Digital Agriculture** at International Livestock Research Institute (ILRI) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-scientist-digital-agriculture-international-livestock-research-institute-ilri/
