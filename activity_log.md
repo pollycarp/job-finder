@@ -2479,3 +2479,24 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Cybersecurity Manager** at Jambojet (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/cybersecurity-manager-jambojet/
+
+## 2026-06-15 09:58 UTC — 9 new job(s)
+
+- **Country ICT (Information and Communication Technology) Manager** at Braeburn Schools (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/country-ict-information-and-communication-technology-manager-braeburn-schools
+- **Workforce Management Scheduler** at Tatu City (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/workforce-management-scheduler-ev02ez-v1
+- **Part-Time Lecturer - Data Science and Machine Learning** at Rongo University (RU) (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/part-time-lecturer-data-science-and-machine-learning-n956kv
+- **AI Data Specialist - Oromo** at RWS Group (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ai-data-specialist-oromo-gwvx78-v2
+- **Biomedical Engineer (with IT Expertise)** at Talent Grid Africa Limited (Full Time) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/biomedical-engineer-with-it-expertise-z82mqx
+- **AGE Supervisor** at Amentum (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/age-supervisor-6q7zr8-v2
+- **Territory Sales Manager East Africa** at RSA Security (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/territory-sales-manager-east-africa-r8dn7g-v1
+- **HIRING ICT TRAINERS – IAT Mombasa** at Institute of Advanced Technology (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/hiring-ict-trainers-iat-mombasa-z820jg
+- **Managed Services Client Delivery Specialist** at NTT Limited (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/managed-services-client-delivery-specialist-evg2dz-v1
