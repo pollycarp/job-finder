@@ -2551,3 +2551,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/stocks-accountant-j6mk0g
 - **Graduate Petrophysicist** at Gulf Energy (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/graduate-petrophysicist-d9r8p8
+
+## 2026-06-16 14:56 UTC — 3 new job(s)
+
+- **Mid Level Data Scientist** at Tezza Business Solutions Ltd (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/mid-level-data-scientist-tezza-business-solutions-ltd-2
+- **Data Analyst Team Lead** at Rainforest Alliance (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-analyst-team-lead-rainforest-alliance-3
+- **Quality Assurance Engineer** at Tourlast Limited (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/quality-assurance-engineer-rr2pv4
