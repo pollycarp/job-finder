@@ -2560,3 +2560,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/data-analyst-team-lead-rainforest-alliance-3
 - **Quality Assurance Engineer** at Tourlast Limited (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/quality-assurance-engineer-rr2pv4
+
+## 2026-06-16 19:33 UTC — 2 new job(s)
+
+- **Education And Technology Researcher** at African Population And Health Research Center (APHRC) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/education-technology-researcher-african-population-health-research-center-aphrc-2/
+- **IT and Social Media Intern** at Jhpiego (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/social-media-intern-jhpiego/
