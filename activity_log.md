@@ -2514,3 +2514,40 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Senior Scientist -Digital Agriculture** at International Livestock Research Institute (ILRI) (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/senior-scientist-digital-agriculture-international-livestock-research-institute-ilri/
+
+## 2026-06-16 09:20 UTC — 17 new job(s)
+
+- **LABORATORY TECHNICIAN II PUBLIC HEALTH** at Pwani University- PU (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/laboratory-technician-ii-public-health-qzqjqj
+- **Senior Production Technologist** at Gulf Energy (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-production-technologist-vdm88p
+- **Graduate Reservoir Engineer** at Gulf Energy (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/graduate-reservoir-engineer-j6mk86
+- **Senior Drilling Engineer** at Gulf Energy (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-drilling-engineer-6q7p97
+- **Field Electrical Engineers** at Gulf Energy (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/field-electrical-engineers-9k07pv
+- **Senior Completions Engineer** at Gulf Energy (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-completions-engineer-qzq0ew
+- **Project Cost Engineer** at Gulf Energy (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/project-cost-engineer-qzq00w
+- **Production Engineer (Upstream Oil & Gas Production) – Nairobi, Kenya** at WTS Energy (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/production-engineer-upstream-oil-gas-production-nairobi-kenya-erd4e6
+- **Production Engineer** at Gulf Energy (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/production-engineer-7jv2kd
+- **Senior Completions Engineer (Onshore Planning) – Nairobi, Kenya** at WTS Energy (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-completions-engineer-onshore-planning-nairobi-kenya-gm5x29
+- **Senior Drilling Engineer (Onshore Planning) – Nairobi, Kenya** at WTS Energy (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-drilling-engineer-onshore-planning-nairobi-kenya-j6m8m6
+- **Senior Production Technologist – Nairobi, Kenya** at WTS Energy (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-production-technologist-nairobi-kenya-x8dr7z
+- **Senior Petrophysicist** at Gulf Energy (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-petrophysicist-wrm47g
+- **Drilling Fluids & Cementing SME – Kenya (Field Based)** at WTS Energy (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/drilling-fluids-cementing-sme-kenya-field-based-k7mj48
+- **Drilling Fluids & Cementing SME** at Gulf Energy (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/drilling-fluids-cementing-sme-6q7pp7
+- **Stocks Accountant** at Gulf Energy (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/stocks-accountant-j6mk0g
+- **Graduate Petrophysicist** at Gulf Energy (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/graduate-petrophysicist-d9r8p8
