@@ -2567,3 +2567,32 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/education-technology-researcher-african-population-health-research-center-aphrc-2/
 - **IT and Social Media Intern** at Jhpiego (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/social-media-intern-jhpiego/
+
+## 2026-06-17 08:59 UTC — 13 new job(s)
+
+- **Fullstack Developer** at Nathan Digital (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/fullstack-developer-nathan-digital-2
+- **Mid Level Data Scientist** at Tezza Business Solutions Ltd (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/mid-level-data-scientist-tezza-business-solutions-ltd/
+- **Data Analyst Team Lead** at Rainforest Alliance (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/data-analyst-team-lead-rainforest-alliance-2/
+- **Mid Level Android Developer** at Tezza Business Solutions Ltd (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/mid-level-android-developer-tezza-business-solutions-ltd/
+- **IT Support Specialist** at Tezza Business Solutions Ltd (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/support-specialist-tezza-business-solutions-ltd/
+- **Assistant IT & Communications Officer** at Kenya Healthcare Federation (KHF) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/assistant-communications-officer-kenya-healthcare-federation-khf/
+- **Internal Auditor** at Britam (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/internal-auditor-britam-2/
+- **Commercial Admin Supervisor** at Victory Farms (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/commercial-admin-supervisor-victory-farms/
+- **Education and Technology Researcher** at The African Population and Health Research Center (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/education-and-technology-researcher-8m0ep0
+- **Senior Scientist -Digital Agriculture** at International Livestock Research Institute (ILRI) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-scientist-digital-agriculture-9k0er7
+- **Business Development Executive** at Synnefa (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/business-development-executive-6q7pvg-v1
+- **IT & Development Assistant** at International Transformation Foundation (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/it-development-assistant-wrmvpk
+- **Security Control Room & Systems Supervisor** at Lake Turkana Wind Power Ltd (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/security-control-room-systems-supervisor-n95m7m
