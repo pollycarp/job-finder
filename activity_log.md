@@ -2596,3 +2596,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/it-development-assistant-wrmvpk
 - **Security Control Room & Systems Supervisor** at Lake Turkana Wind Power Ltd (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/security-control-room-systems-supervisor-n95m7m
+
+## 2026-06-17 16:57 UTC — 2 new job(s)
+
+- **Regulatory Data & Reporting Analyst** at Cigna (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/regulatory-data-reporting-analyst-cigna
+- **Risk Management Analyst** at Visa (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/risk-management-analyst-visa/
