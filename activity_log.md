@@ -2603,3 +2603,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/regulatory-data-reporting-analyst-cigna
 - **Risk Management Analyst** at Visa (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/risk-management-analyst-visa/
+
+## 2026-06-17 20:06 UTC — 1 new job(s)
+
+- **Associate MEP Engineer** at iColo: A Digital Realty Company (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/associate-mep-engineer-icolo-digital-realty-company/
