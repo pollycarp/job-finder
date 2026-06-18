@@ -2613,3 +2613,16 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Production Operator** at Gulf Energy (Rest of Kenya) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/production-operator-rr2p6q
+
+## 2026-06-18 08:42 UTC — 5 new job(s)
+
+- **Part-Time Lecturer Health Records & ICT** at Amref International University (AMIU) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/part-time-lecturer-health-records-ict-amref-international-university-amiu-1
+- **Lead AI Engineer - Financial Inclusion** at M-KOPA (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/lead-ai-engineer-financial-inclusion-d9rvpj
+- **Software Engineering Team Lead** at M-KOPA (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/software-engineering-team-lead-k7mnnz-v1
+- **Projects Accountant** at Burhani Engineers Ltd (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/projects-accountant-9k0ezp
+- **IT and Social Media Intern** at Jhpiego (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/it-and-social-media-intern-vdm7r8
