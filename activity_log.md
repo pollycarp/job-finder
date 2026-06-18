@@ -2626,3 +2626,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/projects-accountant-9k0ezp
 - **IT and Social Media Intern** at Jhpiego (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/it-and-social-media-intern-vdm7r8
+
+## 2026-06-18 12:51 UTC — 3 new job(s)
+
+- **ICT Tutor** at St Francis Research and Training College (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-tutor-st-francis-research-and-training-college
+- **Senior Engineering Manager** at Precision Development (PxD) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-engineering-manager-precision-development-pxd/
+- **NET Developer** at Cigna (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/net-developer-cigna/
