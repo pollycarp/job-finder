@@ -2608,3 +2608,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Associate MEP Engineer** at iColo: A Digital Realty Company (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/associate-mep-engineer-icolo-digital-realty-company/
+
+## 2026-06-18 02:48 UTC — 1 new job(s)
+
+- **Production Operator** at Gulf Energy (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/production-operator-rr2p6q
