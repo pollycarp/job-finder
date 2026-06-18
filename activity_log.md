@@ -2635,3 +2635,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/senior-engineering-manager-precision-development-pxd/
 - **NET Developer** at Cigna (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/net-developer-cigna/
+
+## 2026-06-18 16:57 UTC — 2 new job(s)
+
+- **Data Scientist** at Girl Effect (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-scientist-girl-effect-1
+- **ICT Assistant III** at County Government of Nyandarua (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-assistant-iii-county-government-of-nyandarua
