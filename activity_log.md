@@ -2642,3 +2642,34 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/data-scientist-girl-effect-1
 - **ICT Assistant III** at County Government of Nyandarua (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/ict-assistant-iii-county-government-of-nyandarua
+
+## 2026-06-19 09:04 UTC — 14 new job(s)
+
+- **Factory Engineer** at Tai Talent Matters (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/factory-engineer-tai-talent-matters/
+- **Senior Systems Auditor** at Nairobi Hospital (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-systems-auditor-nairobi-hospital/
+- **Fractional CFO** at BQI Tech (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/fractional-cfo-bqi-tech/
+- **Junior Salesforce Developer** at BQI Tech (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/junior-salesforce-developer-bqi-tech/
+- **Submit CVs – New Recruitment** at BRAC (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-brac/
+- **Data Scientist – Asset Management** at ICEA Lion (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-scientist-asset-management-gm5vg8
+- **Mid Level Data Scientist** at Tezza Business Solutions (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/mid-level-data-scientist-wrmdzz
+- **Senior Data Engineer** at ICEA Lion (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-data-engineer-pgpxwq
+- **Senior Electrical Systems Specialist** at Miale Solar (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-electrical-systems-specialist-6q7g6p
+- **System Developer** at Tenwek Hospital (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/system-developer-5pwmdn
+- **Photocopier Technician** at Amentum (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/photocopier-technician-rr2n5n-v4
+- **Senior Power Plant Operator** at Amentum (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-power-plant-operator-8m0jvr
+- **IT Service Desk Analyst** at Madison Insurance Group (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/it-service-desk-analyst-vdm24k
+- **General Manager – Corporate Services** at Kenya Reinsurance Corporation (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/general-manager-corporate-services-2kz4q2
