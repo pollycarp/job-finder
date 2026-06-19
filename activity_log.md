@@ -2682,3 +2682,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/medical-device-regulatory-affairs-strategist-oracle/
 - **Regional Sales Manager** at Palo Alto Networks (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/regional-sales-manager-palo-alto-networks/
+
+## 2026-06-19 19:31 UTC — 1 new job(s)
+
+- **IT Officer** at Greenpeace (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/it-officer-at-greenpeace/
