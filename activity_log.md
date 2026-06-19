@@ -2673,3 +2673,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/it-service-desk-analyst-vdm24k
 - **General Manager – Corporate Services** at Kenya Reinsurance Corporation (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/general-manager-corporate-services-2kz4q2
+
+## 2026-06-19 16:33 UTC — 3 new job(s)
+
+- **Senior QA Engineer** at Tana (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-qa-engineer-tana/
+- **Medical Device Regulatory Affairs Strategist** at Oracle (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/medical-device-regulatory-affairs-strategist-oracle/
+- **Regional Sales Manager** at Palo Alto Networks (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/regional-sales-manager-palo-alto-networks/
