@@ -2687,3 +2687,26 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **IT Officer** at Greenpeace (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/it-officer-at-greenpeace/
+
+## 2026-06-20 07:49 UTC — 10 new job(s)
+
+- **KE-Data Analyst (National)** at Church World Service (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ke-data-analyst-national-church-world-service-1
+- **ICT Associate** at UN Women (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-associate-un-women-2
+- **Data Scientist** at Girl Effect Kenya (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-scientist-wrmd8p
+- **Assistant Manager, Internal Auditor** at ICEA Lion (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/assistant-manager-internal-auditor-qzqmvz
+- **Senior Digital Innovation & AI Solution Expert Lead** at UN-Habitat (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-digital-innovation-ai-solution-expert-lead-6q7gzv
+- **Mid Level Android Developer** at Tezza Business Solutions (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/mid-level-android-developer-5pwm50
+- **Junior Salesforce Developer** at BQI Tech (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/junior-salesforce-developer-8m0jrp
+- **Fractional CFO** at BQI Tech (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/fractional-cfo-vdm2qm
+- **Associate MEP Engineer** at icolo.io (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/associate-mep-engineer-rr2gkj
+- **Web Developer** at Kenya Tea Development Agency (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/web-developer-0kpqdz
