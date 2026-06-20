@@ -2710,3 +2710,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/associate-mep-engineer-rr2gkj
 - **Web Developer** at Kenya Tea Development Agency (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/web-developer-0kpqdz
+
+## 2026-06-20 13:34 UTC — 1 new job(s)
+
+- **Trainee Program - Software Engineering** at KCB Bank Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/trainee-program-software-engineering-kcb-bank-kenya
