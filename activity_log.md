@@ -2715,3 +2715,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Trainee Program - Software Engineering** at KCB Bank Kenya (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/trainee-program-software-engineering-kcb-bank-kenya
+
+## 2026-06-21 08:26 UTC — 2 new job(s)
+
+- **DPW Coordinator I (Tier 2)** at Fluor Corporation (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/dpw-coordinator-i-tier-2-vdm8km-v1
+- **Network Administrator** at Kenya Tea Development Agency (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/network-administrator-0kpqex
