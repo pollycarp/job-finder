@@ -2737,3 +2737,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/fire-emergency-services-administrative-assistant-6q7z4d-v3
 - **Administrative Intern - Sales & Procurement Operations** at Tradestar Kenya Ltd. (Internship & Graduate) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/administrative-intern-sales-procurement-operations-8m0j76
+
+## 2026-06-22 15:18 UTC — 2 new job(s)
+
+- **Senior Software Engineer** at CIC Insurance (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-software-engineer-cic-insurance-1
+- **Sacco ICT Officer** at Co-operative Bank of Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/sacco-ict-officer-co-operative-bank-of-kenya-1
