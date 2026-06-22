@@ -2744,3 +2744,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/senior-software-engineer-cic-insurance-1
 - **Sacco ICT Officer** at Co-operative Bank of Kenya (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/sacco-ict-officer-co-operative-bank-of-kenya-1
+
+## 2026-06-22 19:23 UTC — 1 new job(s)
+
+- **Submit CVs – New Recruitment** at Britam (4 Positions) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-britam-4-positions/
