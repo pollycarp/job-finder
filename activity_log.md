@@ -2722,3 +2722,18 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/dpw-coordinator-i-tier-2-vdm8km-v1
 - **Network Administrator** at Kenya Tea Development Agency (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/network-administrator-0kpqex
+
+## 2026-06-22 09:44 UTC — 6 new job(s)
+
+- **Backend Developer** at Britam (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/backend-developer-britam-1
+- **KE-Data Analyst (National)** at Church World Service (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/ke-data-analyst-national-church-world-service-2/
+- **ICT Associate** at UN Women (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/ict-associate-un-women/
+- **3D Designer & Game Development Intern** at Tradestar Kenya Ltd. (Internship & Graduate) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/3d-designer-game-development-intern-5pwm0r
+- **Fire & Emergency Services Administrative Assistant** at Amentum (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/fire-emergency-services-administrative-assistant-6q7z4d-v3
+- **Administrative Intern - Sales & Procurement Operations** at Tradestar Kenya Ltd. (Internship & Graduate) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/administrative-intern-sales-procurement-operations-8m0j76
