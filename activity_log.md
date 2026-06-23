@@ -2795,3 +2795,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/prompt-engineer-mogo-finance/
 - **Director of Engineering (Remote)** at GiveDirectly (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/director-engineering-remote-givedirectly/
+
+## 2026-06-23 14:34 UTC — 1 new job(s)
+
+- **Cyber Security Engineer Internship** at Zerofrax Solutions Limited (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/cyber-security-engineer-internship-m0m8jq
