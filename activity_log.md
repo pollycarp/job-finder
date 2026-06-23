@@ -2749,3 +2749,38 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Submit CVs – New Recruitment** at Britam (4 Positions) (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-britam-4-positions/
+
+## 2026-06-23 07:47 UTC — 16 new job(s)
+
+- **Sacco ICT & Compliance Manager Recruitment** at Co-operative Bank of Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/sacco-ict-compliance-manager-recruitment-co-operative-bank-of-kenya
+- **ICT Consultant** at The Green Belt Movement (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-consultant-the-green-belt-movement
+- **Sacco ICT Officer** at Co-operative Bank of Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/sacco-ict-officer-co-operative-bank-kenya/
+- **Regional MEAL and Learning Specialist** at Action Against Hunger (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/regional-meal-and-learning-specialist-8m0q5j
+- **Cloud FinOps Analyst** at World Vision (Outside Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/cloud-finops-analyst-vdmngv
+- **Software Developer** at Britam (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/software-developer-7jvnwd
+- **Director, Digital Health and Informatics** at Last Mile Health (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/director-digital-health-and-informatics-8m0q9n
+- **AI Solutions Architect** at Code for Africa (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ai-solutions-architect-k7m96z
+- **Director of Engineering (Remote)** at GiveDirectly, Inc (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/director-of-engineering-remote-8m0q4j
+- **Front-End Developer** at Britam (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/front-end-developer-n95r9e
+- **Backend Developer** at Britam (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/backend-developer-0kpmn6
+- **Head of Engineering** at Green Spoon (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/head-of-engineering-8m0qmj
+- **Growth Engineer (Sales & Tech)** at Noury (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/growth-engineer-sales-tech-k7m988
+- **IT Officer** at Green Peace (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/it-officer-qzqp2j
+- **Senior Systems Developer** at Christian Aid (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-systems-developer-vdmndv
+- **ICT Associate** at UN Women (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ict-associate-x8d4wj
