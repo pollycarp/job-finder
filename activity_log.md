@@ -2784,3 +2784,14 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/senior-systems-developer-vdmndv
 - **ICT Associate** at UN Women (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/ict-associate-x8d4wj
+
+## 2026-06-23 11:01 UTC — 4 new job(s)
+
+- **Senior Software Engineer** at CIC Insurance (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-software-engineer-cic-insurance/
+- **Medical Engineer** at Peoplelink Consultants Ltd (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/medical-engineer-peoplelink-consultants-ltd/
+- **Prompt Engineer** at Mogo Finance (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/prompt-engineer-mogo-finance/
+- **Director of Engineering (Remote)** at GiveDirectly (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/director-engineering-remote-givedirectly/
