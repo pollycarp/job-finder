@@ -2836,3 +2836,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Submit CVs – New Recruitment** at Africa Centre for Health Systems and Gender Justice (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-africa-centre-health-systems-gender-justice/
+
+## 2026-06-24 14:13 UTC — 2 new job(s)
+
+- **Senior Business Development Executive – ICT Infrastructure & ELV Solutions** at Nexus Staffing Solutions (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-business-development-executive-ict-infrastructure-elv-solutions-nexus-staffing-solutions
+- **Senior Business Development Executive** at Nexus Staffing Solutions (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-business-development-executive-pgpkzx
