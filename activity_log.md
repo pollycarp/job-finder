@@ -2800,3 +2800,34 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Cyber Security Engineer Internship** at Zerofrax Solutions Limited (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/cyber-security-engineer-internship-m0m8jq
+
+## 2026-06-24 07:39 UTC — 14 new job(s)
+
+- **Submit CVs – New Recruitment** at RSM (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-rsm/
+- **Business Development & Account Manager** at Thales (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/business-development-account-manager-thales/
+- **POLICY & RESEARCH MANAGER** at KEPSA (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/policy-research-manager-j6mv2e
+- **Tender Manager - Drilling and Completions Fluids** at Baker Hughes (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/tender-manager-drilling-and-completions-fluids-5pw5v0-v1
+- **Head of Engineering - Digital Experience** at Watu Credit (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/head-of-engineering-digital-experience-wrmq8d
+- **Mobile Security Technician** at Sun King (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/mobile-security-technician-5d75zg-v2
+- **Club and Activities Manager** at Amentum (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/club-and-activities-manager-7jvnrq
+- **Senior QA Automation Engineer** at Watu Credit (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-qa-automation-engineer-qzqpvp
+- **Ship Load Planner** at Amentum (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ship-load-planner-0kpmzj
+- **Stock Control Manager** at Amentum (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/stock-control-manager-45je7m
+- **QA Automation Engineer** at Watu Credit (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/qa-automation-engineer-z82g6v
+- **ICT Consultant** at The Green Belt Movement (GBM) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ict-consultant-wrmq8k
+- **IT System Auditor (Security & Compliance Focus)** at KENEX (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/it-system-auditor-security-compliance-focus-qzqpg6
+- **General Support - Digital Trainer** at Danish Refugee Council (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/general-support-digital-trainer-rr2d4q
