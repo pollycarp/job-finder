@@ -2831,3 +2831,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/it-system-auditor-security-compliance-focus-qzqpg6
 - **General Support - Digital Trainer** at Danish Refugee Council (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/general-support-digital-trainer-rr2d4q
+
+## 2026-06-24 10:47 UTC — 1 new job(s)
+
+- **Submit CVs – New Recruitment** at Africa Centre for Health Systems and Gender Justice (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-africa-centre-health-systems-gender-justice/
