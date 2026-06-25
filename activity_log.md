@@ -2843,3 +2843,30 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/senior-business-development-executive-ict-infrastructure-elv-solutions-nexus-staffing-solutions
 - **Senior Business Development Executive** at Nexus Staffing Solutions (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/senior-business-development-executive-pgpkzx
+
+## 2026-06-25 07:40 UTC — 12 new job(s)
+
+- **Cybersecurity & Digital Protection Trainer** at Charles Mordecai Training Institute (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/cybersecurity-digital-protection-trainer-charles-mordecai-training-institute
+- **Digital Solutions Engineer** at Summit Recruitment and Search (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/digital-solutions-engineer-summit-recruitment-search/
+- **Project Manager- Temporary** at International Livestock Research Institute (ILRI) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/project-manager-temporary-j64mmz
+- **Credit Risk Analyst** at Umba (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/credit-risk-analyst-0kgpge
+- **F&B Manager** at Superior Hotels Kenya (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/fb-manager-7j8vvz
+- **Cross-Border Payments Lead** at Umba (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/cross-border-payments-lead-07qezw-v1
+- **Deposit Mobilization Relationship Officer** at Umba (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/deposit-mobilization-relationship-officer-vdmn9w
+- **UX Researcher (AI & Human-Centered Design) – Kenya** at WTS Energy (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ux-researcher-ai-human-centered-design-kenya-k7rm5x
+- **MEL & Digital Health System Manager** at International Centre for Reproductive Health (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/mel-digital-health-system-manager-x8jdj8
+- **Solar Design & Proposal Technician** at Safer Power Limited (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/solar-design-proposal-technician-k7rmrx
+- **Part Time Lecturer - Cybersecurity Law and Ethics** at Open University of Kenya (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/part-time-lecturer-cybersecurity-law-and-ethics-7j8vwx
+- **Regional Sales Manager** at Palo Alto Networks (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/regional-sales-manager-rr2gvn-v1
