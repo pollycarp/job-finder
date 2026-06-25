@@ -2870,3 +2870,18 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/part-time-lecturer-cybersecurity-law-and-ethics-7j8vwx
 - **Regional Sales Manager** at Palo Alto Networks (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/regional-sales-manager-rr2gvn-v1
+
+## 2026-06-25 10:41 UTC — 6 new job(s)
+
+- **Lead Analyst- Data Operations** at Sun King (Formerly Greenlight Planet) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/lead-analyst-data-operations-greenlight-planet
+- **ICT Business Systems Analyst- Nairobi** at Siginon Group (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-business-systems-analyst-nairobi-siginon-group
+- **ICT Business Systems Analyst-Mombasa** at Siginon Group (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-business-systems-analyst-mombasa-siginon-group
+- **Senior Software Developer** at Salix Data (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-software-developer-salix-data/
+- **Senior Business Development Executive – ICT Infrastructure & ELV Solutions** at Nexus Staffing Solutions (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-business-development-executive-ict-infrastructure-elv-solutions-nexus-staffing-solutions/
+- **Stone Cutting Machine Operator / Apprentice** at Newmatic Countertops Limited (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/stone-cutting-machine-operator-apprentice-2kjzw2
