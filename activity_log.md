@@ -2885,3 +2885,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/senior-business-development-executive-ict-infrastructure-elv-solutions-nexus-staffing-solutions/
 - **Stone Cutting Machine Operator / Apprentice** at Newmatic Countertops Limited (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/stone-cutting-machine-operator-apprentice-2kjzw2
+
+## 2026-06-25 14:11 UTC — 2 new job(s)
+
+- **Intern Data Analyst, Data Insights** at Save the Children (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/intern-data-analyst-data-insights-save-the-children
+- **Trainers** at Charles Mordecai Training Institute (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/trainers-charles-mordecai-training-institute/
