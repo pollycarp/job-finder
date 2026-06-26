@@ -2905,3 +2905,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/systems-engineer-netsuite-west-indian-ocean-cable-company-wiocc/
 - **Senior Talent Management Specialist** at CloudFactory (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/senior-talent-management-specialist-cloudfactory-2/
+
+## 2026-06-26 10:48 UTC — 2 new job(s)
+
+- **ICT Attachment** at The Rural Electrification and Renewable Energy Corporation (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-attachment-the-rural-electrification-and-renewable-energy-corporation
+- **ICT Officer** at Anonymous Employer (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ict-officer-vd4mvx
