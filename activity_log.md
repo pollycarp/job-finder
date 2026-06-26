@@ -2892,3 +2892,16 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/intern-data-analyst-data-insights-save-the-children
 - **Trainers** at Charles Mordecai Training Institute (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/trainers-charles-mordecai-training-institute/
+
+## 2026-06-26 07:47 UTC — 5 new job(s)
+
+- **ICT Support Assistant** at Qona Sacco (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-support-assistant-qona-sacco
+- **Intern Data Analyst, Data Insights** at Save the Children (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/intern-data-analyst-data-insights-save-children/
+- **Lead Analyst – Data Operations** at Sun King (Formerly Greenlight Planet) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/lead-analyst-data-operations-sun-king-formerly-greenlight-planet/
+- **IT & Systems Engineer (NetSuite)** at West Indian Ocean Cable Company (WIOCC) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/systems-engineer-netsuite-west-indian-ocean-cable-company-wiocc/
+- **Senior Talent Management Specialist** at CloudFactory (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-talent-management-specialist-cloudfactory-2/
