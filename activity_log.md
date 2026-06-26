@@ -2919,3 +2919,14 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/data-scientist-britam
 - **Full Stack Software Developer** at Family Bank Ltd (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/full-stack-software-developer-family-bank-ltd
+
+## 2026-06-26 17:34 UTC — 4 new job(s)
+
+- **Software Engineer II** at Microsoft (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/software-engineer-ii-microsoft-13
+- **Analyst, Application Support** at Standard Bank Group (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/analyst-application-support-standard-bank-group/
+- **Manager, Reconciliations** at Standard Bank Group (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/manager-reconciliations-standard-bank-group-2/
+- **Director, AI Security** at International Rescue Committee (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/director-ai-security-international-rescue-committee/
