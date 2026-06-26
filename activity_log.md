@@ -2912,3 +2912,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/ict-attachment-the-rural-electrification-and-renewable-energy-corporation
 - **ICT Officer** at Anonymous Employer (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/ict-officer-vd4mvx
+
+## 2026-06-26 14:09 UTC — 2 new job(s)
+
+- **Data Scientist** at Britam (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-scientist-britam
+- **Full Stack Software Developer** at Family Bank Ltd (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/full-stack-software-developer-family-bank-ltd
