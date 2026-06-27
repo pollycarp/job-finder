@@ -2942,3 +2942,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/ict-specialist-data-digital-innovation-international-committee-of-the-red-cross-icrc
 - **ICT Interns** at Kenya Institute of Management (KIM) (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/ict-interns-kenya-institute-of-management-kim-1
+
+## 2026-06-27 15:12 UTC — 1 new job(s)
+
+- **Commercial Manager - ICT, ELV & Smart Building Solutions** at Nexus Staffing Solutions (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/commercial-manager-ict-elv-smart-building-solutions-nexus-staffing-solutions
