@@ -2930,3 +2930,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/manager-reconciliations-standard-bank-group-2/
 - **Director, AI Security** at International Rescue Committee (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/director-ai-security-international-rescue-committee/
+
+## 2026-06-27 06:50 UTC — 1 new job(s)
+
+- **Data Scientist (1 Year Fixed-Term Contract)** at Britam (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-scientist-1-year-fixed-term-contract-britam
