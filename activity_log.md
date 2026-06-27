@@ -2935,3 +2935,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Data Scientist (1 Year Fixed-Term Contract)** at Britam (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/data-scientist-1-year-fixed-term-contract-britam
+
+## 2026-06-27 10:01 UTC — 2 new job(s)
+
+- **ICT Specialist (Data & Digital Innovation)** at International Committee of the Red Cross (ICRC) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-specialist-data-digital-innovation-international-committee-of-the-red-cross-icrc
+- **ICT Interns** at Kenya Institute of Management (KIM) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-interns-kenya-institute-of-management-kim-1
