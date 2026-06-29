@@ -2947,3 +2947,24 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Commercial Manager - ICT, ELV & Smart Building Solutions** at Nexus Staffing Solutions (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/commercial-manager-ict-elv-smart-building-solutions-nexus-staffing-solutions
+
+## 2026-06-29 08:55 UTC — 9 new job(s)
+
+- **Fullstack Developer** at Nathan Digital (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/fullstack-developer-nathan-digital-3
+- **Full-Stack Developer** at Human Capital Outsourcing Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/full-stack-developer-human-capital-outsourcing-limited
+- **Data Scientist (1 Year Fixed-Term Contract)** at Britam (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/data-scientist-1-year-fixed-term-contract-britam/
+- **ICT Specialist (Data & Digital Innovation)** at International Committee of the Red Cross (ICRC) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/ict-specialist-data-digital-innovation-international-committee-red-cross-icrc/
+- **Software Engineer II** at Microsoft (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/software-engineer-ii-microsoft-4/
+- **Field Service Engineer (FSE)** at Sidel (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/field-service-engineer-fse-sidel/
+- **Commercial Manager – ICT, ELV & Smart Building Solutions** at Nexus Staffing Solutions (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/commercial-manager-ict-elv-smart-building-solutions-nexus-staffing-solutions/
+- **ICT Interns** at Kenya Institute of Management (KIM) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/ict-interns-kenya-institute-management-kim-2/
+- **COMMERCIAL DIRECTOR – ICT | ELV SOLUTIONS** at POWERVISION CONSULTANCY (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/commercial-director-ict-elv-solutions-x8jd5q
