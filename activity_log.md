@@ -2973,3 +2973,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Principal Engineer – Network & Cloud Security** at Safaricom Kenya (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/principal-engineer-network-cloud-security-safaricom-kenya
+
+## 2026-06-29 16:57 UTC — 2 new job(s)
+
+- **Quality Engineering Intern** at One Acre Fund (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/quality-engineering-intern-one-acre-fund/
+- **Tupande Automation Engineering Lead** at One Acre Fund (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/tupande-automation-engineering-lead-one-acre-fund/
