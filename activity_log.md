@@ -2968,3 +2968,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/ict-interns-kenya-institute-management-kim-2/
 - **COMMERCIAL DIRECTOR – ICT | ELV SOLUTIONS** at POWERVISION CONSULTANCY (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/commercial-director-ict-elv-solutions-x8jd5q
+
+## 2026-06-29 14:04 UTC — 1 new job(s)
+
+- **Principal Engineer – Network & Cloud Security** at Safaricom Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/principal-engineer-network-cloud-security-safaricom-kenya
