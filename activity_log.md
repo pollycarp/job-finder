@@ -3074,3 +3074,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/team-lead-head-office-compliance-re-advertisement-45jw4z-v1
 - **KE-Software Developer (National)** at Church World Service (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/ke-software-developer-national-rr2m52-v1
+
+## 2026-06-30 10:54 UTC — 2 new job(s)
+
+- **Data Analyst Intern** at Makueni County Public Service Board (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-analyst-makueni-county-public-service-board
+- **Software And AI Engineering Internship** at Cytonn Investments (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/software-and-ai-engineering-internship-cytonn-investments
