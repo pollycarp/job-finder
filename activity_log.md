@@ -2980,3 +2980,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/quality-engineering-intern-one-acre-fund/
 - **Tupande Automation Engineering Lead** at One Acre Fund (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/tupande-automation-engineering-lead-one-acre-fund/
+
+## 2026-06-30 02:35 UTC — 1 new job(s)
+
+- **Full-Stack Developer** at Human Capital Outsourcing Limited (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/full-stack-developer-6qxxq7
