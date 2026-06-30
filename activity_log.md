@@ -3081,3 +3081,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/data-analyst-makueni-county-public-service-board
 - **Software And AI Engineering Internship** at Cytonn Investments (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/software-and-ai-engineering-internship-cytonn-investments
+
+## 2026-06-30 14:03 UTC — 3 new job(s)
+
+- **Head of Information, Communication and Technology (ICT)** at Skills Global (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/head-of-information-communication-and-technology-ict-skills-global
+- **Data Engineer** at Moniepoint (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/data-engineer-moniepoint/
+- **Information and Technology Intern** at Kenya Network Information Centre (KENIC) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/information-technology-intern-kenya-network-information-centre-kenic-2/
