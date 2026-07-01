@@ -3101,3 +3101,14 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/senior-sales-officer-ict-solutions-cloud-and-managed-it-services-rrzz52
 - **Lead - Converged Business Solutions** at SAFARICOM (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/lead-converged-business-solutions-j64476
+
+## 2026-07-01 12:33 UTC — 4 new job(s)
+
+- **Software And AI Engineering Internship** at Cytonn Investments (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/software-ai-engineering-internship-cytonn-investments/
+- **Front-End Developer Intern** at d.light (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/front-end-developer-intern-d-light/
+- **Head of Information, Communication and Technology (ICT)** at Skills Global (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/head-information-communication-technology-ict-skills-global/
+- **Junior Quality Analyst – Animal Feeds** at Kaziweza Limited (Nakuru) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/junior-quality-analyst-animal-feeds-d9eem5
