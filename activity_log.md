@@ -3112,3 +3112,20 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/head-information-communication-technology-ict-skills-global/
 - **Junior Quality Analyst – Animal Feeds** at Kaziweza Limited (Nakuru) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/junior-quality-analyst-animal-feeds-d9eem5
+
+## 2026-07-01 16:22 UTC — 7 new job(s)
+
+- **ICT Senior Analyst** at United Nations Office for Project Services (UNOPS) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-senior-analyst-united-nations-office-for-project-services-unops
+- **IT Operations Engineer – Specialist (L1)** at Calltronix Contact & Training Centre (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/operations-engineer-specialist-l1-calltronix-contact-training-centre/
+- **QSSK- Instrumentation Engineer** at Q-Sourcing Servtec Group (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/qssk-instrumentation-engineer-q-sourcing-servtec-group/
+- **Implementation Engineer Intern** at InterIntel Technologies Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/implementation-engineer-intern-interintel-technologies-limited/
+- **Network Administrator** at Stima Sacco (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/network-administrator-stima-sacco-2/
+- **Warehouse Assistant** at Victory Farms (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/warehouse-assistant-victory-farms/
+- **Driver** at Victoria Court (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/driver-victoria-court/
