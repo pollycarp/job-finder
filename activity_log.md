@@ -3090,3 +3090,14 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/data-engineer-moniepoint/
 - **Information and Technology Intern** at Kenya Network Information Centre (KENIC) (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/information-technology-intern-kenya-network-information-centre-kenic-2/
+
+## 2026-07-01 08:08 UTC — 4 new job(s)
+
+- **Lead - Wholesale & Carrier** at SAFARICOM (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/lead-wholesale-carrier-x8jjej
+- **Go Developer (Remote)** at Quik Hire Staffing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/go-developer-remote-rrzzm4
+- **Senior Sales Officer - ICT Solutions, Cloud And Managed IT Services** at Job Whisper (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-sales-officer-ict-solutions-cloud-and-managed-it-services-rrzz52
+- **Lead - Converged Business Solutions** at SAFARICOM (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/lead-converged-business-solutions-j64476
