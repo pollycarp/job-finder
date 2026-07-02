@@ -3179,3 +3179,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/submit-cvs-latest-recruitment-lions-sightfirst-eye-hospital-13-positions/
 - **Backend Developer** at Simplepay Capital Limited (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/backend-developer-z8v44d
+
+## 2026-07-02 16:06 UTC — 3 new job(s)
+
+- **Data Analyst-In-House And Contract Broiler Operations** at Kenchic Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-analyst-in-house-and-contract-broiler-operations-kenchic-limited
+- **Submit CVs – Latest Recruitment** at NCBA Group (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-latest-recruitment-ncba-group-11/
+- **ICT Senior Analyst** at United Nations Office for Project Services (UNOPS) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/ict-senior-analyst-united-nations-office-project-services-unops/
