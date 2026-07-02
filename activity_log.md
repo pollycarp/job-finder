@@ -3170,3 +3170,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/digital-brand-manager-executive-0kgg4k
 - **Solar Engineer** at A Leading Solar Energy Solutions Provider (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/solar-engineer-rrzzw4
+
+## 2026-07-02 10:36 UTC — 3 new job(s)
+
+- **International Sales** at ITM Kenya Ltd (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/international-sales-itm-kenya-ltd/
+- **Submit CVs – Latest Recruitment** at Lions Sightfirst Eye Hospital (13 Positions) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-latest-recruitment-lions-sightfirst-eye-hospital-13-positions/
+- **Backend Developer** at Simplepay Capital Limited (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/backend-developer-z8v44d
