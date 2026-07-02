@@ -3129,3 +3129,44 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/warehouse-assistant-victory-farms/
 - **Driver** at Victoria Court (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/driver-victoria-court/
+
+## 2026-07-02 07:28 UTC — 19 new job(s)
+
+- **Manager, DevOps** at NCBA Group (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/manager-devops-ncba-group-3
+- **ICT Manager** at Lions Sightfirst Eye Hospital (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-manager-lions-sightfirst-eye-hospital
+- **Senior Scientist - Landscape Ecology** at World Agroforestry Centre (ICRAF) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-scientist-landscape-ecology-4544k4
+- **Senior Scientist - Silviculture** at World Agroforestry Centre (ICRAF) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-scientist-silviculture-0kggjj
+- **Senior Scientist - Human Demography/Epidemiology** at World Agroforestry Centre (ICRAF) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-scientist-human-demographyepidemiology-gmqqrr
+- **Senior Scientist - Macroeconomics** at World Agroforestry Centre (ICRAF) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-scientist-macroeconomics-k7rrkz
+- **Senior Scientist - Soil Science** at World Agroforestry Centre (ICRAF) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-scientist-soil-science-j644ge
+- **Senior Scientist - Financial Governance** at World Agroforestry Centre (ICRAF) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-scientist-financial-governance-n9gge0
+- **Senior Scientist - Land and Forest Tenure Reforms** at World Agroforestry Centre (ICRAF) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-scientist-land-and-forest-tenure-reforms-0kggjk
+- **Senior Scientist - Biomass** at World Agroforestry Centre (ICRAF) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-scientist-biomass-m055wq
+- **Senior Scientist - Nutrition** at World Agroforestry Centre (ICRAF) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-scientist-nutrition-d9eeq5
+- **Senior Scientist - Carbon and Greenhouse Gas Measurement** at World Agroforestry Centre (ICRAF) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-scientist-carbon-and-greenhouse-gas-measurement-rrzz9q
+- **Facilities & Administrative Coordinator** at Oasis Outsourcing (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/facilities-administrative-coordinator-rrzzx4
+- **Brand Ambassador – KUZA** at 4G Capital (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/brand-ambassador-kuza-qz44r6
+- **Debt Collections Agent** at 4G Capital (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/debt-collections-agent-n9ggem
+- **Branch Manager** at 4G Capital (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/branch-manager-6qxx98
+- **Sales & Collections Internship** at 4G Capital (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/sales-collections-internship-7j88z5
+- **Digital Brand Manager/ Executive** at Oasis Outsourcing (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/digital-brand-manager-executive-0kgg4k
+- **Solar Engineer** at A Leading Solar Energy Solutions Provider (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/solar-engineer-rrzzw4
