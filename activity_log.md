@@ -3188,3 +3188,30 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/submit-cvs-latest-recruitment-ncba-group-11/
 - **ICT Senior Analyst** at United Nations Office for Project Services (UNOPS) (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/ict-senior-analyst-united-nations-office-project-services-unops/
+
+## 2026-07-03 06:59 UTC — 12 new job(s)
+
+- **Senior Scientist - Biometrics** at World Agroforestry Centre (ICRAF) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-scientist-biometrics-j64jzv
+- **Senior Scientist - Governance and Trade (FLEGT)** at World Agroforestry Centre (ICRAF) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-scientist-governance-and-trade-flegt-n9gdpw
+- **Senior Scientist - Senior Gender expertise** at World Agroforestry Centre (ICRAF) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-scientist-senior-gender-expertise-gmqgm4
+- **Senior Scientist - Forest Law Enforcement** at World Agroforestry Centre (ICRAF) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-scientist-forest-law-enforcement-wrezpj
+- **Sales and Collections Agent** at 4G Capital (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/sales-and-collections-agent-z8v4pd
+- **Business Development Officer** at 4G Capital (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/business-development-officer-5p64z2
+- **Cybersecurity Engineer** at 4G Capital (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/cybersecurity-engineer-2kjrqp
+- **Telesales Agent – KUZA** at 4G Capital (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/telesales-agent-kuza-wrezj5
+- **AI Video Creator - Performance Marketing** at Oasis Outsourcing (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ai-video-creator-performance-marketing-wrezkm
+- **Trainee Program - Software Engineering** at KCB Group (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/trainee-program-software-engineering-m05rpw
+- **Resident Engineers** at Decalogue International Limited (Full Time) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/resident-engineers-z8v4jk
+- **ICT Manager** at The Lions SightFirst Eye Hospital (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ict-manager-5p64d6
