@@ -3215,3 +3215,18 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/resident-engineers-z8v4jk
 - **ICT Manager** at The Lions SightFirst Eye Hospital (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/ict-manager-5p64d6
+
+## 2026-07-03 10:32 UTC — 6 new job(s)
+
+- **Data Scientist II** at Innovations for Poverty Action (IPA) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-scientist-ii-innovations-for-poverty-action-ipa
+- **Junior Software Support Engineer** at Tana (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/junior-software-support-engineer-tana
+- **Software Engineering Intern** at BURN (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/software-engineering-intern-burn
+- **Data Analyst-In-House And Contract Broiler Operations** at Kenchic Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/data-analyst-house-contract-broiler-operations-kenchic-limited/
+- **Analyst, Solutions** at Standard Bank Group (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/analyst-solutions-standard-bank-group/
+- **Pre Sales Specialist (GCP)** at Abacus (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/pre-sales-specialist-gcp-abacus/
