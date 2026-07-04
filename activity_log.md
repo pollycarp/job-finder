@@ -3230,3 +3230,18 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/analyst-solutions-standard-bank-group/
 - **Pre Sales Specialist (GCP)** at Abacus (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/pre-sales-specialist-gcp-abacus/
+
+## 2026-07-04 05:52 UTC — 6 new job(s)
+
+- **Senior Scientist - Environmental History** at World Agroforestry Centre (ICRAF) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-scientist-environmental-history-vd4p02
+- **Lecturer in Computer Science** at Catholic University of Eastern Africa (CUEA) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/lecturer-in-computer-science-rr2e78-v1
+- **Manager, DevOps** at NCBA Group (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/manager-devops-0kg20d
+- **Network Administrator** at Stima SACCO (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/network-administrator-8mvzr4
+- **Fraud Detection and Monitoring Analyst** at Equity Bank Kenya (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/fraud-detection-and-monitoring-analyst-d9ewzw
+- **Help Desk Support Assistant** at Stima SACCO (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/help-desk-support-assistant-ern5mv
