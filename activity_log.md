@@ -3245,3 +3245,18 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/fraud-detection-and-monitoring-analyst-d9ewzw
 - **Help Desk Support Assistant** at Stima SACCO (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/help-desk-support-assistant-ern5mv
+
+## 2026-07-06 08:15 UTC — 6 new job(s)
+
+- **Software Engineer (Consultant)** at United Nations Environment Programme (UNEP) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/software-engineer-consultant-united-nations-environment-programme-unep
+- **ICT/Computer Science Teacher** at Oshwal Academy Nairobi (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-computer-science-teacher-oshwal-academy-nairobi-2
+- **ICT Support Technician** at Oshwal Academy Nairobi (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-support-technician-oshwal-academy-nairobi-1
+- **Implementation Engineer Intern** at InterIntel Technologies (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/implementation-engineer-intern-x8j650
+- **Senior Functional Software Engineer (With Clojure Experience a Must Have)** at Tezza Business Solutions (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-functional-software-engineer-with-clojure-experience-a-must-have-n9gd4k
+- **Marketing Coordinator** at African Advanced Level Telecommunications Institute (AFRALTI) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/marketing-coordinator-z8v4nr
