@@ -3267,3 +3267,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/data-scientist-educate-1
 - **Data Analytics Engineer** at International Rescue Committee (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/data-analytics-engineer-international-rescue-committee/
+
+## 2026-07-06 16:53 UTC — 1 new job(s)
+
+- **ICT Graduate Trainee** at Premier Hospital (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-graduate-trainee-premier-hospital
