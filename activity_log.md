@@ -3260,3 +3260,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/senior-functional-software-engineer-with-clojure-experience-a-must-have-n9gd4k
 - **Marketing Coordinator** at African Advanced Level Telecommunications Institute (AFRALTI) (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/marketing-coordinator-z8v4nr
+
+## 2026-07-06 13:43 UTC — 2 new job(s)
+
+- **Data Scientist** at Educate! (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-scientist-educate-1
+- **Data Analytics Engineer** at International Rescue Committee (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/data-analytics-engineer-international-rescue-committee/
