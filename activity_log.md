@@ -3294,3 +3294,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/sacco-ict-systems-officer-co-operative-bank-of-kenya
 - **Submit CVs – Career Opportunities** at Unga Holding (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/submit-cvs-career-opportunities-unga-holding/
+
+## 2026-07-07 14:13 UTC — 2 new job(s)
+
+- **Software Engineering Team Lead** at M-KOPA Solar (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/software-engineering-team-lead-m-kopa-solar-7
+- **Frappe Full Stack Engineer** at International Committee of the Red Cross (ICRC) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/frappe-full-stack-engineer-international-committee-red-cross-icrc/
