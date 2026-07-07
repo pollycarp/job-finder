@@ -3301,3 +3301,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/software-engineering-team-lead-m-kopa-solar-7
 - **Frappe Full Stack Engineer** at International Committee of the Red Cross (ICRC) (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/frappe-full-stack-engineer-international-committee-red-cross-icrc/
+
+## 2026-07-07 17:57 UTC — 1 new job(s)
+
+- **Graduate Trainee – ICT & Digital Transformation Services** at The Science for Africa Foundation (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/graduate-trainee-ict-digital-transformation-services-the-science-for-africa-foundation
