@@ -3285,3 +3285,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/sales-executive-qz477z
 - **Quality Assurance Officer** at Umma University (Outside Kenya) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/quality-assurance-officer-d9ekkg
+
+## 2026-07-07 10:51 UTC — 3 new job(s)
+
+- **Software Quality Assurance Engineer** at Jubilee Insurance (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/software-quality-assurance-engineer-jubilee-insurance
+- **Sacco ICT Systems Officer** at Co-operative Bank of Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/sacco-ict-systems-officer-co-operative-bank-of-kenya
+- **Submit CVs – Career Opportunities** at Unga Holding (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-career-opportunities-unga-holding/
