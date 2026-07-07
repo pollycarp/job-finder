@@ -3272,3 +3272,16 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **ICT Graduate Trainee** at Premier Hospital (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/ict-graduate-trainee-premier-hospital
+
+## 2026-07-07 07:34 UTC — 5 new job(s)
+
+- **Full Stack Developer** at Unga Holding (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/full-stack-developer-unga-holding
+- **Senior Cloud Platform Engineer** at Solvo Global (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-cloud-platform-engineer-solvo-global-1
+- **Assistant Project Coordinator** at Riana Group of Companies (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/assistant-project-coordinator-pgd6mr
+- **Sales Executive** at Riana Group of Companies (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/sales-executive-qz477z
+- **Quality Assurance Officer** at Umma University (Outside Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/quality-assurance-officer-d9ekkg
