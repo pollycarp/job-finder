@@ -3323,3 +3323,14 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/technologist-biomedical-n9gx29
 - **UI/UX /Designer** at Girl Effect Kenya (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/uiux-designer-wre2w6
+
+## 2026-07-08 08:15 UTC — 4 new job(s)
+
+- **Software Engineering Team Lead** at M-KOPA Solar (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/software-engineering-team-lead-m-kopa-solar-4/
+- **Information Technology (IT) Manager** at Trees for the Future (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/information-technology-manager-trees-future/
+- **Graduate Trainee – ICT & Digital Transformation Services** at The Science for Africa Foundation (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/graduate-trainee-ict-digital-transformation-services-science-africa-foundation/
+- **Lead / Head / Senior IT Trainer** at Job Whisper (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/lead-head-senior-it-trainer-45486z
