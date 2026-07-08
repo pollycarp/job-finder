@@ -3306,3 +3306,20 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Graduate Trainee – ICT & Digital Transformation Services** at The Science for Africa Foundation (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/graduate-trainee-ict-digital-transformation-services-the-science-for-africa-foundation
+
+## 2026-07-08 05:18 UTC — 7 new job(s)
+
+- **Data Scientist II** at Innovations for Poverty Action (IPA) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-scientist-ii-j64r2g
+- **Data Analytics Engineer** at International Rescue Committee (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-analytics-engineer-zpgrm8-v3
+- **Workforce Management (WFM) Analyst II** at Teleperformance (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/workforce-management-wfm-analyst-ii-20p9kp-v1
+- **Director of Programmes** at African Management Institute (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/director-of-programmes-5p6x5e
+- **Field Service Engineer - Mechatronics** at Sidel (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/field-service-engineer-mechatronics-wrem8z-v1
+- **Technologist, Biomedical** at Aga Khan Hospitals (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/technologist-biomedical-n9gx29
+- **UI/UX /Designer** at Girl Effect Kenya (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/uiux-designer-wre2w6
