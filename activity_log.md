@@ -3348,3 +3348,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/information-systems-audit-manager-prime-bank-kenya/
 - **Sales Manager (Enterprise ICT Solutions)** at Job Whisper (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/sales-manager-enterprise-ict-solutions-2kjq68
+
+## 2026-07-08 19:14 UTC — 2 new job(s)
+
+- **Front End Engineer** at International Committee of the Red Cross (ICRC) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/front-end-engineer-international-committee-red-cross-icrc/
+- **Junior Application and Data Security Engineer** at Solutech Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/junior-application-data-security-engineer-solutech-limited/
