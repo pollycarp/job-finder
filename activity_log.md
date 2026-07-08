@@ -3341,3 +3341,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/lecturer-software-engineering-jaramogi-oginga-odinga-university-of-science-and-technology
 - **Manager – DevOps** at Jubilee Insurance (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/manager-devops-jubilee-insurance
+
+## 2026-07-08 17:32 UTC — 2 new job(s)
+
+- **Information Systems Audit Manager** at Prime Bank Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/information-systems-audit-manager-prime-bank-kenya/
+- **Sales Manager (Enterprise ICT Solutions)** at Job Whisper (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/sales-manager-enterprise-ict-solutions-2kjq68
