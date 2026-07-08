@@ -3334,3 +3334,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/graduate-trainee-ict-digital-transformation-services-science-africa-foundation/
 - **Lead / Head / Senior IT Trainer** at Job Whisper (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/lead-head-senior-it-trainer-45486z
+
+## 2026-07-08 13:47 UTC — 2 new job(s)
+
+- **Lecturer - Software Engineering** at Jaramogi Oginga Odinga University of Science and Technology (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/lecturer-software-engineering-jaramogi-oginga-odinga-university-of-science-and-technology
+- **Manager – DevOps** at Jubilee Insurance (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/manager-devops-jubilee-insurance
