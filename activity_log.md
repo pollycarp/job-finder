@@ -3355,3 +3355,20 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/front-end-engineer-international-committee-red-cross-icrc/
 - **Junior Application and Data Security Engineer** at Solutech Limited (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/junior-application-data-security-engineer-solutech-limited/
+
+## 2026-07-09 07:44 UTC — 7 new job(s)
+
+- **CRRD Data Analyst** at International Rescue Committee (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/crrd-data-analyst-international-rescue-committee
+- **DevOps Engineer** at HF Group (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/devops-engineer-hf-group
+- **ICT Risk Officer** at Co-operative Bank of Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-risk-officer-co-operative-bank-of-kenya-3
+- **ICT Trainer/Technician** at Cascade Institute of Hospitality (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-trainer-technician-cascade-institute-of-hospitality
+- **Manager – DevOps** at Jubilee Insurance (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/manager-devops-jubilee-insurance/
+- **Submit CVs – New Recruitment** at DIB Bank Kenya Limited (DIBBKE) – (6 Positions) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-dib-bank-kenya-limited-dibbke-6-positions/
+- **Project Manager (ICT & Cybersecurity)** at Job Whisper (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/project-manager-ict-cybersecurity-pgd6e0
