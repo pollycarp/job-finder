@@ -3372,3 +3372,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-dib-bank-kenya-limited-dibbke-6-positions/
 - **Project Manager (ICT & Cybersecurity)** at Job Whisper (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/project-manager-ict-cybersecurity-pgd6e0
+
+## 2026-07-09 10:51 UTC — 1 new job(s)
+
+- **Part-time Lectures - Cybersecurity Law and Ethics** at The Open University of Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/part-time-lectures-cybersecurity-law-and-ethics-the-open-university-of-kenya
