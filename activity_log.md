@@ -3377,3 +3377,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Part-time Lectures - Cybersecurity Law and Ethics** at The Open University of Kenya (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/part-time-lectures-cybersecurity-law-and-ethics-the-open-university-of-kenya
+
+## 2026-07-09 14:38 UTC — 1 new job(s)
+
+- **Associate Scientist – Data Analyst- ICRISAT** at World Agroforestry Centre (ICRAF) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/associate-scientist-data-analyst-icrisat-world-agroforestry-centre-icraf
