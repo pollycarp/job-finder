@@ -3410,3 +3410,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/software-engineer-angular-front-end-focus-tropical-heat
 - **Content Digitization Interns – 3 Posts** at Kabarak University (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/content-digitization-interns-3-posts-kabarak-university/
+
+## 2026-07-10 14:05 UTC — 2 new job(s)
+
+- **Data Analyst Intern - 1 Post** at Agile Business Solutions Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-analyst-intern-1-post-agile-business-solutions-limited
+- **AI & Machine Learning Intern - 1 Post** at Agile Business Solutions Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ai-machine-learning-intern-1-post-agile-business-solutions-limited
