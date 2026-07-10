@@ -3382,3 +3382,24 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Associate Scientist – Data Analyst- ICRISAT** at World Agroforestry Centre (ICRAF) (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/associate-scientist-data-analyst-icrisat-world-agroforestry-centre-icraf
+
+## 2026-07-10 06:10 UTC — 9 new job(s)
+
+- **Store Technician / Store Person-Nyali** at Safer Power Limited (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/store-technician-store-person-nyali-z8vprd
+- **Store Technician / Store Person-Mombasa** at Safer Power Limited (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/store-technician-store-person-mombasa-6qxdrd
+- **ICT Trainer/Technician** at Cascade Institute of Hospitality (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ict-trainertechnician-qz426v
+- **ICT Senior Analyst** at UNOPS (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ict-senior-analyst-wree4d-v1
+- **Hospitality Management Trainer (Accounting & Finance Units)** at Cascade Institute of Hospitality (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/hospitality-management-trainer-accounting-finance-units-qz42wv
+- **Pastry & Bakery Trainer** at Cascade Institute of Hospitality (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/pastry-bakery-trainer-ernvp5
+- **Director, Corporate Services/Administration** at Kenya Utalii College (KUC) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/director-corporate-servicesadministration-454n04
+- **Hospitality Management Trainer** at Cascade Institute of Hospitality (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/hospitality-management-trainer-wpdnjz-v1
+- **Tourism Management Trainer** at Cascade Institute of Hospitality (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/tourism-management-trainer-x8jpqm
