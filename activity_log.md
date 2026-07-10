@@ -3417,3 +3417,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/data-analyst-intern-1-post-agile-business-solutions-limited
 - **AI & Machine Learning Intern - 1 Post** at Agile Business Solutions Limited (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/ai-machine-learning-intern-1-post-agile-business-solutions-limited
+
+## 2026-07-10 19:21 UTC — 1 new job(s)
+
+- **Software Developer** at Medbook Kenya Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/software-developer-medbook-kenya-limited-2/
