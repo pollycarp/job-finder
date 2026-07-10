@@ -3403,3 +3403,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/hospitality-management-trainer-wpdnjz-v1
 - **Tourism Management Trainer** at Cascade Institute of Hospitality (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/tourism-management-trainer-x8jpqm
+
+## 2026-07-10 10:49 UTC — 2 new job(s)
+
+- **Software Engineer (Angular / Front-End Focus)** at Tropical Heat (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/software-engineer-angular-front-end-focus-tropical-heat
+- **Content Digitization Interns – 3 Posts** at Kabarak University (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/content-digitization-interns-3-posts-kabarak-university/
