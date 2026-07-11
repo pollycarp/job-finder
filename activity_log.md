@@ -3422,3 +3422,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Software Developer** at Medbook Kenya Limited (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/software-developer-medbook-kenya-limited-2/
+
+## 2026-07-11 05:00 UTC — 3 new job(s)
+
+- **Part-Time Lecturer - IT ( Software engineering)** at Umma University (Outside Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/part-time-lecturer-it-software-engineering-qz42rk
+- **Store Technician / Store Person-Eldoret** at Safer Power Limited (Rest of Kenya (Eldoret)) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/store-technician-store-person-eldoret-rrz8xx
+- **Store Technician / Store Person- Kisumu** at Safer Power Limited (Kisumu) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/store-technician-store-person-kisumu-wrepx5
