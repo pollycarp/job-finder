@@ -3431,3 +3431,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/store-technician-store-person-eldoret-rrz8xx
 - **Store Technician / Store Person- Kisumu** at Safer Power Limited (Kisumu) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/store-technician-store-person-kisumu-wrepx5
+
+## 2026-07-11 13:01 UTC — 1 new job(s)
+
+- **Data Analyst** at The Digital Monkeys (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-analyst-the-digital-monkeys
