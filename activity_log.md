@@ -3436,3 +3436,60 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Data Analyst** at The Digital Monkeys (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/data-analyst-the-digital-monkeys
+
+## 2026-07-12 05:25 UTC — 27 new job(s)
+
+- **Data Scientist - AI/ML (Remote)** at Hire Feed (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-scientist-aiml-remote-z8v8pr
+- **Associate Scientist – Data Analyst- ICRISAT** at World Agroforestry Centre (ICRAF) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/associate-scientist-data-analyst-icrisat-j6464w
+- **Assistant to the Project Manager** at International Livestock Research Institute (ILRI) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/assistant-to-the-project-manager-2kjkj2
+- **Junior Business & Data Analyst** at Securitas Security Services Europe (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/junior-business-data-analyst-45455v
+- **Financial Investment Analyst (Remote)** at Hired (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/financial-investment-analyst-remote-2kj0rg
+- **Key Accounts Specialist** at Network International (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/key-accounts-specialist-vd4dwx
+- **Video Annotation Specialist (Remote)** at Hired (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/video-annotation-specialist-remote-wrepek
+- **iOS Engineer** at JobScroller (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ios-engineer-0kgk2z
+- **Remote Ruby Engineer** at Turing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/remote-ruby-engineer-xp42r0-v7
+- **Remote Software Engineer (Go/Golang)** at Turing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/remote-software-engineer-gogolang-nprpq0-v8
+- **HR BP/HRD (Core Business Unit)** at JobScroller (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/hr-bphrd-core-business-unit-x8j860
+- **Customer Experience Manager** at JobScroller (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/customer-experience-manager-x8j86w
+- **Remote Software Engineer (Rust)** at Turing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/remote-software-engineer-rust-4ner72-v7
+- **Digital Marketer - Investment Company** at Amazon Fronts Ltd (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/digital-marketer-afl6462026-qz42dp
+- **Senior Frontend Developer** at Brupace Digital (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-frontend-developer-d9e997
+- **Frontend Web Developer - HTML,CSS (Remote)** at Hire Feed (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/frontend-web-developer-htmlcss-remote-9kmkj6
+- **Software Engineer** at Jobs Opportunity (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/software-engineer-qz4z7n
+- **Software Engineer - Backend (Remote)** at Hire Feed (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/software-engineer-backend-remote-0kg2ne-v1
+- **Network Engineer** at MADDRIX (Full Time) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/network-engineer-6qxq6v
+- **Mobile Security Technician** at Sun King (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/mobile-security-technician-5d75zg-v3
+- **AGE Supervisor** at Amentum (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/age-supervisor-6q7zr8-v5
+- **Property Manager** at Cross Border Homes & Properties (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/property-manager-2kjjzk
+- **A CALL FOR APPLICATION: FINANCE AND ADMIN OFFICER | ALIGN – ADVANCING LOCAL INNOVATIONS FOR ADOLESCENT HEALTH & NUTRITION** at The Youth Cafe (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/a-call-for-application-finance-and-admin-officer-align-advancing-local-innovations-for-adolescent-health-nutrition-6q794j-v1
+- **Android Developer KE** at Core Code io (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/android-developer-ke-m050gz
+- **Infrastructure Engineer (Remote)** at Hire Feed (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/infrastructure-engineer-remote-vd4ddx
+- **Visual Content Designer** at Corporate Staffing (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/visual-content-designer-n9gd5w-v1
+- **Head of Information, Communication and Technology (ICT)** at Skills Global (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/head-of-information-communication-and-technology-ict-pgddvj
