@@ -3537,3 +3537,14 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/junior-solutions-engineer-j646p4
 - **Integrated Security Systems Intern** at Securex (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/integrated-security-systems-intern-k7r7pm
+
+## 2026-07-13 16:27 UTC — 4 new job(s)
+
+- **Global Lead, CRRD Data & Analytics** at International Rescue Committee (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/global-lead-crrd-data-analytics-international-rescue-committee/
+- **IT Application Analyst** at Valley Hospital (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/application-analyst-valley-hospital/
+- **OpenShift Engineer** at Sybyl Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/openshift-engineer-sybyl-limited-2/
+- **Compliance Project Manager** at INUA AI (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/compliance-project-manager-inua-ai/
