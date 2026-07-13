@@ -3512,3 +3512,28 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/junior-software-engineer-vd4dkm
 - **Software Engineer (Angular / Front-End Focus)** at Tropical Heat Ltd (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/software-engineer-angular-front-end-focus-qz4zwz
+
+## 2026-07-13 12:31 UTC — 11 new job(s)
+
+- **Employee Engagement Data Analyst** at World Vision Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/employee-engagement-data-analyst-world-vision-kenya
+- **Frontend Developer** at She Code Africa (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/frontend-developer-she-code-africa-1
+- **Backend Developer** at She Code Africa (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/backend-developer-she-code-africa-1
+- **ICT & Broadcast Technology Assistant (1 Position)** at Girwa Radio (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-broadcast-technology-assistant-1-position-girwa-radio
+- **ICT Manager** at 67 Airport Hotel (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-manager-67-airport-hotel
+- **ICT Systems and Support Assistant** at St John Ambulance (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-systems-and-support-assistant-st-john-ambulance-1
+- **Submit CVs – New Recruitment** at KCB Bank Kenya (8 Positions) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-kcb-bank-kenya-8-positions/
+- **IT Sytems Administrator** at Mybest Ltd (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/sytems-administrator-mybest-ltd/
+- **International School (Pearson Edexcel) – Mathematics / ICT Teacher** at Khalsa Schools in Nairobi South C (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/international-school-pearson-edexcel-mathematics-ict-teacher-n9g92x
+- **Junior Solutions Engineer** at Securex (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/junior-solutions-engineer-j646p4
+- **Integrated Security Systems Intern** at Securex (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/integrated-security-systems-intern-k7r7pm
