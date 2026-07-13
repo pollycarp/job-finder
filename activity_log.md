@@ -3493,3 +3493,22 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/visual-content-designer-n9gd5w-v1
 - **Head of Information, Communication and Technology (ICT)** at Skills Global (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/head-of-information-communication-and-technology-ict-pgddvj
+
+## 2026-07-13 05:32 UTC — 8 new job(s)
+
+- **Operations Analyst** at Deyabo (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/operations-analyst-m050vd
+- **Member of Technical Staff - Frontier AI (Remote)** at Quik Hire Staffing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/member-of-technical-staff-frontier-ai-remote-pgdgnr
+- **Policies** at Esteem Life Medical Group (Full Time) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/policies-z8v8rn
+- **Fraud Specialist** at JobScroller (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/fraud-specialist-8mvm9p
+- **Business Development Representative** at GeninWorld (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/business-development-representative-5p6pr0
+- **Head of Technology** at Tropical Heat Ltd (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/head-of-technology-9kmk56
+- **Junior Software Engineer** at Aqualabs Technologies (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/junior-software-engineer-vd4dkm
+- **Software Engineer (Angular / Front-End Focus)** at Tropical Heat Ltd (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/software-engineer-angular-front-end-focus-qz4zwz
