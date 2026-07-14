@@ -3600,3 +3600,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **ICT Officer** at TARO Links (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/ict-officer-taro-links
+
+## 2026-07-14 11:22 UTC — 2 new job(s)
+
+- **Students Supervisor - Master of Science in Cybersecurity and Digital Forensics** at The Open University of Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/students-supervisor-master-of-science-in-cybersecurity-and-digital-forensics-the-open-university-of-kenya
+- **ICT & Database Intern** at KenGen Staff Retirement Benefits Scheme (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-database-intern-kengen-staff-retirement-benefits-scheme-1
