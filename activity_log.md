@@ -3548,3 +3548,50 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/openshift-engineer-sybyl-limited-2/
 - **Compliance Project Manager** at INUA AI (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/compliance-project-manager-inua-ai/
+
+## 2026-07-14 04:48 UTC — 22 new job(s)
+
+- **Compensation, Benefits & Rewards Lead** at NestAI (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/compensation-benefits-rewards-lead-0kgk6x
+- **DATA ENGINEER - MACHINE LEARNING AND DATA ANALYTICS** at Hi5Creations (Full Time) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-engineer-machine-learning-and-data-analytics-n9g9q9
+- **Producer/Video Journalist, East Africa** at Thomson Reuters (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/producervideo-journalist-east-africa-9kmkxx
+- **Software Engineer - E-Commerce (Remote)** at Hired (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/software-engineer-e-commerce-remote-pgdg44
+- **Product Testing Analyst** at Absa Group Ltd (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/product-testing-analyst-rrzr4g
+- **Quality Assurance Analyst** at Absa Group Ltd (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/quality-assurance-analyst-gmqmjq
+- **Cybersecurity Analyst** at Mojok Dev Ke. Solutions (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/cybersecurity-analyst-qz4zrw
+- **Insider Threat Analyst (Malaysia/India)** at Standard Chartered (Full Time) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/insider-threat-analyst-malaysiaindia-m050km
+- **TOR: Implementation of a Privileged Access Management (PAM) Solution** at Inkomoko (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/tor-implementation-of-a-privileged-access-management-pam-solution-x8j894
+- **Assistant Director, Planning** at National Communication Secretariat (NCS) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/assistant-director-planning-vd4mgk
+- **Deputy Director, Legal Services** at National Communication Secretariat (NCS) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/deputy-director-legal-services-erndpv
+- **Senior Communications Technology Officer** at National Communication Secretariat (NCS) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-communications-technology-officer-6qx7rp
+- **Education Administrator - Junior School** at Mirema School (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/education-administrator-junior-school-4545mr
+- **Director, Communications Technology** at National Communication Secretariat (NCS) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/director-communications-technology-z8v2z8
+- **Administrative Assistant, Open, Distance and e-Learning (ODeL)** at Umma University (Outside Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/administrative-assistant-open-distance-and-e-learning-odel-wrer56
+- **Communications Technology Officer II** at National Communication Secretariat (NCS) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/communications-technology-officer-ii-k7rmx2
+- **Head Teacher – Middle Years** at Mirema School (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/head-teacher-middle-years-x8j8e4
+- **General Manager, Claims and Stakeholder Relations - UFAA** at Unclaimed Financial Assets Authority (UFAA) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/general-manager-claims-and-stakeholder-relations-ufaa-8mvm79
+- **Head - Commercial Functions and Branch Network Audits** at National Bank (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/head-commercial-functions-and-branch-network-audits-m05gnw
+- **Teaching Vacancies - Brookhurst International School** at Brookhurst International schools (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/teaching-vacancies-brookhurst-international-school-d9ekq2
+- **Director, Radio Communication and Multimedia** at National Communication Secretariat (NCS) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/director-radio-communication-and-multimedia-wremn5
+- **Revenue Assurance Consultant - Kobby Technologies** at Kobby Technologies (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/revenue-assurance-consultant-kobby-technologies-ernd44
