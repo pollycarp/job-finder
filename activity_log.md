@@ -3595,3 +3595,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/director-radio-communication-and-multimedia-wremn5
 - **Revenue Assurance Consultant - Kobby Technologies** at Kobby Technologies (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/revenue-assurance-consultant-kobby-technologies-ernd44
+
+## 2026-07-14 09:52 UTC — 1 new job(s)
+
+- **ICT Officer** at TARO Links (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-officer-taro-links
