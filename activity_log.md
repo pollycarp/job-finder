@@ -3607,3 +3607,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/students-supervisor-master-of-science-in-cybersecurity-and-digital-forensics-the-open-university-of-kenya
 - **ICT & Database Intern** at KenGen Staff Retirement Benefits Scheme (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/ict-database-intern-kengen-staff-retirement-benefits-scheme-1
+
+## 2026-07-14 13:14 UTC — 3 new job(s)
+
+- **ICT Officer** at Highlands Drinks Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-officer-highlands-drinks-limited
+- **ASSISTANT PROJECT MANAGER** at MegaFlexi Hr Solutions (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/assistant-project-manager-qz4z0w
+- **PROJECT MANAGER** at MegaFlexi Hr Solutions (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/project-manager-9kmk7j
