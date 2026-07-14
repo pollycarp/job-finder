@@ -3616,3 +3616,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/assistant-project-manager-qz4z0w
 - **PROJECT MANAGER** at MegaFlexi Hr Solutions (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/project-manager-9kmk7j
+
+## 2026-07-14 15:21 UTC — 1 new job(s)
+
+- **Global Automation & IT System Specialist** at Relief International (RI) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/global-automation-system-specialist-relief-international-ri/
