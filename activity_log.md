@@ -3681,3 +3681,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/senior-specialist-internal-audit-liberty-life-2/
 - **Cyber Security Trainer** at Institute of Software Technologies Limited (IST) (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/cyber-security-trainer-institute-software-technologies-limited-ist/
+
+## 2026-07-15 09:58 UTC — 2 new job(s)
+
+- **Senior Full Stack Django & Flutter Developer** at Soliton Telmec Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-full-stack-django-flutter-developer-soliton-telmec
+- **Data Engineer** at CrossBoundary (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/data-engineer-crossboundary-2/
