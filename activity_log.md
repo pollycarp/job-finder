@@ -3621,3 +3621,50 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Global Automation & IT System Specialist** at Relief International (RI) (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/global-automation-system-specialist-relief-international-ri/
+
+## 2026-07-15 04:48 UTC — 22 new job(s)
+
+- **Senior Data Engineer** at Inkomoko (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-data-engineer-z8vzv6
+- **Personnel Security Analyst** at ASIC (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/personnel-security-analyst-ernrg2
+- **School Age Child Care SACC Site Director** at YMCA of Metropolitan Fort Worth (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/school-age-child-care-sacc-site-director-z8vpn8-v1
+- **Full-Stack Developer** at Medbook Kenya Limited (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/full-stack-developer-8mvp0j
+- **Solution Area Specialists Manager – AI Business** at Microsoft (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/solution-area-specialists-manager-ai-business-d9e988
+- **Data Science Intern** at deeptrack (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-science-intern-qzqpnp-v1
+- **Software Engineering Intern — Fullstack** at deeptrack (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/software-engineering-intern-fullstack-k7r798
+- **In-House Recruiter / Talent Search Consultant** at Amini (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/in-house-recruiter-talent-search-consultant-4540je
+- **Senior Regional Manager-Chief of Staff & Product Lead** at Youth Impact Labs East Africa (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-regional-manager-chief-of-staff-product-lead-0kgnp6
+- **Access Network Engineer** at Jamii Telecommunications (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/access-network-engineer-8mvme9
+- **Manager - Geothermal Resource Centre** at Geothermal Development Company (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/manager-geothermal-resource-centre-45404e
+- **Information Technology Manager** at Safari Group of Companies (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/information-technology-manager-gmqpq9
+- **Seasonal work - IMMEDIATE START - We pay at the end of every shift - Must have good English** at Wo- Man with Van (Contract) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/seasonal-work-immediate-start-we-pay-at-the-end-of-every-shift-must-have-good-english-ern952
+- **DevOps / Cloud Engineering Intern** at deeptrack (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/devops-cloud-engineering-intern-45jerm-v1
+- **Customer Support Agent (SaaS and VoIP)** at Influx. Inc (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/customer-support-agent-saas-and-voip-qz4zmj
+- **Partner Technical Specialist - Azure** at Liquid Intelligent Technologies (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/partner-technical-specialist-azure-5p6pee
+- **Cybersecurity & Forensics Officer** at East African Data Handlers (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/cybersecurity-forensics-officer-9km50v
+- **Junior Application and Data Security Engineer** at Solutech Limited (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/junior-application-and-data-security-engineer-6qxd76-v1
+- **Compliance Project Manager** at INUA AI (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/compliance-project-manager-n9g94e
+- **Senior Internal Auditor Information Systems - KenTrade** at Kenya Trade Network Agency (KenTrade) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-internal-auditor-information-systems-kentrade-qz494j
+- **Technical Support Engineer L2** at NTT Limited (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/technical-support-engineer-l2-qz4zjw
+- **Sales Executive** at Career Options Africa (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/sales-executive-pgd0w0
