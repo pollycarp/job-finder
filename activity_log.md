@@ -3668,3 +3668,16 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/technical-support-engineer-l2-qz4zjw
 - **Sales Executive** at Career Options Africa (Rest of Kenya) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/sales-executive-pgd0w0
+
+## 2026-07-15 07:57 UTC — 5 new job(s)
+
+- **Full-Stack AI Engineer** at Pavago (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/full-stack-ai-engineer-pavago
+- **Senior Full Stack Software Engineer - (Product & Infrastructure)** at Pavago (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-full-stack-software-engineer-product-infrastructure-pavago
+- **DevOps Engineer** at Pavago (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/devops-engineer-pavago
+- **Senior Specialist, IT Internal Audit** at Liberty Life (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-specialist-internal-audit-liberty-life-2/
+- **Cyber Security Trainer** at Institute of Software Technologies Limited (IST) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/cyber-security-trainer-institute-software-technologies-limited-ist/
