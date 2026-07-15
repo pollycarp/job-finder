@@ -3693,3 +3693,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Managed Services Client Delivery Specialist** at NTT Limited (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/managed-services-client-delivery-specialist-evg2dz-v2
+
+## 2026-07-15 13:20 UTC — 1 new job(s)
+
+- **Senior Software Engineer — Platform** at HR Box Africa (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-software-engineer-platform-7j8pw5
