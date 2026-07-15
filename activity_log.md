@@ -3698,3 +3698,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Senior Software Engineer — Platform** at HR Box Africa (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/senior-software-engineer-platform-7j8pw5
+
+## 2026-07-15 15:25 UTC — 1 new job(s)
+
+- **Senior Software Engineer** at CIC Insurance (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-software-engineer-cic-insurance-2
