@@ -3782,3 +3782,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/supply-chain-lead-upstream-oil-gas-waste-management-kenya-wts-energy/
 - **Assistant Product Engineer** at Solar Panda (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/assistant-product-engineer-solar-panda/
+
+## 2026-07-16 15:31 UTC — 1 new job(s)
+
+- **ICT Trainer (Diploma Holder)** at Siaya National Polytechnic (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-trainer-diploma-holder-siaya-national-polytechnic
