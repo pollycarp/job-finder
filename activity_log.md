@@ -3767,3 +3767,18 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Submit CVs – New Recruitment** at CDL Human Resource (12 Positions) (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-at-cdl-human-resource-12-positions/
+
+## 2026-07-16 13:26 UTC — 6 new job(s)
+
+- **Principal AI Engineer** at FinSense Africa (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/principal-ai-engineer-finsense-africa
+- **Senior Manager, AI Engineering** at FinSense Africa (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-manager-ai-engineering-finsense-africa
+- **AI Engineer** at FinSense Africa (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ai-engineer-finsense-africa
+- **Lead Engineer – AI Agents** at M-KOPA Solar (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/lead-engineer-ai-agents-m-kopa-solar/
+- **Supply Chain Lead (Upstream Oil & Gas Waste Management) – Kenya** at WTS Energy (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/supply-chain-lead-upstream-oil-gas-waste-management-kenya-wts-energy/
+- **Assistant Product Engineer** at Solar Panda (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/assistant-product-engineer-solar-panda/
