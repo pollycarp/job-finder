@@ -3762,3 +3762,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/senior-software-engineer-cic-insurance-2/
 - **IT Disaster Recovery Specialist** at World Vision Kenya (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/disaster-recovery-specialist-world-vision-kenya/
+
+## 2026-07-16 11:47 UTC — 1 new job(s)
+
+- **Submit CVs – New Recruitment** at CDL Human Resource (12 Positions) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-at-cdl-human-resource-12-positions/
