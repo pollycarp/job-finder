@@ -3746,3 +3746,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/it-support-6qxnn6
 - **SMB Channel Manager - East Africa** at Lenovo (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/smb-channel-manager-east-africa-z8vped-v1
+
+## 2026-07-16 08:00 UTC — 2 new job(s)
+
+- **Employee Engagement Data Analyst** at World Vision Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/employee-engagement-data-analyst-world-vision-kenya-1
+- **Lead Engineer - AI Agents** at M-KOPA Solar (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/lead-engineer-ai-agents-m-kopa-solar
