@@ -3753,3 +3753,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/employee-engagement-data-analyst-world-vision-kenya-1
 - **Lead Engineer - AI Agents** at M-KOPA Solar (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/lead-engineer-ai-agents-m-kopa-solar
+
+## 2026-07-16 10:05 UTC — 3 new job(s)
+
+- **Employee Engagement Data Analyst** at World Vision Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/employee-engagement-data-analyst-world-vision-kenya-2/
+- **Senior Software Engineer** at CIC Insurance (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-software-engineer-cic-insurance-2/
+- **IT Disaster Recovery Specialist** at World Vision Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/disaster-recovery-specialist-world-vision-kenya/
