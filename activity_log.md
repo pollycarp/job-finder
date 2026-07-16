@@ -3703,3 +3703,46 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Senior Software Engineer** at CIC Insurance (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/senior-software-engineer-cic-insurance-2
+
+## 2026-07-16 04:57 UTC — 20 new job(s)
+
+- **Senior Mechanical Engineer** at Scientific Research Corporation (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-mechanical-engineer-0kp49w-v1
+- **Excel Analyst (Remote)** at Quik Hire Staffing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/excel-analyst-remote-9km5g7
+- **Regional MEAL and Learning Specialist** at Action Against Hunger (ACF) - Pakistan (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/regional-meal-and-learning-specialist-7j885m-v2
+- **Finance Analyst (Remote)** at Hire Feed (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/finance-analyst-remote-z8vzxq
+- **Customer Support Associate (Remote)** at Quik Hire Staffing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/customer-support-associate-remote-wrepqz-v1
+- **Blender** at Kenya Wine Agencies Ltd. (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/blender-n9g770
+- **Senior AI Solution Architect** at JobScroller (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-ai-solution-architect-rrzn64
+- **Technical Support Engineer, Trilogy (Remote) - $60,000/year USD** at Crossover (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/technical-support-engineer-trilogy-remote-60000year-usd-pgdmzp-v1
+- **AI Content Evaluator (Remote)** at Hired (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ai-content-evaluator-remote-0kg7gj-v1
+- **Creative Producer (Female-Oriented Product)** at JobScroller (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/creative-producer-female-oriented-product-x8jgwn
+- **Tech Lead - Android Experience Engineering** at Watu Credit (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/tech-lead-android-experience-engineering-qz495p
+- **Senior QA Automation Engineer** at Vyntra Global (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-qa-automation-engineer-5p69g5
+- **Engineering Manager - DevEx** at Wave Mobile Money (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/engineering-manager-devex-0kgn9j
+- **Product Manager, Self Managed Service** at Jobgether (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/product-manager-self-managed-service-k7rpxp
+- **Health & Safety Specialist** at Bolt (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/health-safety-specialist-2kj7gg
+- **Head of Sales (Enterprise Revenue Growth/Individual Contributor)** at Black Pen Recruitment (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/head-of-sales-enterprise-revenue-growthindividual-contributor-wregnd
+- **Concierge** at Athena (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/concierge-vd4gkj
+- **ICT Officer** at Highlands Drinks Limited (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ict-officer-6qxnq6
+- **IT Support** at Transafrica Motors Limited (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/it-support-6qxnn6
+- **SMB Channel Manager - East Africa** at Lenovo (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/smb-channel-manager-east-africa-z8vped-v1
