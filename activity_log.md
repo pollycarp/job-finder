@@ -3787,3 +3787,14 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **ICT Trainer (Diploma Holder)** at Siaya National Polytechnic (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/ict-trainer-diploma-holder-siaya-national-polytechnic
+
+## 2026-07-17 05:00 UTC — 4 new job(s)
+
+- **Employee Engagement Data Analyst** at World Vision (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/employee-engagement-data-analyst-j64p98
+- **Head of AI Solutions & Engineering - Technology & Innovation** at Teach For All (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/head-of-ai-solutions-engineering-technology-innovation-2kj79p
+- **Senior Procurement Associate** at Food For Education (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-procurement-associate-ern9m5
+- **IT Disaster Recovery Specialist** at World Vision (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/it-disaster-recovery-specialist-454022
