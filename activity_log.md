@@ -3812,3 +3812,18 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/ict-officer-beachfront-vipingo
 - **Submit CVs – New Recruitment** at Crown Beachfront Vipingo (44 Positions) (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-crown-beachfront-vipingo-44-positions/
+
+## 2026-07-17 20:49 UTC — 6 new job(s)
+
+- **Graduate Internship Program (Engineering)-Paid** at Sheer Logic (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/graduate-internship-program-engineering-paid-sheer-logic/
+- **Process Operator** at Tai Talent Matters (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/process-operator-tai-talent-matters/
+- **Transport Officer** at Thika Technical Training Institute (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/transport-officer-thika-technical-training-institute/
+- **Technical Sales Engineer** at Amotech Africa (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/technical-sales-engineer-amotech-africa-3/
+- **Chief Engineer** at Accor (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/chief-engineer-accor-3/
+- **Biomedical Engineering & Facilities Services Supervisor** at AAR Hospital (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/biomedical-engineering-facilities-services-supervisor-aar-hospital/
