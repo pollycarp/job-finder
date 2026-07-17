@@ -3805,3 +3805,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-finsense-africa/
 - **EdTech Platform Developer Intern** at Nextedtech School (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/edtech-platform-developer-intern-m05682
+
+## 2026-07-17 09:53 UTC — 2 new job(s)
+
+- **ICT Officer** at Beachfront Vipingo (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-officer-beachfront-vipingo
+- **Submit CVs – New Recruitment** at Crown Beachfront Vipingo (44 Positions) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-crown-beachfront-vipingo-44-positions/
