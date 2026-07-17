@@ -3798,3 +3798,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/senior-procurement-associate-ern9m5
 - **IT Disaster Recovery Specialist** at World Vision (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/it-disaster-recovery-specialist-454022
+
+## 2026-07-17 07:58 UTC — 2 new job(s)
+
+- **Submit CVs – New Recruitment** at FinSense Africa (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-finsense-africa/
+- **EdTech Platform Developer Intern** at Nextedtech School (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/edtech-platform-developer-intern-m05682
