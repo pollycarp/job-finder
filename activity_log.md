@@ -3866,3 +3866,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/senior-internal-auditor-information-systems-ktna-6-m05v52
 - **IT Manager (Infrastructure)** at Talent Grid Africa Limited (Full Time) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/it-manager-infrastructure-pgdn8w
+
+## 2026-07-18 18:53 UTC — 2 new job(s)
+
+- **Senior Specialist, Enterprise Analytics (Cost Optimization Initiative)** at Save the Children (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-specialist-enterprise-analytics-cost-optimization-initiative-save-children/
+- **Senior Sales Officer - ICT Solutions (Ladies Encouraged To Apply)** at Job Whisper (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-sales-officer-ict-solutions-ladies-encouraged-to-apply-wrenw0
