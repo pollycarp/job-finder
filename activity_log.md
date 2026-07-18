@@ -3827,3 +3827,42 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/chief-engineer-accor-3/
 - **Biomedical Engineering & Facilities Services Supervisor** at AAR Hospital (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/biomedical-engineering-facilities-services-supervisor-aar-hospital/
+
+## 2026-07-18 04:47 UTC — 18 new job(s)
+
+- **Production Operator** at Siemens Healthineers (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/production-operator-m05vvj
+- **Real-Time Analyst** at Solvo Global (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/real-time-analyst-x8jwww
+- **Technical Sales Engineer** at Danco Capital Limited (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/technical-sales-engineer-x8jw2v
+- **Cybersecurity Consultant (Remote)** at Quik Hire Staffing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/cybersecurity-consultant-remote-n9g0jk
+- **Senior QA Automation Lead (TypeScript, Playwright)** at Tana (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-qa-automation-lead-typescript-playwright-2kj872
+- **Senior Solutions Architect** at HF Group (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-solutions-architect-0kg82d
+- **Digital & E-commerce Assistant Manager** at Fairmont Hotels & Resorts (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/digital-e-commerce-assistant-manager-d9ed0m
+- **Senior Software Engineer** at PIPOSOFT (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-software-engineer-x8jwk0
+- **DevOps Engineer** at HF Group (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/devops-engineer-8mvkvr
+- **Senior QA Engineer (Python, Linux)** at Tana (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-qa-engineer-python-linux-pgdn0q
+- **IT Support Officer - Construction Industry** at Corporate Staffing (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/it-support-officer-construction-industry-gmqpv4
+- **. NETWORK ENGINEER – KTNA 7** at Kenya Trade Network Agency- KenTrade (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/network-engineer-ktna-7-n9g09g
+- **Technical Sales Engineer - Safety & Identification Solutions** at Amotech Africa (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/technical-sales-engineer-safety-identification-solutions-6qxrnp
+- **INFRASTRUCTURE ENGINEER – KTNA 7** at Kenya Trade Network Agency- KenTrade (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/infrastructure-engineer-ktna-7-k7r6rw
+- **DevOps Infrastructure Engineer** at Arfa Technology Ltd (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/devops-infrastructure-engineer-8mvk97
+- **Renewals Specialist - MEA (Arabic Speaker)** at DailyOSINT (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/renewals-specialist-mea-arabic-speaker-2kz8n8-v1
+- **SENIOR INTERNAL AUDITOR INFORMATION SYSTEMS – KTNA 6** at Kenya Trade Network Agency- KenTrade (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-internal-auditor-information-systems-ktna-6-m05v52
+- **IT Manager (Infrastructure)** at Talent Grid Africa Limited (Full Time) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/it-manager-infrastructure-pgdn8w
