@@ -3873,3 +3873,18 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/senior-specialist-enterprise-analytics-cost-optimization-initiative-save-children/
 - **Senior Sales Officer - ICT Solutions (Ladies Encouraged To Apply)** at Job Whisper (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/senior-sales-officer-ict-solutions-ladies-encouraged-to-apply-wrenw0
+
+## 2026-07-19 05:18 UTC — 6 new job(s)
+
+- **CRRD Data Analyst** at International Rescue Committee (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/crrd-data-analyst-7j8xmg
+- **Intelligence and Foresight Analyst** at Plan International (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/intelligence-and-foresight-analyst-m05vnz
+- **(Senior) Director, Global Monitoring, Evaluation, and Learning** at Evidence Action (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-director-global-monitoring-evaluation-and-learning-vdm528-v3
+- **Lecturer - Software Engineering** at Jaramogi Oginga Odinga University of Science and Technology- JOOUST (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/lecturer-software-engineering-0kg85z
+- **Construction Support Resource** at Christian Blind Mission (CBM) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/construction-support-resource-j645dd
+- **East Africa Production and Scheduling Coordinator** at Bayer (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/east-africa-production-and-scheduling-coordinator-gmqwxn-v1
