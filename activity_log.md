@@ -3888,3 +3888,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/construction-support-resource-j645dd
 - **East Africa Production and Scheduling Coordinator** at Bayer (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/east-africa-production-and-scheduling-coordinator-gmqwxn-v1
+
+## 2026-07-20 06:43 UTC — 1 new job(s)
+
+- **Design Engineer** at Safal Group (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/design-engineer-45jnd9-v2
