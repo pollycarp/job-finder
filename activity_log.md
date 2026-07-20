@@ -3893,3 +3893,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Design Engineer** at Safal Group (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/design-engineer-45jnd9-v2
+
+## 2026-07-20 10:46 UTC — 1 new job(s)
+
+- **ICT Policy and Sustainable Digital Transformation Consultant, Nairobi, Kenya** at United Nations Environment Programme (UNEP) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-policy-and-sustainable-digital-transformation-consultant-nairobi-kenya-united-nations-environment-programme-unep
