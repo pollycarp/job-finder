@@ -3898,3 +3898,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **ICT Policy and Sustainable Digital Transformation Consultant, Nairobi, Kenya** at United Nations Environment Programme (UNEP) (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/ict-policy-and-sustainable-digital-transformation-consultant-nairobi-kenya-united-nations-environment-programme-unep
+
+## 2026-07-20 19:30 UTC — 1 new job(s)
+
+- **Named Account Manager (Public Sector) – Kenya** at Fortinet (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/named-account-manager-public-sector-kenya-fortinet/
