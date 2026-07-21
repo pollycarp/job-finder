@@ -3923,3 +3923,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/data-analyst-syngenta-1
 - **ICT System Administrator and Support Officer** at Kenya Revenue Authority (KRA) (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/ict-system-administrator-and-support-officer-kenya-revenue-authority-kra
+
+## 2026-07-21 11:47 UTC — 1 new job(s)
+
+- **Head of ICT** at CDL Human Resource (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/head-of-ict-cdl-human-resouce-1
