@@ -3916,3 +3916,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/senior-manager-information-risk-d9edx0
 - **ICT Officer** at Beachfront VIPingo (Mombasa) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/ict-officer-rrz6gg
+
+## 2026-07-21 08:13 UTC — 2 new job(s)
+
+- **Data Analyst** at Syngenta (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-analyst-syngenta-1
+- **ICT System Administrator and Support Officer** at Kenya Revenue Authority (KRA) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-system-administrator-and-support-officer-kenya-revenue-authority-kra
