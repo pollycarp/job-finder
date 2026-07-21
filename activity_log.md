@@ -3903,3 +3903,16 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Named Account Manager (Public Sector) – Kenya** at Fortinet (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/named-account-manager-public-sector-kenya-fortinet/
+
+## 2026-07-21 05:06 UTC — 5 new job(s)
+
+- **Assistant to the Project Manager** at International Livestock Research Institute (ILRI) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/assistant-to-the-project-manager-2kjkj2-v1
+- **Financial & Data Analyst (Nairobi)** at Solar Panda (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/financial-data-analyst-nairobi-9kmn0j
+- **Information Risk Manager** at KCB Group (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/information-risk-manager-gmqd5k
+- **Senior Manager, Information Risk** at KCB Group (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-manager-information-risk-d9edx0
+- **ICT Officer** at Beachfront VIPingo (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ict-officer-rrz6gg
