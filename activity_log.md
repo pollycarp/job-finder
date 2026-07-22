@@ -3969,3 +3969,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/associate-software-engineer-qz45xp
 - **Associate Software Engineer (Java Programmer)** at Neptune Software Ltd (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/associate-software-engineer-java-programmer-n9gj8m
+
+## 2026-07-22 15:33 UTC — 1 new job(s)
+
+- **Manager, IT & Enterprise Systems** at Peach Cars KE (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/manager-enterprise-systems-peach-cars-ke/
