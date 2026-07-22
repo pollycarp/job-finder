@@ -3958,3 +3958,14 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/cybersecurity-manager-national-bank-of-kenya-2
 - **JR IT Helpdesk Analyst** at Solvo Global (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/jr-helpdesk-analyst-solvo-global/
+
+## 2026-07-22 13:28 UTC — 4 new job(s)
+
+- **ICT Support Technician** at Durham International Schools (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-support-technician-durham-international-schools
+- **IT Manager** at City Walk Ltd (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/manager-city-walk-ltd/
+- **Associate Software Engineer** at Neptune Software Ltd (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/associate-software-engineer-qz45xp
+- **Associate Software Engineer (Java Programmer)** at Neptune Software Ltd (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/associate-software-engineer-java-programmer-n9gj8m
