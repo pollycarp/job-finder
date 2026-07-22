@@ -3947,3 +3947,14 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/ict-trainer-pgdjn0
 - **Information Systems Specialist** at MEDECINS SAN FRONTIERES (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/information-systems-specialist-6qxvr4
+
+## 2026-07-22 11:47 UTC — 4 new job(s)
+
+- **Frontend Software Developer** at a Reputable Company (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/frontend-software-developer
+- **PHP Backend Software Developer** at a Reputable Company (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/php-backend-software-developer
+- **Cybersecurity Manager** at National Bank of Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/cybersecurity-manager-national-bank-of-kenya-2
+- **JR IT Helpdesk Analyst** at Solvo Global (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/jr-helpdesk-analyst-solvo-global/
