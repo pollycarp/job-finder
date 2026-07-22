@@ -3928,3 +3928,22 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Head of ICT** at CDL Human Resource (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/head-of-ict-cdl-human-resouce-1
+
+## 2026-07-22 05:05 UTC — 8 new job(s)
+
+- **Data Analyst** at Syngenta Kenya (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-analyst-8mv9dn
+- **Financial Analyst** at KCA University (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/financial-analyst-0kg986
+- **Integration Engineer** at HF Group (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/integration-engineer-vd4kkv
+- **Application Support & Implementation Intern** at Software Technologies Limited (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/application-support-implementation-intern-wrekg4
+- **Technical Program Manager, Enterprise Applications** at International Rescue Committee (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/technical-program-manager-enterprise-applications-ernx92
+- **Named Account Manager (Public Sector) -Kenya** at Fortinet (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/named-account-manager-public-sector-kenya-454r2r
+- **ICT Trainer** at Siaya Institute of Technology- SIT (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ict-trainer-pgdjn0
+- **Information Systems Specialist** at MEDECINS SAN FRONTIERES (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/information-systems-specialist-6qxvr4
