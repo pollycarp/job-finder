@@ -4030,3 +4030,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Data Analyst** at TakaTaka Solutions (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/data-analyst-takataka-solutions
+
+## 2026-07-23 22:52 UTC — 1 new job(s)
+
+- **Submit CVs – New Recruitment** at Save the Children (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-save-children-8/
