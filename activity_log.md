@@ -4014,3 +4014,14 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/customer-success-engineer-finance-abno-softwares-international
 - **ICT Support Technician** at Durham International Schools (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/ict-support-technician-durham-international-schools/
+
+## 2026-07-23 11:50 UTC — 4 new job(s)
+
+- **ICT Manager** at Rose Avenue Group (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-manager-rose-avenue-group
+- **Head of Credit** at Pesapal (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/head-credit-pesapal/
+- **Senior Software Developer** at Flexi-Personnel (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-software-developer-flexi-personnel/
+- **Head Of Information Technology** at Flexi-Personnel (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/head-information-technology-flexi-personnel/
