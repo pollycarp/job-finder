@@ -4007,3 +4007,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/post-doc-fellows-land-and-forest-tenure-reforms-0kg96j
 - **Assistant Manager, Customer Service - Lamu** at I&M Bank (Mombasa) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/assistant-manager-customer-service-lamu-rrzjeq
+
+## 2026-07-23 08:17 UTC — 2 new job(s)
+
+- **Customer Success Engineer (Finance)** at ABNO Softwares International (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/customer-success-engineer-finance-abno-softwares-international
+- **ICT Support Technician** at Durham International Schools (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/ict-support-technician-durham-international-schools/
