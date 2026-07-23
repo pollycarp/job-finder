@@ -3974,3 +3974,36 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Manager, IT & Enterprise Systems** at Peach Cars KE (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/manager-enterprise-systems-peach-cars-ke/
+
+## 2026-07-23 05:21 UTC — 15 new job(s)
+
+- **Intern-ICT** at Bomet Central Technical and Vocational College (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/intern-ict-bomet-central-technical-and-vocational-college
+- **Post Doc Fellows- Landscape Ecology** at World Agroforestry Centre (ICRAF) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/post-doc-fellows-landscape-ecology-5p6zn5
+- **Post Doc Fellows- Carbon and Greenhouse Gas Measurement** at World Agroforestry Centre (ICRAF) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/post-doc-fellows-carbon-and-greenhouse-gas-measurement-2kjw6g
+- **Post Doc Fellows- Biomass** at World Agroforestry Centre (ICRAF) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/post-doc-fellows-biomass-5p6z05
+- **Post Doc Fellows- Macroeconomics** at World Agroforestry Centre (ICRAF) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/post-doc-fellows-macroeconomics-6qxv98
+- **Post Doc Fellows- Environmental History** at World Agroforestry Centre (ICRAF) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/post-doc-fellows-environmental-history-9kmnv7
+- **Post Doc Fellows- Biometrics** at World Agroforestry Centre (ICRAF) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/post-doc-fellows-biometrics-qz45rp
+- **Post Doc Fellows- Nutrition** at World Agroforestry Centre (ICRAF) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/post-doc-fellows-nutrition-m05jeg
+- **Post Doc Fellows- Soil Science** at World Agroforestry Centre (ICRAF) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/post-doc-fellows-soil-science-pgdjej
+- **Post Doc Fellows- Financial Governance** at World Agroforestry Centre (ICRAF) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/post-doc-fellows-financial-governance-z8vj0q
+- **Post Doc Fellows- Silviculture** at World Agroforestry Centre (ICRAF) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/post-doc-fellows-silviculture-k7rxzp
+- **Post Doc Fellows- Forest Law Enforcement** at World Agroforestry Centre (ICRAF) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/post-doc-fellows-forest-law-enforcement-6qxvw8
+- **Post Doc Fellows- Human Demography/Epidemiology** at World Agroforestry Centre (ICRAF) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/post-doc-fellows-human-demographyepidemiology-vd4krj
+- **Post Doc Fellows- Land and Forest Tenure Reforms** at World Agroforestry Centre (ICRAF) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/post-doc-fellows-land-and-forest-tenure-reforms-0kg96j
+- **Assistant Manager, Customer Service - Lamu** at I&M Bank (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/assistant-manager-customer-service-lamu-rrzjeq
