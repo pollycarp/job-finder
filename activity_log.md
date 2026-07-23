@@ -4025,3 +4025,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/senior-software-developer-flexi-personnel/
 - **Head Of Information Technology** at Flexi-Personnel (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/head-information-technology-flexi-personnel/
+
+## 2026-07-23 15:52 UTC — 1 new job(s)
+
+- **Data Analyst** at TakaTaka Solutions (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-analyst-takataka-solutions
