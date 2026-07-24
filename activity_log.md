@@ -4099,3 +4099,16 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/ict-assistant-qz466k
 - **ICT & GRAPHIC DESIGN OFFICER** at Human Capital Outsourcing Limited (Thika) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/ict-graphic-design-officer-wreww5
+
+## 2026-07-24 11:36 UTC — 5 new job(s)
+
+- **Software Engineer** at Standard Bank Group (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/software-engineer-standard-bank-group-5
+- **ICT Assistant** at Human Capital Outsourcing Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-assistant-human-capital-outsourcing-limited
+- **ICT & Graphic Design Officer** at Human Capital Outsourcing Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-graphic-design-officer-human-capital-outsourcing-limited
+- **Data Analyst** at TakaTaka Solutions (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/data-analyst-takataka-solutions/
+- **Service Management Team Leader** at Standard Bank Group (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/service-management-team-leader-standard-bank-group/
