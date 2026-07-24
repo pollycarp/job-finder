@@ -4035,3 +4035,50 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Submit CVs – New Recruitment** at Save the Children (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-save-children-8/
+
+## 2026-07-24 05:17 UTC — 22 new job(s)
+
+- **Scientist- Biometrics** at World Agroforestry Centre (ICRAF) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/scientist-biometrics-9kmg5w
+- **Scientist- Senior Gender** at World Agroforestry Centre (ICRAF) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/scientist-senior-gender-n9gwpr
+- **Post Doc Fellows- Environmental Economics/Value Chains** at World Agroforestry Centre (ICRAF) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/post-doc-fellows-environmental-economicsvalue-chains-z8vxz8
+- **Scientist- Macroeconomics** at World Agroforestry Centre (ICRAF) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/scientist-macroeconomics-wrewr5
+- **Scientist- Soil Science** at World Agroforestry Centre (ICRAF) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/scientist-soil-science-454p59
+- **Scientist- Financial Governance** at World Agroforestry Centre (ICRAF) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/scientist-financial-governance-qz46z4
+- **Scientist- Forest Law Enforcement** at World Agroforestry Centre (ICRAF) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/scientist-forest-law-enforcement-rrz7r8
+- **Scientist- Silviculture** at World Agroforestry Centre (ICRAF) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/scientist-silviculture-vd4zdk
+- **Scientist- Carbon and Greenhouse Gas Measurement** at World Agroforestry Centre (ICRAF) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/scientist-carbon-and-greenhouse-gas-measurement-ernwqz
+- **Scientist- Governance and Trade (FLEGT)** at World Agroforestry Centre (ICRAF) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/scientist-governance-and-trade-flegt-x8jq28
+- **Scientist- Biomass** at World Agroforestry Centre (ICRAF) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/scientist-biomass-j64zrz
+- **Scientist- Human Demography/ Epidemiology** at World Agroforestry Centre (ICRAF) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/scientist-human-demography-epidemiology-pgd862
+- **Scientist- Nutrition** at World Agroforestry Centre (ICRAF) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/scientist-nutrition-2kjgqd
+- **Scientist- Environmental Economics/Value Chains** at World Agroforestry Centre (ICRAF) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/scientist-environmental-economicsvalue-chains-wrew2m
+- **Scientist- Land and Forest Tenure Reforms** at World Agroforestry Centre (ICRAF) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/scientist-land-and-forest-tenure-reforms-8mvg5z
+- **Scientist- Environmental History** at World Agroforestry Centre (ICRAF) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/scientist-environmental-history-rrz7v8
+- **Data Analyst** at Takataka Solutions (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-analyst-5p6gd2
+- **Web Developer, Nairobi, Kenya** at UNEP (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/web-developer-nairobi-kenya-gmq894
+- **Senior Sales Manager - Kenya** at Cellulant Group (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-sales-manager-kenya-z8vxpk
+- **Senior Systems & Network Engineer** at Evolve HR Solutions (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-systems-network-engineer-qz4674
+- **Business Development & Product Manager – ICT Solutions (SACCO Sector)** at Evolve HR Solutions (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/business-development-product-manager-ict-solutions-sacco-sector-x8jq88
+- **ICT Policy and Sustainable Digital Transformation Consultant, Nairobi, Kenya** at UNEP (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ict-policy-and-sustainable-digital-transformation-consultant-nairobi-kenya-x8jqp8
