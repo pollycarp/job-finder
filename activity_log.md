@@ -4126,3 +4126,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/ai-ml-engineer-apenia-mfb
 - **ICT & Database Assistant** at KenGen Staff Retirement Benefits Scheme (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/ict-database-assistant-kengen-staff-retirement-benefits-scheme-1
+
+## 2026-07-24 19:19 UTC — 2 new job(s)
+
+- **OpenShift Implementation Engineer** at Sybyl Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/openshift-implementation-engineer-sybyl-limited-2/
+- **Submit CVs – New Recruitment** at Human Capital Outsourcing Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-human-capital-outsourcing-limited-4/
