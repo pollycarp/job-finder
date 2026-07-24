@@ -4112,3 +4112,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/data-analyst-takataka-solutions/
 - **Service Management Team Leader** at Standard Bank Group (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/service-management-team-leader-standard-bank-group/
+
+## 2026-07-24 13:24 UTC — 2 new job(s)
+
+- **Software Engineer, Associate, Salesforce Platform** at Aceli Africa (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/software-engineer-associate-salesforce-platform-aceli-africa
+- **Cybersecurity Architect (Pre-Sales & Solutioning)** at Abacus (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/cybersecurity-architect-pre-sales-solutioning-abacus-1
