@@ -4082,3 +4082,20 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/business-development-product-manager-ict-solutions-sacco-sector-x8jq88
 - **ICT Policy and Sustainable Digital Transformation Consultant, Nairobi, Kenya** at UNEP (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/ict-policy-and-sustainable-digital-transformation-consultant-nairobi-kenya-x8jqp8
+
+## 2026-07-24 08:14 UTC — 7 new job(s)
+
+- **ICT Support Intern -35 Posts** at Judicial Service Commission (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-support-intern-35-posts-judicial-service-commission
+- **ICT Security Intern  - 6 Posts** at Judicial Service Commission (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-security-intern-6-posts-judicial-service-commission
+- **Talent Acquisition Associate** at Victory Farms (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/talent-acquisition-associate-victory-farms/
+- **Head of Supply Chain** at Victory Farms (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/head-supply-chain-victory-farms/
+- **Business Operations Associate** at Victory Farms (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/business-operations-associate-victory-farms/
+- **ICT ASSISTANT** at Human Capital Outsourcing Limited (Thika) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ict-assistant-qz466k
+- **ICT & GRAPHIC DESIGN OFFICER** at Human Capital Outsourcing Limited (Thika) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ict-graphic-design-officer-wreww5
