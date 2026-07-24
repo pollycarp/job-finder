@@ -4119,3 +4119,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/software-engineer-associate-salesforce-platform-aceli-africa
 - **Cybersecurity Architect (Pre-Sales & Solutioning)** at Abacus (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/cybersecurity-architect-pre-sales-solutioning-abacus-1
+
+## 2026-07-24 15:26 UTC — 2 new job(s)
+
+- **AI/ML Engineer** at Apenia MFB (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ai-ml-engineer-apenia-mfb
+- **ICT & Database Assistant** at KenGen Staff Retirement Benefits Scheme (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-database-assistant-kengen-staff-retirement-benefits-scheme-1
