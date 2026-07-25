@@ -4133,3 +4133,20 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/openshift-implementation-engineer-sybyl-limited-2/
 - **Submit CVs – New Recruitment** at Human Capital Outsourcing Limited (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-human-capital-outsourcing-limited-4/
+
+## 2026-07-25 05:03 UTC — 7 new job(s)
+
+- **Cloud Solutions Developer – Integrations & Platforms** at PATH (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/cloud-solutions-developer-integrations-platforms-path/
+- **Submit CVs – New Recruitment** at Victory Farms (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-victory-farms/
+- **Post Doc Fellows- Governance and Trade (FLEGT)** at World Agroforestry Centre (ICRAF) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/post-doc-fellows-governance-and-trade-flegt-qz46xn
+- **Scientist- Landscape Ecology** at World Agroforestry Centre (ICRAF) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/scientist-landscape-ecology-qz46k7
+- **Senior Marketing Manager – Brand & Consumer Insights** at M-Gas (Kisumu) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-marketing-manager-brand-consumer-insights-vd4z6x
+- **Intern - Global Digital Jobs** at GIZ KE (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/intern-global-digital-jobs-2kjgn2
+- **Assistant Manager, Customer Service - Garissa** at I&M Bank (Outside Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/assistant-manager-customer-service-garissa-qz46nn
