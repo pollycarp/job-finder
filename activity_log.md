@@ -4150,3 +4150,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/intern-global-digital-jobs-2kjgn2
 - **Assistant Manager, Customer Service - Garissa** at I&M Bank (Outside Kenya) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/assistant-manager-customer-service-garissa-qz46nn
+
+## 2026-07-25 07:56 UTC — 3 new job(s)
+
+- **Software Engineer, Associate, Salesforce Platform** at Aceli Africa (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/software-engineer-associate-salesforce-platform-aceli-africa/
+- **Submit CVs – Latest Recruitment** at Abacus (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-latest-recruitment-abacus/
+- **Submit CVs – Latest Recruitment** at Acronis (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-latest-recruitment-acronis/
