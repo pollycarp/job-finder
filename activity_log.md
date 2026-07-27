@@ -4186,3 +4186,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **PRODUCT DEVELOPMENT MANAGER** at Anonymous Employer (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/product-development-manager-d9e470
+
+## 2026-07-27 17:36 UTC — 1 new job(s)
+
+- **IT Executive** at Tire World Ltd (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/executive-tire-world-ltd/
