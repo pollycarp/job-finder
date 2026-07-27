@@ -4168,3 +4168,16 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/channel-sales-lead-africa-j6m06r-v1
 - **Human Resources Director - National Bank** at National Bank (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/human-resources-director-national-bank-8mvg0x
+
+## 2026-07-27 11:15 UTC — 5 new job(s)
+
+- **Junior Software Engineer** at Zeraki (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/junior-software-engineer-zeraki
+- **ICT Project Manager** at Co-operative Bank of Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-project-manager-co-operative-bank-of-kenya-5
+- **Warehouse Stocks Clerk** at Victoria Homestore (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/warehouse-stocks-clerk-victoria-homestore/
+- **IT INTERN** at MEDPRIME TRAINING COLLEGE LTD (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/it-intern-d9en5g
+- **Business Liaison Officer** at Corporate Staffing (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/business-liaison-officer-pgd8xr
