@@ -4181,3 +4181,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/it-intern-d9en5g
 - **Business Liaison Officer** at Corporate Staffing (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/business-liaison-officer-pgd8xr
+
+## 2026-07-27 14:16 UTC — 1 new job(s)
+
+- **PRODUCT DEVELOPMENT MANAGER** at Anonymous Employer (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/product-development-manager-d9e470
