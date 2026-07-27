@@ -4159,3 +4159,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/submit-cvs-latest-recruitment-abacus/
 - **Submit CVs – Latest Recruitment** at Acronis (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/submit-cvs-latest-recruitment-acronis/
+
+## 2026-07-27 07:00 UTC — 3 new job(s)
+
+- **Cybersecurity Manager - National Bank** at National Bank (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/cybersecurity-manager-national-bank-0kgdpe
+- **Channel Sales Lead - Africa** at MOZN (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/channel-sales-lead-africa-j6m06r-v1
+- **Human Resources Director - National Bank** at National Bank (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/human-resources-director-national-bank-8mvg0x
