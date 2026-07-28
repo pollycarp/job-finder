@@ -4191,3 +4191,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **IT Executive** at Tire World Ltd (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/executive-tire-world-ltd/
+
+## 2026-07-28 05:00 UTC — 3 new job(s)
+
+- **ICT Officer I (Software Developer)** at Meru University of Science and Technology (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-officer-i-software-developer-meru-university-of-science-and-technology
+- **ICT Officer I (Database Administrator)** at Meru University of Science and Technology (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-officer-i-database-administrator-meru-university-of-science-and-technology
+- **ICT Officer III (ICT Technician) - 2 Posts** at Meru University of Science and Technology (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-officer-iii-ict-technician-2-posts-meru-university-of-science-and-technology
