@@ -4211,3 +4211,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/senior-software-engineer-full-stack-peach-payments-1
 - **ICT Cloud Officer** at Medecins Sans Frontieres (MSF) (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/ict-cloud-officer-medecins-sans-frontieres-msf
+
+## 2026-07-28 11:55 UTC — 3 new job(s)
+
+- **ICT Sales Lead** at Safaricom Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-sales-lead-safaricom-kenya
+- **Scholarships (Undergraduate Programmes) - ICT/IT** at Meru University of Science and Technology (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/scholarships-undergraduate-programmes-ict-it-meru-university-of-science-and-technology
+- **Senior Software Engineer – Full Stack** at Peach Payments (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-software-engineer-full-stack-peach-payments/
