@@ -4200,3 +4200,14 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/ict-officer-i-database-administrator-meru-university-of-science-and-technology
 - **ICT Officer III (ICT Technician) - 2 Posts** at Meru University of Science and Technology (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/ict-officer-iii-ict-technician-2-posts-meru-university-of-science-and-technology
+
+## 2026-07-28 08:19 UTC — 4 new job(s)
+
+- **Fullstack Developer (6 months Fixed Term Contract)** at Britam (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/fullstack-developer-6-months-fixed-term-contract-britam
+- **Software Engineer Intern** at Pezesha (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/software-engineer-intern-pezesha-1
+- **Senior Software Engineer - Full Stack** at Peach Payments (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-software-engineer-full-stack-peach-payments-1
+- **ICT Cloud Officer** at Medecins Sans Frontieres (MSF) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-cloud-officer-medecins-sans-frontieres-msf
