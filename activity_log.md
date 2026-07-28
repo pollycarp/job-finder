@@ -4220,3 +4220,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/scholarships-undergraduate-programmes-ict-it-meru-university-of-science-and-technology
 - **Senior Software Engineer – Full Stack** at Peach Payments (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/senior-software-engineer-full-stack-peach-payments/
+
+## 2026-07-28 16:03 UTC — 1 new job(s)
+
+- **Associate, Insurance Operations** at Pula (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/associate-insurance-operations-pula/
