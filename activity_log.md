@@ -4225,3 +4225,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Associate, Insurance Operations** at Pula (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/associate-insurance-operations-pula/
+
+## 2026-07-28 19:13 UTC — 3 new job(s)
+
+- **Submit CVs – Interns Vacancies** at Africa Centre for Health Systems and Gender Justice (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-interns-vacancies-africa-centre-health-systems-gender-justice/
+- **Submit CVs – New Recruitment** at Royal Mabati Factory (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-royal-mabati-factory-3/
+- **Internal Audit Officer – Internal Audit** at Sidian Bank (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/internal-audit-officer-internal-audit-sidian-bank/
