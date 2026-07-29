@@ -4234,3 +4234,16 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-royal-mabati-factory-3/
 - **Internal Audit Officer – Internal Audit** at Sidian Bank (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/internal-audit-officer-internal-audit-sidian-bank/
+
+## 2026-07-29 05:17 UTC — 5 new job(s)
+
+- **NLP and AI Intern** at Africa Center for Health Systems and Gender Justice (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/nlp-and-ai-intern-n9g2m0
+- **Data and Research Intern** at Africa Center for Health Systems and Gender Justice (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-and-research-intern-vd4x7w
+- **IT Executive** at Tire World Ltd (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/it-executive-2kj5ve
+- **IT Manager** at City Walk (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/it-manager-d9e4q5
+- **ICT Support Technician** at Oshwal Academy (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ict-support-technician-ern2z2
