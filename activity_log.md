@@ -4263,3 +4263,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Senior Data Engineer** at CIC Insurance (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/senior-data-engineer-cic-insurance/
+
+## 2026-07-29 13:51 UTC — 3 new job(s)
+
+- **AI Platform Engineer** at International Rescue Committee (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ai-platform-engineer-international-rescue-committee-1
+- **Accounts Manager(ICT, Energy, Security & Infrastructure)** at Baran Telecom Networks Kenya Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/accounts-manager-ict-energy-security-infrastructure-baran-telecom-networks-kenya-limited
+- **Data & Analytics Manager** at CIC Insurance (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/data-analytics-manager-cic-insurance/
