@@ -4258,3 +4258,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/ict-business-partner-britam-1
 - **Scholarship for Graduate Assistant - ICT - 3 Posts** at Meru University of Science and Technology (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/scholarship-for-graduate-assistant-ict-3-posts-meru-university-of-science-and-technology
+
+## 2026-07-29 11:59 UTC — 1 new job(s)
+
+- **Senior Data Engineer** at CIC Insurance (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-data-engineer-cic-insurance/
