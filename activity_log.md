@@ -4247,3 +4247,14 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/it-manager-d9e4q5
 - **ICT Support Technician** at Oshwal Academy (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/ict-support-technician-ern2z2
+
+## 2026-07-29 08:26 UTC — 4 new job(s)
+
+- **Senior Full Stack Developer** at Jubilee Insurance (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-full-stack-developer-jubilee-insurance
+- **Full Stack Developer** at Jubilee Insurance (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/full-stack-developer-jubilee-insurance-4
+- **ICT Business Partner** at Britam (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-business-partner-britam-1
+- **Scholarship for Graduate Assistant - ICT - 3 Posts** at Meru University of Science and Technology (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/scholarship-for-graduate-assistant-ict-3-posts-meru-university-of-science-and-technology
