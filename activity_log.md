@@ -4272,3 +4272,46 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/accounts-manager-ict-energy-security-infrastructure-baran-telecom-networks-kenya-limited
 - **Data & Analytics Manager** at CIC Insurance (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/data-analytics-manager-cic-insurance/
+
+## 2026-07-30 04:54 UTC — 20 new job(s)
+
+- **People Partner - Community & employee experience** at NestAI (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/people-partner-community-employee-experience-rrz08m
+- **Software Developer/Analyst** at International Rescue Committee (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/software-developeranalyst-gmq05m
+- **Quality Analyst (Remote)** at Hired (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/quality-analyst-remote-d9e67r
+- **Research Analyst (Remote)** at Hired (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/research-analyst-remote-m054gw
+- **ICT Business Partner** at Britam (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ict-business-partner-x8jzpm
+- **Technical Support Agent (L2)** at Influx (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/technical-support-agent-l2-m054pw
+- **Full stack Engineer Annotator** at Odixcity Consulting (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/full-stack-engineer-annotator-d7x7g5-v1
+- **Technical Support Engineer, Trilogy (Remote) - $60,000/year USD** at Crossover (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/technical-support-engineer-trilogy-remote-60000year-usd-pgdmzp-v2
+- **Manager, Risk Management - AI (India/Malaysia)** at Standard Chartered (Full Time) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/manager-risk-management-ai-indiamalaysia-qz4v2v
+- **Chief Information Officer** at Royal Mabati Factory Limited (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/chief-information-officer-qz4vqp
+- **Senior Data Engineer** at CloudFactory (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-data-engineer-n9gzpw
+- **Inside Sales Manager** at Wing Assistant (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/inside-sales-manager-gmq0ge
+- **Blogger** at Remote Raven (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/blogger-8mvd5x
+- **Innovation Specialist, P-4, Temporary Position, 364 days, #00138162, Global Programme Division, Generation Unlimited (YPA) secretariat, Outposted in Nairobi (Fully Remote)** at Unicef CHAD (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/innovation-specialist-p-4-temporary-position-364-days-00138162-global-programme-division-generation-unlimited-ypa-secretariat-outposted-in-nairobi-fully-remote-6qxmdd
+- **Field Service Engineer** at Philips (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/field-service-engineer-wre8zj
+- **Senior ERP & Business Solutions Consultant** at Corporate Staffing (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-erp-business-solutions-consultant-4547x4
+- **ICT Cloud Officer** at MEDECINS SAN FRONTIERES (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ict-cloud-officer-rrz0zq
+- **Assistant IT Manager** at Optica Limited (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/assistant-it-manager-5p6565
+- **Accounts Manager(ICT, Energy, Security & Infrastructure)** at BTN (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/accounts-managerict-energy-security-infrastructure-j64wr8
+- **Startup Lawyer and Employee Shareholder** at GHIF Company (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/startup-lawyer-and-employee-shareholder-x8jz6m
