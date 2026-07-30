@@ -4356,3 +4356,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/tutorial-fellow-mechanical-engineering-zbti-zetech-university/
 - **ICT Specialist – Software Development (Full Stack Developer – Node, Typescript, Express, React)** at United Nations Office for Project Services (UNOPS) (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/ict-specialist-software-development-full-stack-developer-node-typescript-express-react-united-nations-office-project-services-unops/
+
+## 2026-07-30 17:21 UTC — 1 new job(s)
+
+- **Instrumentation and Control Engineer** at Octavia Carbon (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/instrumentation-control-engineer-octavia-carbon/
