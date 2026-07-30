@@ -4315,3 +4315,28 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/accounts-managerict-energy-security-infrastructure-j64wr8
 - **Startup Lawyer and Employee Shareholder** at GHIF Company (Rest of Kenya) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/startup-lawyer-and-employee-shareholder-x8jz6m
+
+## 2026-07-30 08:13 UTC — 11 new job(s)
+
+- **ICT Specialist - Software Development (Full Stack Developer - Node, Typescript, Express, React)** at United Nations Office for Project Services (UNOPS) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-specialist-software-development-full-stack-developer-node-typescript-express-react-united-nations-office-for-project-services-unops
+- **AI Platform Engineer** at International Rescue Committee (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/ai-platform-engineer-international-rescue-committee/
+- **Senior Data Engineer** at CloudFactory (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-data-engineer-cloudfactory/
+- **Business Development Manager – Nairobi** at Summit Recruitment and Search (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/business-development-manager-nairobi-summit-recruitment-search/
+- **Maintenance Technician – Electrical** at BURN (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/maintenance-technician-electrical-burn/
+- **Project Engineer (Manufacturing) – Kenya** at BURN (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/project-engineer-manufacturing-kenya-burn/
+- **AI Learning Specialist** at International Rescue Committee (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/ai-learning-specialist-international-rescue-committee-2/
+- **General Manager – Nairobi, Kenya** at Summit Recruitment and Search (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/general-manager-nairobi-kenya-summit-recruitment-search/
+- **Sales Executive (Steel Trading) – Nairobi** at Summit Recruitment and Search (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/sales-executive-steel-trading-nairobi-summit-recruitment-search/
+- **Submit CVs – Latest Recruitment** at HF Group (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-latest-recruitment-hf-group-3/
+- **Accounts Manager(ICT, Energy, Security & Infrastructure)** at Baran Telecom Networks Kenya Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/accounts-managerict-energy-security-infrastructure-baran-telecom-networks-kenya-limited/
