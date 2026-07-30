@@ -4349,3 +4349,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/ict-specialist-software-development-full-stack-developer-node-typescript-express-react-7j8mjj
 - **ICT Specialist - Software Development (Javascript, Typescript, Python, Javascript frameworks)** at UNOPS (Remote (Work From Home)) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/ict-specialist-software-development-javascript-typescript-python-javascript-frameworks-9kmdkn
+
+## 2026-07-30 15:51 UTC — 2 new job(s)
+
+- **Tutorial Fellow – Mechanical Engineering (ZBTI)** at Zetech University (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/tutorial-fellow-mechanical-engineering-zbti-zetech-university/
+- **ICT Specialist – Software Development (Full Stack Developer – Node, Typescript, Express, React)** at United Nations Office for Project Services (UNOPS) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/ict-specialist-software-development-full-stack-developer-node-typescript-express-react-united-nations-office-project-services-unops/
