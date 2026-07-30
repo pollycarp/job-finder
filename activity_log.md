@@ -4340,3 +4340,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/submit-cvs-latest-recruitment-hf-group-3/
 - **Accounts Manager(ICT, Energy, Security & Infrastructure)** at Baran Telecom Networks Kenya Limited (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/accounts-managerict-energy-security-infrastructure-baran-telecom-networks-kenya-limited/
+
+## 2026-07-30 11:51 UTC — 3 new job(s)
+
+- **Data & Reporting Analyst** at Victory Farms (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-reporting-analyst-victory-farms
+- **ICT Specialist - Software Development (Full Stack Developer - Node, Typescript, Express, React)** at UNOPS (Remote (Work From Home)) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ict-specialist-software-development-full-stack-developer-node-typescript-express-react-7j8mjj
+- **ICT Specialist - Software Development (Javascript, Typescript, Python, Javascript frameworks)** at UNOPS (Remote (Work From Home)) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ict-specialist-software-development-javascript-typescript-python-javascript-frameworks-9kmdkn
