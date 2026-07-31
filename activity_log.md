@@ -4388,3 +4388,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/bi-data-analytics-engineer-d-light/
 - **Chief of Staff to the Founder & Group CEO** at INUA AI (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/chief-staff-founder-group-ceo-inua-ai/
+
+## 2026-07-31 15:59 UTC — 1 new job(s)
+
+- **County Chief Officers - Information Communication Technology (ICT)** at Makueni County Public Service Board (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/county-chief-officers-information-communication-technology-ict-makueni-county-public-service-board
