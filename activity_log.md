@@ -4379,3 +4379,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/assistant-project-coordinator-security-ict-projects-gap-recruitment-services-limited
 - **Operations & Performance Manager** at This Ability (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/operations-performance-manager-ability/
+
+## 2026-07-31 13:46 UTC — 3 new job(s)
+
+- **Data Scientist (Fraud)** at Moniepoint (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-scientist-fraud-moniepoint
+- **BI Data Analytics Engineer** at d.light (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/bi-data-analytics-engineer-d-light/
+- **Chief of Staff to the Founder & Group CEO** at INUA AI (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/chief-staff-founder-group-ceo-inua-ai/
