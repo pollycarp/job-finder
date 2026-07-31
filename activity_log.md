@@ -4361,3 +4361,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Instrumentation and Control Engineer** at Octavia Carbon (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/instrumentation-control-engineer-octavia-carbon/
+
+## 2026-07-31 05:31 UTC — 1 new job(s)
+
+- **ENTERPRISE PROJECT MANAGEMENT INTERN** at Airtel Kenya (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/enterprise-project-management-intern-9kmd5p
