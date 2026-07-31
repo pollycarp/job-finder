@@ -4366,3 +4366,16 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **ENTERPRISE PROJECT MANAGEMENT INTERN** at Airtel Kenya (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/enterprise-project-management-intern-9kmd5p
+
+## 2026-07-31 11:56 UTC — 5 new job(s)
+
+- **Fullstack Developer** at Britam (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/fullstack-developer-britam
+- **Inventory Officer – Security & ICT Projects** at Gap Recruitment Services Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/inventory-officer-security-ict-projects-gap-recruitment-services-limited
+- **B2B Sales Executive – Security & ICT Solutions** at Gap Recruitment Services Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/b2b-sales-executive-security-ict-solutions-gap-recruitment-services-limited
+- **Assistant Project Coordinator – Security & ICT Projects** at Gap Recruitment Services Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/assistant-project-coordinator-security-ict-projects-gap-recruitment-services-limited
+- **Operations & Performance Manager** at This Ability (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/operations-performance-manager-ability/
