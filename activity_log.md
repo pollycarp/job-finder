@@ -4402,3 +4402,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/data-scientist-fraud-moniepoint/
 - **Information Security GRC Officer** at Talent Safari (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/information-security-grc-officer-talent-safari/
+
+## 2026-08-01 11:16 UTC — 1 new job(s)
+
+- **ICT Intern – Software Developer** at Amref Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/ict-intern-software-developer-amref-kenya/
