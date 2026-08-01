@@ -4393,3 +4393,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **County Chief Officers - Information Communication Technology (ICT)** at Makueni County Public Service Board (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/county-chief-officers-information-communication-technology-ict-makueni-county-public-service-board
+
+## 2026-08-01 08:08 UTC — 3 new job(s)
+
+- **ICT Intern - Software Developer** at Amref Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-intern-software-developer-amref-kenya-1
+- **Data Scientist (Fraud)** at Moniepoint (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/data-scientist-fraud-moniepoint/
+- **Information Security GRC Officer** at Talent Safari (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/information-security-grc-officer-talent-safari/
