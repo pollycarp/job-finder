@@ -4407,3 +4407,62 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **ICT Intern – Software Developer** at Amref Kenya (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/ict-intern-software-developer-amref-kenya/
+
+## 2026-08-02 05:23 UTC — 28 new job(s)
+
+- **Credit Analyst** at HMD (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/credit-analyst-k7rqe2
+- **Remote Business Analyst** at Turing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/remote-business-analyst-7wkdnx-v9
+- **Head of Sales & Commercial Operations – Mobility** at Semasocial (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/head-of-sales-commercial-operations-mobility-j64wew
+- **Director, Third Party Intelligence & Incident Investigations (United Kingdom/Singapore)** at Standard Chartered (Full Time) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/director-third-party-intelligence-incident-investigations-united-kingdomsingapore-wre84z
+- **Major Account Manager (BFSI)** at Semasocial (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/major-account-manager-bfsi-9kmdq0
+- **Cybersecurity Consultant (Remote)** at Quik Hire Staffing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/cybersecurity-consultant-remote-n9g0jk-v1
+- **Media Relations Associate (Remote)** at Semasocial (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/media-relations-associate-remote-454m99
+- **Technical Presales Executive – Security & ICT Solutions** at Semasocial (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/technical-presales-executive-security-ict-solutions-6qxm8n
+- **Head of Sales (Enterprise Revenue Growth/Individual Contributor)** at Black Pen Recruitment (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/head-of-sales-enterprise-revenue-growthindividual-contributor-wregnd-v1
+- **Call Center Officer – Debt Collection** at Semasocial (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/call-center-officer-debt-collection-8mvd64
+- **Engineer - Enterprise Customer Support** at Semasocial (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/engineer-enterprise-customer-support-2kjdx2
+- **Customer Service Executive** at Semasocial (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/customer-service-executive-z8v6k8
+- **Tutorial Fellow - Film and Animation** at Semasocial (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/tutorial-fellow-film-and-animation-454mg5
+- **Finance Manager – Imaging Products Distribution** at Semasocial (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/finance-manager-imaging-products-distribution-z8v6w8
+- **Inventory Officer** at Semasocial (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/inventory-officer-0kgzjm
+- **English Teacher** at Semasocial (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/english-teacher-7j8mqe
+- **Sales Team Leader** at Semasocial (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/sales-team-leader-vd4qr2
+- **Digital Marketing Officer** at Semasocial (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/digital-marketing-officer-n9gzvz
+- **Mathematics Teacher** at Semasocial (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/mathematics-teacher-6qxmwn
+- **Accounts Receivables -Gujarati Speaking** at Semasocial (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/accounts-receivables-gujarati-speaking-n9gz8z
+- **Reservations & Distribution Manager** at Semasocial (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/reservations-distribution-manager-x8jzmv
+- **Mixologist** at Semasocial (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/mixologist-k7rqdw
+- **Barista cum Waiter/Waitress** at Semasocial (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/barista-cum-waiterwaitress-7j8mqx
+- **Software Engineer** at Pro Group (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/software-engineer-n9gz6g
+- **.NET Engineer (Remote)** at Quik Hire Staffing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/net-engineer-remote-x8jp4w-v1
+- **Quantitative Research Associate, International Development (Nairobi, Kenya)** at American Institutes for Research (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/quantitative-research-associate-international-development-nairobi-kenya-rrz0en
+- **Call for Expression of Interest: Web Developer (Consultant – Need-Based Engagement)** at Digimatt Solutions (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/call-for-expression-of-interest-web-developer-consultant-need-based-engagement-pgd7eq
+- **Information Security Officer** at Super (Full Time) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/information-security-officer-z8v609
