@@ -4466,3 +4466,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/call-for-expression-of-interest-web-developer-consultant-need-based-engagement-pgd7eq
 - **Information Security Officer** at Super (Full Time) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/information-security-officer-z8v609
+
+## 2026-08-03 09:27 UTC — 2 new job(s)
+
+- **Lead Application Engineer** at Nairobi Hospital (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/lead-application-engineer-nairobi-hospital/
+- **Senior Engineer – Security Operation Center** at United States International University – USIU Africa (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-engineer-security-operation-center-united-states-international-university-usiu-africa/
