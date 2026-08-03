@@ -4486,3 +4486,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/process-design-engineer-octavia-carbon/
 - **Senior Backend Engineer** at HF Group (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/senior-backend-engineer-hf-group/
+
+## 2026-08-03 16:19 UTC — 3 new job(s)
+
+- **Fraud Data Analyst** at NALA (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/fraud-data-analyst-nala
+- **Senior Lecturer, Computer Science/Software Engineering** at Kirinyaga University (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-lecturer-computer-science-software-engineering-kirinyaga-university
+- **Senior DevOps Engineer** at Absa Bank Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-devops-engineer-absa-bank-limited
