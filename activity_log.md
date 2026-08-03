@@ -4473,3 +4473,16 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/lead-application-engineer-nairobi-hospital/
 - **Senior Engineer – Security Operation Center** at United States International University – USIU Africa (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/senior-engineer-security-operation-center-united-states-international-university-usiu-africa/
+
+## 2026-08-03 12:55 UTC — 5 new job(s)
+
+- **Marine Spatial Data Analyst (Maternity Cover)** at Blue Ventures (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/marine-spatial-data-analyst-maternity-cover-blue-ventures
+- **Backend Developer** at Clovers Management & Training Consultants Ltd (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/backend-developer-clovers-management-amp-training-consultants-ltd
+- **Manager Business Performance & Analytics** at HF Group (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/manager-business-performance-analytics-hf-group/
+- **Process Design Engineer** at Octavia Carbon (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/process-design-engineer-octavia-carbon/
+- **Senior Backend Engineer** at HF Group (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-backend-engineer-hf-group/
