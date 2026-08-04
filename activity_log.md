@@ -4495,3 +4495,16 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/senior-lecturer-computer-science-software-engineering-kirinyaga-university
 - **Senior DevOps Engineer** at Absa Bank Limited (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/senior-devops-engineer-absa-bank-limited
+
+## 2026-08-04 04:59 UTC — 5 new job(s)
+
+- **ICT Teacher** at Makini High School (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-teacher-makini-high-school-2
+- **Data & Reporting Analyst** at Victory Farms (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-reporting-analyst-gmqj90
+- **Graduate - Commercial & Data** at Tropical Heat Ltd (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/graduate-commercial-data-454q4v
+- **Technical Support Agent (L2)** at Influx. Inc (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/technical-support-agent-l2-x8jepq
+- **Technical Support Agent** at Influx. Inc (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/technical-support-agent-8m052x-v1
