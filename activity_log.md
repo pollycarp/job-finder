@@ -4537,3 +4537,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/cybersecurity-governance-and-assurance-officer-international-livestock-research-institute-ilri
 - **Principal ICT Officer** at Coast Water Works Development Agency (CWWDA) (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/principal-ict-officer-coast-water-works-development-agency-cwwda
+
+## 2026-08-04 21:08 UTC — 1 new job(s)
+
+- **Submit CVs – Latest Recruitment** at ALX (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-latest-recruitment-alx/
