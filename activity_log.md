@@ -4508,3 +4508,16 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/technical-support-agent-l2-x8jepq
 - **Technical Support Agent** at Influx. Inc (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/technical-support-agent-8m052x-v1
+
+## 2026-08-04 08:26 UTC — 5 new job(s)
+
+- **Marine Spatial Data Analyst (Maternity Cover)** at Blue Ventures (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/marine-spatial-data-analyst-maternity-cover-blue-ventures/
+- **Fraud Data Analyst** at NALA (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/fraud-data-analyst-nala/
+- **Senior DevOps Engineer** at Absa Bank Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-devops-engineer-absa-bank-limited/
+- **Manager, Fintech and Cyber Audit** at Safaricom Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/manager-fintech-cyber-audit-safaricom-kenya/
+- **Digital Identity Lead – Frontier Technologies Foundations** at Genesis Analytics (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/digital-identity-lead-frontier-technologies-foundations-genesis-analytics/
