@@ -4521,3 +4521,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/manager-fintech-cyber-audit-safaricom-kenya/
 - **Digital Identity Lead – Frontier Technologies Foundations** at Genesis Analytics (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/digital-identity-lead-frontier-technologies-foundations-genesis-analytics/
+
+## 2026-08-04 12:01 UTC — 3 new job(s)
+
+- **Senior AI/ML Engineer** at ALX (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-ai-ml-engineer-alx
+- **AI Engineer** at ALX (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ai-engineer-alx
+- **Manager – Credit Strategy & Operations** at Apollo Agriculture (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/manager-credit-strategy-operations-apollo-agriculture/
