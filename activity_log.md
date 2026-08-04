@@ -4530,3 +4530,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/ai-engineer-alx
 - **Manager – Credit Strategy & Operations** at Apollo Agriculture (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/manager-credit-strategy-operations-apollo-agriculture/
+
+## 2026-08-04 13:58 UTC — 2 new job(s)
+
+- **Cybersecurity, Governance and Assurance Officer** at International Livestock Research Institute (ILRI) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/cybersecurity-governance-and-assurance-officer-international-livestock-research-institute-ilri
+- **Principal ICT Officer** at Coast Water Works Development Agency (CWWDA) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/principal-ict-officer-coast-water-works-development-agency-cwwda
