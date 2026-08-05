@@ -4542,3 +4542,14 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Submit CVs – Latest Recruitment** at ALX (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/submit-cvs-latest-recruitment-alx/
+
+## 2026-08-05 05:01 UTC — 4 new job(s)
+
+- **Marine Spatial Data Analyst** at Blue Ventures (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/marine-spatial-data-analyst-7j8r9m
+- **Cardiac Sonographer** at Tenwek Hospital (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/cardiac-sonographer-0kg0zx
+- **Lead Application Engineer** at The Nairobi Hospital (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/lead-application-engineer-d9ej60
+- **Field Service Engineer** at Jaza Energy (Outside Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/field-service-engineer-6q7w0g-v1
