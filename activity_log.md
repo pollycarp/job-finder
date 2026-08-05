@@ -4553,3 +4553,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/lead-application-engineer-d9ej60
 - **Field Service Engineer** at Jaza Energy (Outside Kenya) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/field-service-engineer-6q7w0g-v1
+
+## 2026-08-05 08:23 UTC — 3 new job(s)
+
+- **Data Analyst** at Tenwek Hospital (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-analyst-tenwek-hospital-1
+- **Lead Infrastructure Engineer** at Ideon Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/lead-infrastructure-engineer-ideon-limited/
+- **Cybersecurity, Governance and Assurance Officer** at International Livestock Research Institute (ILRI) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/cybersecurity-governance-assurance-officer-international-livestock-research-institute-ilri/
