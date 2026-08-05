@@ -4562,3 +4562,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/lead-infrastructure-engineer-ideon-limited/
 - **Cybersecurity, Governance and Assurance Officer** at International Livestock Research Institute (ILRI) (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/cybersecurity-governance-assurance-officer-international-livestock-research-institute-ilri/
+
+## 2026-08-05 11:55 UTC — 2 new job(s)
+
+- **Full Stack Developer** at Unga Holding (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/full-stack-developer-unga-holding-1
+- **Full Stack Developer** at Sheer Logic (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/full-stack-developer-sheer-logistics
