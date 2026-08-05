@@ -4569,3 +4569,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/full-stack-developer-unga-holding-1
 - **Full Stack Developer** at Sheer Logic (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/full-stack-developer-sheer-logistics
+
+## 2026-08-05 13:49 UTC — 1 new job(s)
+
+- **IT/ICT - 2 Posts** at Masinde Muliro University of Science & Technology (MMUST) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/it-ict-2-posts-masinde-muliro-university-of-science-amp-technology-mmust
