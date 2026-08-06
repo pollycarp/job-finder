@@ -4593,3 +4593,20 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/project-manager-fixed-term-contract-2kjn68
 - **Manager, Fintech and Cyber Audit** at SAFARICOM (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/manager-fintech-and-cyber-audit-x8jerj
+
+## 2026-08-06 08:28 UTC — 7 new job(s)
+
+- **Data Engineering Lead Analyst** at Cigna (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-engineering-lead-analyst-cigna
+- **CRRD Data Analyst** at International Rescue Committee (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/crrd-data-analyst-international-rescue-committee-1
+- **Senior Cybersecurity** at Solvo Global (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-cybersecurity-solvo-global
+- **ICT Support Officer** at Username Properities (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-support-officer-username-trade
+- **ICT Officer – Physical Hardware Support** at Frank Management Consult Ltd (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-officer-physical-hardware-support-frank-management-consult-ltd
+- **Full Stack Developer** at Sheer Logic (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/full-stack-developer-sheer-logic/
+- **Mobile Application Developer** at Sheer Logic (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/mobile-application-developer-sheer-logic/
