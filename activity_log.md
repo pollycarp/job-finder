@@ -4610,3 +4610,28 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/full-stack-developer-sheer-logic/
 - **Mobile Application Developer** at Sheer Logic (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/mobile-application-developer-sheer-logic/
+
+## 2026-08-06 12:03 UTC — 11 new job(s)
+
+- **CRRD Data Analyst** at International Rescue Committee – Nairobi (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/crrd-data-analyst-international-rescue-committee-nairobi/
+- **E T Consultant (Regional Engagement Analyst)** at World Bank Group (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/e-t-consultant-regional-engagement-analyst-world-bank-group/
+- **IT Program Manager & Business Analyst (PM-BA)** at International Rescue Committee (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/program-manager-business-analyst-pm-ba-international-rescue-committee/
+- **Senior Investment Analyst** at Jubilee Insurance (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-investment-analyst-jubilee-insurance-3/
+- **Data Engineering Advisor** at Cigna (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/data-engineering-advisor-cigna/
+- **Submit CVs – New Recruitment** at Co-operative Bank of Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-co-operative-bank-kenya/
+- **Submit CVs – Latest Recruitment** at Sustainet Group (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-latest-recruitment-sustainet-group/
+- **INFORMATION SYSTEMS SECURITY MANAGER** at Brites Management Services Limited (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/information-systems-security-manager-454264
+- **ICT MANAGER** at Brites Management Services Limited (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ict-manager-qz4kwp
+- **ICT PROJECT MANAGER** at Brites Management Services Limited (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ict-project-manager-6qx2vd
+- **INFRASTRUCTURE MANAGER** at Brites Management Services Limited (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/infrastructure-manager-rrzkjq
