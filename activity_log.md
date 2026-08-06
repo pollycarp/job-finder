@@ -4574,3 +4574,22 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **IT/ICT - 2 Posts** at Masinde Muliro University of Science & Technology (MMUST) (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/it-ict-2-posts-masinde-muliro-university-of-science-amp-technology-mmust
+
+## 2026-08-06 05:02 UTC — 8 new job(s)
+
+- **Commercial Data Analyst** at M-Gas (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/commercial-data-analyst-m-gas
+- **Key expert 2: Data science and software engineering** at Sustainet Group (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/key-expert-2-data-science-and-software-engineering-sustainet-group
+- **Senior AI/ML Engineer** at African Leadership X (ALX) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-aiml-engineer-rrz4p2
+- **LLMOps Engineer** at African Leadership X (ALX) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/llmops-engineer-7j8rkd
+- **Learning Scientist** at African Leadership X (ALX) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/learning-scientist-k7rvj8
+- **ICT Intern - Software Developer** at AMREF Health Africa (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ict-intern-software-developer-x8je0j
+- **Project Manager - Fixed Term Contract** at SAFARICOM (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/project-manager-fixed-term-contract-2kjn68
+- **Manager, Fintech and Cyber Audit** at SAFARICOM (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/manager-fintech-and-cyber-audit-x8jerj
