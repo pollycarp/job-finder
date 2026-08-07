@@ -4655,3 +4655,18 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **AI Orchestration Engineer - Computer Science** at Zetech University (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/ai-orchestration-engineer-computer-science-zetech-university-1
+
+## 2026-08-07 12:47 UTC — 6 new job(s)
+
+- **Electrical Engineering Trainer** at Machakos Institute of Technology (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/electrical-engineering-trainer-machakos-institute-technology/
+- **Supply Chain Lead (Upstream Oil & Gas Waste Management)** at WTS Energy (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/supply-chain-lead-upstream-oil-gas-waste-management-wts-energy/
+- **Systems Developer** at Express Shipping & Logistics (EA) Limited (ESL) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/systems-developer-express-shipping-logistics-ea-limited-esl/
+- **Product Owner** at HF Group (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/product-owner-hf-group/
+- **Lead, IT Change & Interventions** at Save the Children (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/lead-change-interventions-save-children/
+- **Head of Cloud & Cyber Security** at Liquid Intelligent Technologies (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/head-cloud-cyber-security-liquid-intelligent-technologies/
