@@ -4679,3 +4679,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/network-engineer-interested-applicants-u-s-embassy-kenya/
 - **Team Leader Cold Drink Equipment(CDE) – Nairobi** at The Coca-Cola Company (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/team-leader-cold-drink-equipmentcde-nairobi-coca-cola-company/
+
+## 2026-08-07 18:46 UTC — 1 new job(s)
+
+- **AI Orchestration Engineer – Computer Science** at Zetech University (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/ai-orchestration-engineer-computer-science-zetech-university/
