@@ -4670,3 +4670,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/lead-change-interventions-save-children/
 - **Head of Cloud & Cyber Security** at Liquid Intelligent Technologies (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/head-cloud-cyber-security-liquid-intelligent-technologies/
+
+## 2026-08-07 16:47 UTC — 3 new job(s)
+
+- **Decision Analytics Lead** at d.light (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/decision-analytics-lead-d-light/
+- **Network Engineer- All Interested Applicants** at U.S. Embassy to Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/network-engineer-interested-applicants-u-s-embassy-kenya/
+- **Team Leader Cold Drink Equipment(CDE) – Nairobi** at The Coca-Cola Company (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/team-leader-cold-drink-equipmentcde-nairobi-coca-cola-company/
