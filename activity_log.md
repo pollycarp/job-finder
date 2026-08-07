@@ -4650,3 +4650,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/full-stack-developer-gmqk0e
 - **Major Account Manager (BFSI) - Kenya** at Fortinet (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/major-account-manager-bfsi-kenya-x8jdwv-v1
+
+## 2026-08-07 10:48 UTC — 1 new job(s)
+
+- **AI Orchestration Engineer - Computer Science** at Zetech University (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ai-orchestration-engineer-computer-science-zetech-university-1
