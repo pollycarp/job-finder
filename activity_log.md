@@ -4635,3 +4635,18 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/ict-project-manager-6qx2vd
 - **INFRASTRUCTURE MANAGER** at Brites Management Services Limited (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/infrastructure-manager-rrzkjq
+
+## 2026-08-07 05:33 UTC — 6 new job(s)
+
+- **AI Engineer** at African Leadership X (ALX) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ai-engineer-9km2dn
+- **Technical Product Manager** at African Leadership X (ALX) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/technical-product-manager-m05kdw
+- **Accounts Manager(ICT, Energy, Security & Infrastructure)** at Baran Telecom Networks (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/accounts-managerict-energy-security-infrastructure-8mv2dx
+- **Chief of Staff to the Founder & Group CEO** at INUA AI (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/chief-of-staff-to-the-founder-group-ceo-wre9jj
+- **Full Stack Developer** at Unga Holdings Limited (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/full-stack-developer-gmqk0e
+- **Major Account Manager (BFSI) - Kenya** at Fortinet (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/major-account-manager-bfsi-kenya-x8jdwv-v1
