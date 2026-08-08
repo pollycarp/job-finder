@@ -4684,3 +4684,48 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **AI Orchestration Engineer – Computer Science** at Zetech University (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/ai-orchestration-engineer-computer-science-zetech-university/
+
+## 2026-08-08 04:52 UTC — 21 new job(s)
+
+- **ICT-Intern (Diploma Holders) - 2 Posts** at Mombasa County Public Service Board (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-intern-diploma-holders-mombasa-county
+- **ICT-Intern (Degree Holders) - 6 Posts** at Mombasa County Public Service Board (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-intern-degree-holders-mombasa-county
+- **Data Scientist** at Modal Rakyat (Full Time) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-scientist-ernzr9
+- **AI & Business Intelligence Analyst** at Finlays Kenya (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ai-business-intelligence-analyst-454wd5
+- **Cyber Security Analyst (Remote)** at Hired (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/cyber-security-analyst-remote-8mvr44
+- **Quality Analyst (Remote)** at Hire Feed (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/quality-analyst-remote-gmq798
+- **Graduate Engineering Program 2026** at Synkron (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/graduate-engineering-program-2026-x8j980
+- **Client Partner - AI Solutions (Remote)** at Quik Hire Staffing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/client-partner-ai-solutions-remote-d9e75m-v3
+- **Software Support Engineer at Boost Technology** at Jack & Jill (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/software-support-engineer-at-boost-technology-7j8mxz
+- **Lead Software Engineer** at Modal Rakyat (Full Time) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/lead-software-engineer-n9g8pk
+- **Backend Developer** at Sheer Logic Management Consultants Ltd (Full Time) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/backend-developer-rrzk8q
+- **Plumbing Estimator** at Wingubox Ltd (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/plumbing-estimator-0kgvkz
+- **Lead Quality Engineer** at Modal Rakyat (Full Time) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/lead-quality-engineer-k7rng2
+- **Student Attachee** at Vapor Technologies (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/student-attachee-k7rnpm
+- **Software Quality Assurance** at Modal Rakyat (Full Time) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/software-quality-assurance-vd4vwx
+- **Devops Engineer** at Modal Rakyat (Full Time) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/devops-engineer-d9em97
+- **Junior or Mid Level Graphic Designer** at Future Bridge Events (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/junior-or-mid-level-graphic-designer-ernz99
+- **Senior Batch Plant Operator** at Tatu City (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-batch-plant-operator-wre0zz
+- **Solution Architect** at Ericsson (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/solution-architect-0kgv7z
+- **Head of Cloud & Cyber security** at Liquid Intelligent Technologies East Africa (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/head-of-cloud-cyber-security-gmq7m2
+- **KASPERSKY LABS LIMITED** at The Accounts UK (Full Time) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/kaspersky-labs-limited-5p6q9p
