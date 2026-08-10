@@ -4738,3 +4738,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/it-program-manager-business-analyst-pm-ba-m05q4d
 - **Key expert 2: Data Science And Software Engineering** at Sustainet Group Limited (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/key-expert-2-data-science-and-software-engineering-0kgv0g
+
+## 2026-08-10 07:16 UTC — 1 new job(s)
+
+- **Tutors-ICT** at Goshen Medical & Technical College (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/tutors-ict-goshen-medical-technical-college
