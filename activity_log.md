@@ -4729,3 +4729,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/head-of-cloud-cyber-security-gmq7m2
 - **KASPERSKY LABS LIMITED** at The Accounts UK (Full Time) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/kaspersky-labs-limited-5p6q9p
+
+## 2026-08-10 05:21 UTC — 3 new job(s)
+
+- **CRRD Data Analyst** at International Rescue Committee (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/crrd-data-analyst-7j8xmg-v1
+- **IT Program Manager & Business Analyst (PM-BA)** at International Rescue Committee (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/it-program-manager-business-analyst-pm-ba-m05q4d
+- **Key expert 2: Data Science And Software Engineering** at Sustainet Group Limited (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/key-expert-2-data-science-and-software-engineering-0kgv0g
