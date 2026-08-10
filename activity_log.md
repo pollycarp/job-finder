@@ -4743,3 +4743,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Tutors-ICT** at Goshen Medical & Technical College (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/tutors-ict-goshen-medical-technical-college
+
+## 2026-08-10 09:12 UTC — 1 new job(s)
+
+- **Supply Chain Data and Planning Analyst** at African Coffee Roasters EPZ Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/supply-chain-data-and-planning-analyst-african-coffee-roasters-epz-limited
