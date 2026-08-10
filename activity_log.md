@@ -4758,3 +4758,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Junior Software Engineer** at CIC Insurance (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/junior-software-engineer-cic-insurance
+
+## 2026-08-10 16:48 UTC — 2 new job(s)
+
+- **Data Analyst** at HF Group (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-analyst-hf-group
+- **Teacher-ICT/ Mathematics** at Nexa International School (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/teacher-ict-mathematics-nexa-international-school
