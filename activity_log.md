@@ -4753,3 +4753,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Experienced Beauty Therapist Along Ngong Road (Kshs 30k – 40k Starting Salary)** at Delicto Holdings (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/experienced-beauty-therapist-along-ngong-road-kshs-30k-40k-starting-salary-delicto-holdings/
+
+## 2026-08-10 14:55 UTC — 1 new job(s)
+
+- **Junior Software Engineer** at CIC Insurance (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/junior-software-engineer-cic-insurance
