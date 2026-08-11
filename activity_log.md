@@ -4825,3 +4825,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Funded-MSc ICT (must have evidence of Artificial Intelligence Application)** at University of Embu (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/funded-msc-ict-must-have-evidence-of-artificial-intelligence-application-university-of-embu
+
+## 2026-08-11 12:47 UTC — 2 new job(s)
+
+- **Senior AI Platform Engineer (Cloud) - KE** at Absa Bank Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-ai-platform-engineer-cloud-ke-absa-bank-limited
+- **AI Platform Engineer (Cloud) - KE** at Absa Bank Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ai-platform-engineer-cloud-ke-absa-bank-limited
