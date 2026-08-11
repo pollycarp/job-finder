@@ -4820,3 +4820,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/supply-chain-data-planning-analyst-african-coffee-roasters-epz-limited/
 - **Project Manager** at HF Group (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/project-manager-hf-group/
+
+## 2026-08-11 10:47 UTC — 1 new job(s)
+
+- **Funded-MSc ICT (must have evidence of Artificial Intelligence Application)** at University of Embu (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/funded-msc-ict-must-have-evidence-of-artificial-intelligence-application-university-of-embu
