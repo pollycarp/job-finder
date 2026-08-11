@@ -4806,3 +4806,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/senior-project-manager-7j84e8
 - **Senior Associate - IT Support & Administration** at Peach Cars KE (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/senior-associate-it-support-administration-gmq7vk
+
+## 2026-08-11 06:54 UTC — 1 new job(s)
+
+- **Agile Team Coach Senior Analyst** at Cigna (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/agile-team-coach-senior-analyst-cigna/
