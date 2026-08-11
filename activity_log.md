@@ -4765,3 +4765,44 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/data-analyst-hf-group
 - **Teacher-ICT/ Mathematics** at Nexa International School (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/teacher-ict-mathematics-nexa-international-school
+
+## 2026-08-11 05:03 UTC — 19 new job(s)
+
+- **Senior Software Engineer** at Solvo Global (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-software-engineer-solvo-global
+- **Senior Software QA Engineer** at Solvo Global (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-software-qa-engineer-solvo-global
+- **Head of Communications** at Science for Africa Foundation (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/head-of-communications-5p62w7-v1
+- **Quality Production Professional** at Siemens Healthineers (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/quality-production-professional-d9em88
+- **CRRD Data Analyst** at Fuzu Nigeria (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/crrd-data-analyst-8mvre9
+- **Supply Chain Data and Planning Analyst** at African Coffee Roasters (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/supply-chain-data-and-planning-analyst-0kgvrw
+- **AI & Business Intelligence Analyst** at Fuzu Nigeria (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ai-business-intelligence-analyst-rrzm95
+- **Global Head of Portfolio Performance** at Burn (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/global-head-of-portfolio-performance-j6498g
+- **Budget Analyst** at U.S. Geological Survey (USGS) (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/budget-analyst-0kgvew
+- **AI Engineer Intern** at Lex.Africa (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ai-engineer-intern-qz4x0w
+- **Member of Technical Staff - Frontier AI (Remote)** at Quik Hire Staffing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/member-of-technical-staff-frontier-ai-remote-pgdgnr-v1
+- **Member of Technical Staff - Research Engineering (Remote)** at Quik Hire Staffing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/member-of-technical-staff-research-engineering-remote-gmq7nk
+- **Senior Team Lead, AI Engineering** at Deel (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-team-lead-ai-engineering-pgdrz4
+- **Forward Deployed Engineer (Remote)** at Quik Hire Staffing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/forward-deployed-engineer-remote-n9g8m9
+- **Product Security Engineer (Remote)** at Quik Hire Staffing (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/product-security-engineer-remote-6qx807
+- **Design and Quality Engineer-70k** at Sheer Logic Management Consultants Ltd (Full Time) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/design-and-quality-engineer-70k-pgdr8r
+- **Associate Product Manager** at Solvo Global (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/associate-product-manager-m05qz9
+- **Senior Project Manager** at Code for Africa (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-project-manager-7j84e8
+- **Senior Associate - IT Support & Administration** at Peach Cars KE (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-associate-it-support-administration-gmq7vk
