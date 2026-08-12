@@ -4841,3 +4841,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/gender-equality-consultant-accelerating-sanitation-water-aswa-programme-unicef-child-survival-development-coe-wash-global-practice-nairobi-kenya-15-5-months-remote/
 - **AI Platform Engineer (Cloud) – KE** at Absa Bank Limited (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/ai-platform-engineer-cloud-ke-absa-bank-limited/
+
+## 2026-08-12 04:01 UTC — 3 new job(s)
+
+- **Senior AI Platform Engineer (Cloud) – KE** at Absa Bank Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-ai-platform-engineer-cloud-ke-absa-bank-limited/
+- **Training and Certification Rep** at PEVCO Kenya Ltd (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/training-certification-rep-pevco-kenya-ltd/
+- **GSE Technician – Mechanical** at Kenya Airways (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/gse-technician-mechanical-kenya-airways/
