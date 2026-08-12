@@ -4855,3 +4855,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Teacher of Maths & Digital Learning / ICT or Science** at Kipepeo School (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/teacher-of-maths-digital-learning-ict-or-science-kipepeo-school
+
+## 2026-08-12 10:57 UTC — 2 new job(s)
+
+- **Group Head, ICT and Smart Mobility Systems** at KPMG (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/group-head-ict-and-smart-mobility-systems-kpmg
+- **Domain Expert Science & Technology** at Workforce Africa (Remote (Work From Home)) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/domain-expert-science-technology-7j8qp5
