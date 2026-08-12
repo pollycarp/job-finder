@@ -4867,3 +4867,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **AI Data Solution Engineer** at Environmental Resources Management (ERM) (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/ai-data-solution-engineer-environmental-resources-management-erm
+
+## 2026-08-12 20:38 UTC — 1 new job(s)
+
+- **Full-stack web developer intern** at RWK Group (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/full-stack-web-developer-9kmzr5
