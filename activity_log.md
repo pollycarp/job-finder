@@ -4832,3 +4832,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/senior-ai-platform-engineer-cloud-ke-absa-bank-limited
 - **AI Platform Engineer (Cloud) - KE** at Absa Bank Limited (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/ai-platform-engineer-cloud-ke-absa-bank-limited
+
+## 2026-08-12 01:12 UTC — 3 new job(s)
+
+- **Engineering Trainee – Factory Operations** at Sucafina (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/engineering-trainee-factory-operations-sucafina/
+- **Gender Equality Consultant – Accelerating Sanitation and Water for All (ASWA) Programme, UNICEF Child Survival and Development CoE, WASH Global Practice, Nairobi, Kenya, 15.5 Months (Remote)** at UNICEF (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/gender-equality-consultant-accelerating-sanitation-water-aswa-programme-unicef-child-survival-development-coe-wash-global-practice-nairobi-kenya-15-5-months-remote/
+- **AI Platform Engineer (Cloud) – KE** at Absa Bank Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/ai-platform-engineer-cloud-ke-absa-bank-limited/
