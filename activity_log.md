@@ -4850,3 +4850,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/training-certification-rep-pevco-kenya-ltd/
 - **GSE Technician – Mechanical** at Kenya Airways (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/gse-technician-mechanical-kenya-airways/
+
+## 2026-08-12 07:13 UTC — 1 new job(s)
+
+- **Teacher of Maths & Digital Learning / ICT or Science** at Kipepeo School (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/teacher-of-maths-digital-learning-ict-or-science-kipepeo-school
