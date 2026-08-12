@@ -4862,3 +4862,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/group-head-ict-and-smart-mobility-systems-kpmg
 - **Domain Expert Science & Technology** at Workforce Africa (Remote (Work From Home)) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/domain-expert-science-technology-7j8qp5
+
+## 2026-08-12 14:55 UTC — 1 new job(s)
+
+- **AI Data Solution Engineer** at Environmental Resources Management (ERM) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ai-data-solution-engineer-environmental-resources-management-erm
