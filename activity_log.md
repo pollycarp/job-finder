@@ -4877,3 +4877,14 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Group Head, ICT and Smart Mobility Systems** at KPMG (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/group-head-ict-smart-mobility-systems-kpmg/
+
+## 2026-08-13 07:18 UTC — 4 new job(s)
+
+- **Senior Full Stack Developer Technical Lead** at East African Data Handlers (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-full-stack-developer-technical-lead-east-african-data-handlers
+- **ICT Service Desk Analyst** at AAR Hospital (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-service-desk-analyst-aar-hospital
+- **Scientist (Gender, Social Inclusion and Development)** at WorldFish (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/scientist-gender-social-inclusion-development-worldfish/
+- **Automation and PCD Engineer** at The Heineken (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/automation-pcd-engineer-heineken/
