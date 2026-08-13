@@ -4872,3 +4872,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Full-stack web developer intern** at RWK Group (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/full-stack-web-developer-9kmzr5
+
+## 2026-08-13 05:48 UTC — 1 new job(s)
+
+- **Group Head, ICT and Smart Mobility Systems** at KPMG (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/group-head-ict-smart-mobility-systems-kpmg/
