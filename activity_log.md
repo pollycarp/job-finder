@@ -4899,3 +4899,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/senior-quality-engineer-airtel/
 - **IT Specialist** at EIDU (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/it-specialist-at-eidu/
+
+## 2026-08-13 10:58 UTC — 2 new job(s)
+
+- **Customer Service Representative** at Nairobi Inland Cargo Terminal (NICT) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/customer-service-representative-nairobi-inland-cargo-terminal-nict/
+- **Sales Executive** at Nairobi Inland Cargo Terminal (NICT) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/sales-executive-nairobi-inland-cargo-terminal-nict-6/
