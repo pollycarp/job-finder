@@ -4928,3 +4928,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/head-technology-healthy-u/
 - **Education Solutions Engineer** at Google (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/education-solutions-engineer-google/
+
+## 2026-08-14 20:27 UTC — 1 new job(s)
+
+- **Business Development Executive** at Computer Pride (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/business-development-executive-computer-pride/
