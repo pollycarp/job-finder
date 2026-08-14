@@ -4911,3 +4911,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Senior Software Engineer – Ruby (LLM Evaluation & Repository Validation)** at MEDIB PME (Kenya) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/senior-software-engineer-ruby-llm-evaluation-repository-validation-5p6n85
+
+## 2026-08-14 09:04 UTC — 1 new job(s)
+
+- **SR Software Engineer** at Solvo Global (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/sr-software-engineer-solvo-global
