@@ -4906,3 +4906,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/customer-service-representative-nairobi-inland-cargo-terminal-nict/
 - **Sales Executive** at Nairobi Inland Cargo Terminal (NICT) (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/sales-executive-nairobi-inland-cargo-terminal-nict-6/
+
+## 2026-08-14 07:15 UTC — 1 new job(s)
+
+- **Senior Software Engineer – Ruby (LLM Evaluation & Repository Validation)** at MEDIB PME (Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-software-engineer-ruby-llm-evaluation-repository-validation-5p6n85
