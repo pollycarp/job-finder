@@ -4921,3 +4921,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Data Analyst and Coordinator Intern** at Harleys Limited (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/data-analyst-and-coordinator-intern-harleys-limited
+
+## 2026-08-14 14:59 UTC — 2 new job(s)
+
+- **Head of Technology** at Healthy U (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/head-technology-healthy-u/
+- **Education Solutions Engineer** at Google (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/education-solutions-engineer-google/
