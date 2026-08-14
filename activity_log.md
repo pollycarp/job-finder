@@ -4916,3 +4916,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **SR Software Engineer** at Solvo Global (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/sr-software-engineer-solvo-global
+
+## 2026-08-14 10:54 UTC — 1 new job(s)
+
+- **Data Analyst and Coordinator Intern** at Harleys Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-analyst-and-coordinator-intern-harleys-limited
