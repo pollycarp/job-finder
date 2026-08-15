@@ -4933,3 +4933,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Business Development Executive** at Computer Pride (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/business-development-executive-computer-pride/
+
+## 2026-08-15 04:27 UTC — 2 new job(s)
+
+- **Flutter & Frontend Developer** at KooraHR (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/flutter-frontend-developer-d9eqqr
+- **ICT Officer (Software & System Administration)** at Githunguri Dairy Farmers Co-operative (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ict-officer-software-system-administration-5p6nv5
