@@ -4945,3 +4945,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **ICT Interns** at Maasai Mara Wildlife Conservancies Association (MMWCA) (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/ict-interns-maasai-mara-wildlife-conservancies-association-mmwca
+
+## 2026-08-15 08:20 UTC — 1 new job(s)
+
+- **Business Analyst D&A, Mgmt.** at British American Tobacco (BAT) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/business-analyst-da-mgmt-british-american-tobacco-bat/
