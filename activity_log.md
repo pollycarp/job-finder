@@ -4940,3 +4940,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/flutter-frontend-developer-d9eqqr
 - **ICT Officer (Software & System Administration)** at Githunguri Dairy Farmers Co-operative (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/ict-officer-software-system-administration-5p6nv5
+
+## 2026-08-15 06:26 UTC — 1 new job(s)
+
+- **ICT Interns** at Maasai Mara Wildlife Conservancies Association (MMWCA) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-interns-maasai-mara-wildlife-conservancies-association-mmwca
