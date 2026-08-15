@@ -4950,3 +4950,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Business Analyst D&A, Mgmt.** at British American Tobacco (BAT) (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/business-analyst-da-mgmt-british-american-tobacco-bat/
+
+## 2026-08-15 10:18 UTC — 1 new job(s)
+
+- **Contact Centre Engineer** at Andishi (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/contact-centre-engineer-andishi/
