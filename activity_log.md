@@ -4971,3 +4971,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/ict-assistant-kca-university-kcau-1
 - **Submit CVs – New Recruitment** at NCBA Group (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-ncba-group-12/
+
+## 2026-08-17 16:21 UTC — 1 new job(s)
+
+- **Teacher of Computer/ICT** at Kitengela International School (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/teacher-of-computer-ict-kitengela-international-school
