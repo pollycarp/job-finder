@@ -4960,3 +4960,14 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **ICT / Mathematics Teachers** at MM Shah and MV Shah Academy (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/ict-mathematics-teachers-mm-shah-and-mv-shah-academy
+
+## 2026-08-17 10:27 UTC — 4 new job(s)
+
+- **AI Engineering Trainer** at Mediacrest Training College (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ai-engineering-trainer-mediacrest-training-college
+- **Cybersecurity Trainer** at Mediacrest Training College (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/cybersecurity-trainer-mediacrest-training-college-3
+- **ICT Assistant** at KCA University (KCAU) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-assistant-kca-university-kcau-1
+- **Submit CVs – New Recruitment** at NCBA Group (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-ncba-group-12/
