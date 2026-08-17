@@ -4955,3 +4955,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Contact Centre Engineer** at Andishi (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/contact-centre-engineer-andishi/
+
+## 2026-08-17 08:37 UTC — 1 new job(s)
+
+- **ICT / Mathematics Teachers** at MM Shah and MV Shah Academy (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-mathematics-teachers-mm-shah-and-mv-shah-academy
