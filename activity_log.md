@@ -5032,3 +5032,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/manager-group-systems-it-cybersecurity-victory-farms
 - **HL7 Integration Engineer** at Andishi (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/hl7-integration-engineer-andishi/
+
+## 2026-08-18 18:28 UTC — 1 new job(s)
+
+- **Submit CVs – New Recruitment** at Africa Digital Media Institute (ADMI) – (26 Positions) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-africa-digital-media-institute-admi-26-positions/
