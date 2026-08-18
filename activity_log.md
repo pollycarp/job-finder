@@ -5025,3 +5025,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/senior-software-engineer-google-play-google-1
 - **Staff Software Engineer, Google Play** at Google (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/staff-software-engineer-google-play-google-3
+
+## 2026-08-18 16:26 UTC — 2 new job(s)
+
+- **Manager – Group Systems, IT & Cybersecurity** at Victory Farms (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/manager-group-systems-it-cybersecurity-victory-farms
+- **HL7 Integration Engineer** at Andishi (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/hl7-integration-engineer-andishi/
