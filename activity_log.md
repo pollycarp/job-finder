@@ -4981,3 +4981,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Data Analyst** at CloudFactory (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/data-analyst-cloudfactory-2
+
+## 2026-08-18 06:31 UTC — 2 new job(s)
+
+- **Submit CVs – New Recruitment** at Standard Bank Group (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-standard-bank-group-3/
+- **Senior Officer – Information Systems Audit** at Sidian Bank (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-officer-information-systems-audit-sidian-bank/
