@@ -5018,3 +5018,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/assistant-data-analyst-african-guarantee-fund-agf
 - **Senior AI Engineer / AI Technical Lead** at Green Com Enterprise Solutions Ltd (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/senior-ai-engineer-ai-technical-lead-green-com-enterprise-solutions-ltd
+
+## 2026-08-18 14:28 UTC — 2 new job(s)
+
+- **Senior Software Engineer, Google Play** at Google (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-software-engineer-google-play-google-1
+- **Staff Software Engineer, Google Play** at Google (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/staff-software-engineer-google-play-google-3
