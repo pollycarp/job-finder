@@ -4976,3 +4976,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Teacher of Computer/ICT** at Kitengela International School (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/teacher-of-computer-ict-kitengela-international-school
+
+## 2026-08-18 04:30 UTC — 1 new job(s)
+
+- **Data Analyst** at CloudFactory (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-analyst-cloudfactory-2
