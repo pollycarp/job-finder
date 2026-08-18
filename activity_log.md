@@ -5011,3 +5011,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/automation-pcd-engineer-kenya-wine-agencies-limited-kwal/
 - **Senior Specialist – Cyber Security Assurance** at Safaricom Kenya (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/senior-specialist-cyber-security-assurance-safaricom-kenya/
+
+## 2026-08-18 10:23 UTC — 2 new job(s)
+
+- **Assistant Data Analyst** at African Guarantee Fund (AGF) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/assistant-data-analyst-african-guarantee-fund-agf
+- **Senior AI Engineer / AI Technical Lead** at Green Com Enterprise Solutions Ltd (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-ai-engineer-ai-technical-lead-green-com-enterprise-solutions-ltd
