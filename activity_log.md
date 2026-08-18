@@ -4988,3 +4988,26 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-standard-bank-group-3/
 - **Senior Officer – Information Systems Audit** at Sidian Bank (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/senior-officer-information-systems-audit-sidian-bank/
+
+## 2026-08-18 08:29 UTC — 10 new job(s)
+
+- **AI & Machine Learning Lecturer** at Africa Digital Media Institute (ADMI) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ai-machine-learning-lecturer-africa-digital-media-institute-admi
+- **CS Engineer (Finance Intern)** at ABNO Softwares International (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/cs-engineer-finance-intern-abno-softwares-international
+- **Software Engineer - 2 Posts** at Kenya Space Agency (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/software-engineer-2-posts-kenya-space-agency
+- **Network & Digital Infrastructure (150) Posts** at ICT Authority (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/network-digital-infrastructure-150-posts-ict-authority
+- **Software Development & AI (100) Posts** at ICT Authority (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/software-development-ai-100-posts-ict-authority
+- **Information Security (50) Posts** at ICT Authority (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/information-security-50-posts-ict-authority
+- **Data Analytics (50) Posts** at ICT Authority (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-analytics-50-posts-ict-authority
+- **Multimedia (Graphic Design) & Digital Marketing (50) Posts** at ICT Authority (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/multimedia-graphic-design-digital-marketing-50-posts-ict-authority
+- **Automation and PCD Engineer** at Kenya Wine Agencies Limited (KWAL) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/automation-pcd-engineer-kenya-wine-agencies-limited-kwal/
+- **Senior Specialist – Cyber Security Assurance** at Safaricom Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-specialist-cyber-security-assurance-safaricom-kenya/
