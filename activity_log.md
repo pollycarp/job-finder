@@ -5037,3 +5037,18 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Submit CVs – New Recruitment** at Africa Digital Media Institute (ADMI) – (26 Positions) (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-africa-digital-media-institute-admi-26-positions/
+
+## 2026-08-19 10:32 UTC — 6 new job(s)
+
+- **Generative AI Engineer** at Solvo Global (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/generative-ai-engineer-solvo-global
+- **Senior Software Engineer** at Solvo Global (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-software-engineer-solvo-global-1
+- **Backend Developer - Go & PostgreSQL (Remote, Kenya)** at Two Max Group (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/backend-developer-go-postgresql-remote-kenya-two-max-group
+- **ICT Trainee** at CDL Human Resource (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-trainee-cdl-human-resouce-1
+- **Network Engineer** at Zetech University (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/network-engineer-zetech-university/
+- **Manager – Group Systems, IT & Cybersecurity** at Victory Farms (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/manager-group-systems-cybersecurity-victory-farms/
