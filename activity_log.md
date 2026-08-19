@@ -5052,3 +5052,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/network-engineer-zetech-university/
 - **Manager – Group Systems, IT & Cybersecurity** at Victory Farms (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/manager-group-systems-cybersecurity-victory-farms/
+
+## 2026-08-19 12:30 UTC — 1 new job(s)
+
+- **ICT MANAGER** at Brites Management Services Limited (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ict-manager-wre6mm
