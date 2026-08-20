@@ -5158,3 +5158,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/sales-executive-pgd0w0-v1
 - **Treasury Sales Dealer - National Bank** at National Bank (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/treasury-sales-dealer-national-bank-vd4r88
+
+## 2026-08-20 08:32 UTC — 3 new job(s)
+
+- **Cybersecurity Consultant** at BQI Tech (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/cybersecurity-consultant-bqi-tech
+- **ERP Web Portal Developer** at Kenya Red Cross Society (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/erp-web-portal-developer-kenya-red-cross-society/
+- **Submit CVs – New Recruitment** at Chuka University (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-chuka-university/
