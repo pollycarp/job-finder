@@ -5167,3 +5167,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/erp-web-portal-developer-kenya-red-cross-society/
 - **Submit CVs – New Recruitment** at Chuka University (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-chuka-university/
+
+## 2026-08-20 14:33 UTC — 1 new job(s)
+
+- **Data Capture Analyst - Entry Level** at Tezza Business Solutions Ltd (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-capture-analyst-entry-level-tezza-business-solutions-ltd
