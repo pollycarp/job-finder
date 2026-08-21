@@ -5230,3 +5230,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/part-time-lecturer-software-engineering-6-posts-kaimosi-friends-university-college-kafuco
 - **Part Time Lecturer - Cybersecurity - 2 Posts** at Kaimosi Friends University College (KAFUCO) (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/part-time-lecturer-cybersecurity-2-posts-kaimosi-friends-university-college-kafuco
+
+## 2026-08-21 14:30 UTC — 1 new job(s)
+
+- **SAP CI DevOps Engineer** at Deloitte Consulting (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/sap-ci-devops-engineer-deloitte-consulting
