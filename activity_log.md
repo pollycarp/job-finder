@@ -5172,3 +5172,42 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Data Capture Analyst - Entry Level** at Tezza Business Solutions Ltd (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/data-capture-analyst-entry-level-tezza-business-solutions-ltd
+
+## 2026-08-21 04:34 UTC — 18 new job(s)
+
+- **Policy Systems Analyst** at United Nations Volunteers - East and Southern Africa (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/policy-systems-analyst-7j86dg
+- **Underwriting Credit Analyst-C11 (French Speaking)** at Citi (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/underwriting-credit-analyst-c11-french-speaking-5p6kn0
+- **Consultant** at FOSCORE DEVELOPMENT CENTER (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/consultant-6qxj2v
+- **Senior Team Lead, AI Engineering** at Deel (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-team-lead-ai-engineering-pgdrz4-v1
+- **Associate AI & Cloud Technical Architect** at NTT DATA, Inc. (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/associate-ai-cloud-technical-architect-gmq6j2
+- **6927 Software Architect - Kenya** at Softgic (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/6927-software-architect-kenya-7j864g
+- **Tech Lead & Product Engineer** at Remote Raven (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/tech-lead-product-engineer-vd4jvx
+- **Senior Full-Stack Engineer(React/Java)** at Andela (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-full-stack-engineerreactjava-x8j7mq
+- **Principal Engineering Manager (remote within EMEA)** at Print On Demand (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/principal-engineering-manager-remote-within-emea-8mv78p
+- **Design-Led Frontend Builder** at Talent Match Africa (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/design-led-frontend-builder-rrzxk9
+- **ServiceNow Application Developer / Programmer Senior** at Jobgether (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/servicenow-application-developer-programmer-senior-0kg4vz
+- **Head of Policy & Market Development** at Alliance for Renewable Electrification (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/head-of-policy-market-development-ernk84
+- **Kenya Senior Quality Assurance Engineer 6934** at Softgic (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/kenya-senior-quality-assurance-engineer-6934-k7rznm
+- **Structural Field Engineer** at Tatu City (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/structural-field-engineer-pgd4rw
+- **2036 Business / QA Analyst** at In All Media (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/2036-business-qa-analyst-qz4rxn
+- **WASH Officer – Sanitation and Hygiene** at International Rescue Committee (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/wash-officer-sanitation-and-hygiene-6qxj8g
+- **Data Engineer - 6 month contract (remote)** at Print On Demand (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-engineer-6-month-contract-remote-d9egm7
+- **Lead, IT Change & Interventions** at Save the Children Colombia Oficial (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/lead-it-change-interventions-z8v0wr
