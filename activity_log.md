@@ -5221,3 +5221,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Data Engineering Lead Analyst** at Cigna (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/data-engineering-lead-analyst-cigna-1
+
+## 2026-08-21 12:32 UTC — 3 new job(s)
+
+- **Part Time Lecturer - Artificial Intelligence (AI) & Machine Learning - 2 Posts** at Kaimosi Friends University College (KAFUCO) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/part-time-lecturer-artificial-intelligence-ai-machine-learning-2-posts-kaimosi-friends-university-college-kafuco
+- **Part Time Lecturer - Software Engineering - 6 Posts** at Kaimosi Friends University College (KAFUCO) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/part-time-lecturer-software-engineering-6-posts-kaimosi-friends-university-college-kafuco
+- **Part Time Lecturer - Cybersecurity - 2 Posts** at Kaimosi Friends University College (KAFUCO) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/part-time-lecturer-cybersecurity-2-posts-kaimosi-friends-university-college-kafuco
