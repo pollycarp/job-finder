@@ -5216,3 +5216,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Chief Finance Officer** at Rose Avenue Group (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/chief-finance-officer-rose-avenue-group/
+
+## 2026-08-21 10:25 UTC — 1 new job(s)
+
+- **Data Engineering Lead Analyst** at Cigna (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-engineering-lead-analyst-cigna-1
