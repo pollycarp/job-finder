@@ -5211,3 +5211,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/data-engineer-6-month-contract-remote-d9egm7
 - **Lead, IT Change & Interventions** at Save the Children Colombia Oficial (Rest of Kenya) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/lead-it-change-interventions-z8v0wr
+
+## 2026-08-21 08:33 UTC — 1 new job(s)
+
+- **Chief Finance Officer** at Rose Avenue Group (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/chief-finance-officer-rose-avenue-group/
