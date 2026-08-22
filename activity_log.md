@@ -5264,3 +5264,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/network-security-architect-j640kd
 - **FREELANCE ENCRYPTION, BACKUP & DISASTER RECOVERY ENGINEER** at Hinton Labs (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/freelance-encryption-backup-disaster-recovery-engineer-d9eg8g
+
+## 2026-08-22 08:22 UTC — 3 new job(s)
+
+- **Data Engineering Lead Analyst** at Cigna (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/data-engineering-lead-analyst-cigna/
+- **Data Engineering Advisor** at Cigna (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/data-engineering-advisor-cigna-2/
+- **Dynamics 365 CRM Developer** at CDL Human Resource (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/dynamics-365-crm-developer-cdl-human-resource/
