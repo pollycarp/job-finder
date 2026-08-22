@@ -5235,3 +5235,32 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **SAP CI DevOps Engineer** at Deloitte Consulting (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/sap-ci-devops-engineer-deloitte-consulting
+
+## 2026-08-22 04:29 UTC — 13 new job(s)
+
+- **IT SPECIALIST (APPSW)** at Naval Facilities Engineering Systems Command (NAVFAC) (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/it-specialist-appsw-84jn2j-v1
+- **SUPPLY TECHNICIAN** at Naval Facilities Engineering Systems Command (NAVFAC) (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/supply-technician-wre67p
+- **Data Analyst** at Koiva (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-analyst-qz4r0z
+- **Data Capture Analyst - Entry Level** at Tezza Business Solutions Ltd (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-capture-analyst-entry-level-9kmvq8
+- **BUSINESS SYSTEM SUPPORT ANALYST- VISIONFUND KENYA** at World Vision (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/business-system-support-analyst-visionfund-kenya-vd4j75
+- **AI Engineering Lead** at OnHires (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ai-engineering-lead-0kg4jg
+- **Principal Engineer (remote within EMEA)** at Print On Demand (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/principal-engineer-remote-within-emea-x8j70q
+- **Software Engineer** at Landela (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/software-engineer-6qxjpg
+- **Senior Full-Stack Engineer** at Landela (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-full-stack-engineer-7j862n
+- **Strategic Account Manager, Trilogy (Remote) - $200,000/year USD** at Crossover (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/strategic-account-manager-trilogy-remote-200000year-usd-j64w2z-v1
+- **Sales & Customer Success Associate** at Landela (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/sales-customer-success-associate-6qxjez
+- **Network Security Architect** at Prism Network Solutions, LLC (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/network-security-architect-j640kd
+- **FREELANCE ENCRYPTION, BACKUP & DISASTER RECOVERY ENGINEER** at Hinton Labs (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/freelance-encryption-backup-disaster-recovery-engineer-d9eg8g
