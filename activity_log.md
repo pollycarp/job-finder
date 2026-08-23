@@ -5419,3 +5419,14 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/sales-development-representative-sdr-trainee-4ne859-v2
 - **SENIOR INTERNAL AUDITOR INFORMATION SYSTEMS – KTNA 6** at Kenya Trade Network Agency- KenTrade (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/senior-internal-auditor-information-systems-ktna-6-m05v52-v1
+
+## 2026-08-23 08:24 UTC — 4 new job(s)
+
+- **Medical Records Technician BOSC Clinic** at Amentum (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/medical-records-technician-bosc-clinic-rrzepq
+- **Photographer** at Amentum (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/photographer-gmqenm
+- **Material Management Specialist** at Amentum (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/material-management-specialist-qz4e0p
+- **Inventory Management Specialist** at Amentum (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/inventory-management-specialist-wre74d
