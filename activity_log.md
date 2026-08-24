@@ -5507,3 +5507,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/data-engineer-azure-databricks-execafrica-recruitment-limited/
 - **Submit CVs – Latest Recruitment** at Knights Energy Limited (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/submit-cvs-latest-recruitment-knights-energy-limited/
+
+## 2026-08-24 16:32 UTC — 1 new job(s)
+
+- **Software Engineer** at IBM (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/software-engineer-ibm-9
