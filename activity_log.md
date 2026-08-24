@@ -5430,3 +5430,66 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/material-management-specialist-qz4e0p
 - **Inventory Management Specialist** at Amentum (Rest of Kenya) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/inventory-management-specialist-wre74d
+
+## 2026-08-24 04:41 UTC — 30 new job(s)
+
+- **Senior AI/ML Engineer** at African Leadership X (ALX) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-aiml-engineer-rrz4p2-v1
+- **Data Analyst** at Syngenta Kenya (Full Time) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-analyst-8mv9dn-v1
+- **Data & Reporting Analyst** at Victory Farms (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-reporting-analyst-gmqj90-v1
+- **Marine Spatial Data Analyst** at Blue Ventures (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/marine-spatial-data-analyst-7j8r9m-v1
+- **Supply Chain Data and Planning Analyst** at African Coffee Roasters EPZ Limited (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/supply-chain-data-and-planning-analyst-x8jv4m
+- **Stock Analyst** at City Walk (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/stock-analyst-k7rj6w
+- **IT Program Manager & Business Analyst (PM-BA)** at International Rescue Committee (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/it-program-manager-business-analyst-pm-ba-m05q4d-v1
+- **Business Analyst - Process Engineering** at DHL Kenya (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/business-analyst-process-engineering-9km7jp
+- **Integration Engineer** at HF Group (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/integration-engineer-5p6zzg-v1
+- **Information Risk Manager** at KCB Group (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/information-risk-manager-gmqd5k-v1
+- **Senior Marketing Manager – Brand & Consumer Insights** at M-Gas (Kisumu) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-marketing-manager-brand-consumer-insights-vd4z6x-v1
+- **Cyber Security Officer** at Chuka University (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/cyber-security-officer-j64kpz
+- **AI Software Engineer** at AI Wakforce (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ai-software-engineer-6qxpnj
+- **Engineering Trainee – Factory Operations** at Sucafina (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/engineering-trainee-factory-operations-0kgrwe
+- **Cardiac Sonographer** at Tenwek Hospital (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/cardiac-sonographer-m0594m-v1
+- **Chief Information Officer** at Royal Mabati Factory Limited (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/chief-information-officer-qz4vqp-v1
+- **Senior Software Engineer, Google Play** at Google (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-software-engineer-google-play-07qw46-v2
+- **IT Programmer & Web Developer Intern** at Syngenta Kenya (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/it-programmer-web-developer-intern-5p6jp2
+- **Lead Application Engineer** at The Nairobi Hospital (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/lead-application-engineer-d9ej60-v1
+- **Field Service Engineer** at Philips (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/field-service-engineer-wre8zj-v1
+- **After-Sale Technician** at Hexing Africa (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/after-sale-technician-pgdv02
+- **Field Service Engineer** at Jaza Energy (Full Time) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/field-service-engineer-6q7w0g-v2
+- **Web Developer, Nairobi, Kenya** at UNEP (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/web-developer-nairobi-kenya-gmq894-v1
+- **East Africa Production and Scheduling Coordinator** at Bayer (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/east-africa-production-and-scheduling-coordinator-gmqwxn-v2
+- **Quality Control (QC) / Quality Assurance (QA) Personnel** at Precision Access Solutions (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/quality-control-qc-quality-assurance-qa-personnel-k7rnjn-v1
+- **Senior Sales Manager - Kenya** at Cellulant Group (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-sales-manager-kenya-z8vxpk-v1
+- **INFRASTRUCTURE ENGINEER – KTNA 7** at Kenya Trade Network Agency- KenTrade (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/infrastructure-engineer-ktna-7-k7r6rw-v1
+- **Accounts Manager(ICT, Energy, Security & Infrastructure)** at Baran Telecom Networks (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/accounts-managerict-energy-security-infrastructure-8mv2dx-v1
+- **Information and Technology Intern** at Kenya Network Information Centre (KeNIC) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/information-and-technology-intern-pgp9px-v1
+- **ICT Officer** at Highlands Drinks Limited (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ict-officer-6qxnq6-v1
