@@ -5500,3 +5500,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/internal-auditor-ict-cic-insurance
 - **Data Analyst – Sales** at Tropical Heat (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/data-analyst-sales-tropical-heat-2/
+
+## 2026-08-24 12:33 UTC — 2 new job(s)
+
+- **Data Engineer (Azure Databricks)** at Execafrica Recruitment Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/data-engineer-azure-databricks-execafrica-recruitment-limited/
+- **Submit CVs – Latest Recruitment** at Knights Energy Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-latest-recruitment-knights-energy-limited/
