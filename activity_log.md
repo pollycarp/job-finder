@@ -5493,3 +5493,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/information-and-technology-intern-pgp9px-v1
 - **ICT Officer** at Highlands Drinks Limited (Rest of Kenya) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/ict-officer-6qxnq6-v1
+
+## 2026-08-24 10:33 UTC — 2 new job(s)
+
+- **Internal Auditor – ICT** at CIC Insurance (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/internal-auditor-ict-cic-insurance
+- **Data Analyst – Sales** at Tropical Heat (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/data-analyst-sales-tropical-heat-2/
