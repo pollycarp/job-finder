@@ -5602,3 +5602,16 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/intern-eac4nature-x8jr9w
 - **Senior Platform/ Solution Architect** at Tezza Business Solutions (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/senior-platform-solution-architect-d9e8mm
+
+## 2026-08-25 10:29 UTC — 5 new job(s)
+
+- **ICT Officer** at MGI Alekim LLP (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-officer-mgi-alekim-llp-1
+- **QSSK-Plant Engineer/ Engineering Manager/ Maintenance Manager** at Q-Sourcing Servtec Group (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/qssk-plant-engineer-engineering-manager-maintenance-manager-q-sourcing-servtec-group/
+- **Software Engineer** at IBM (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/software-engineer-ibm/
+- **Manager, Technology Portfolio and Delivery** at Britam (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/manager-technology-portfolio-delivery-britam/
+- **Submit CVs – New Recruitment** at Lake Victoria North Water Services Board (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-lake-victoria-north-water-services-board/
