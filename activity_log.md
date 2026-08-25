@@ -5512,3 +5512,78 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Software Engineer** at IBM (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/software-engineer-ibm-9
+
+## 2026-08-25 04:37 UTC — 36 new job(s)
+
+- **Internship - ICT Support and Hardware** at Optiven Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/internship-ict-support-and-hardware-optiven-limited
+- **Junior Data Quality Analyst** at Blue Oak Consulting (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/junior-data-quality-analyst-8mv6w7
+- **Data Operations Assistant** at Blue Oak Consulting (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-operations-assistant-2kjmeq
+- **IAES SENIOR EVALUATION MANAGER: CENTER EXTERNAL REVIEWS** at Alliance of Bioversity International and CIAT (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/iaes-senior-evaluation-manager-center-external-reviews-x8jrv0
+- **Data Science Trainer** at Mediacrest Training College (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-science-trainer-wrmwz0-v1
+- **AI LEAD** at Digital Qatalyst (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ai-lead-45jvn2-v1
+- **Lead Site Reliability Engineer - Imunify Reliability Platform** at Jobgether (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/lead-site-reliability-engineer-imunify-reliability-platform-wre440
+- **AI Engineering Trainer** at Mediacrest Training College (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ai-engineering-trainer-rrz9kn
+- **Senior Team Lead, AI Engineering** at Deel (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-team-lead-ai-engineering-pgdrz4-v2
+- **Prompt Engineer** at Mogo Kenya Limited (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/prompt-engineer-x8jrxv
+- **AI Video Creator - Performance Marketing** at Oasis Outsourcing (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ai-video-creator-performance-marketing-wrezkm-v1
+- **Learning Scientist** at African Leadership X (ALX) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/learning-scientist-k7rvj8-v1
+- **Technical Product Manager** at African Leadership X (ALX) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/technical-product-manager-m05kdw-v1
+- **Talent Management Specialist** at CloudFactory (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/talent-management-specialist-z8vmw9
+- **Backend Engineer Node.js + AWS** at Deel (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/backend-engineer-nodejs-aws-8mv667
+- **Fire Safety Consultant** at Celnor Group (Full Time) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/fire-safety-consultant-rrz9e9
+- **Senior Database Administrator** at Deel (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-database-administrator-gmqxx2
+- **Flutter & Frontend Developer** at KooraHR (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/flutter-frontend-developer-d9eqqr-v1
+- **Plumbing Estimator** at The Jitu.com (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/plumbing-estimator-pgdvrq
+- **Application Support & Implementation Intern** at Software Technologies Limited (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/application-support-implementation-intern-wrekg4-v1
+- **Mobile App Development Trainer** at Mediacrest Training College (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/mobile-app-development-trainer-7j826g
+- **Technical Support Agent (Tier 2)** at Influx. Inc (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/technical-support-agent-tier-2-j64ke4
+- **Junior Automation Engineer** at Synkron International (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/junior-automation-engineer-9km760
+- **Steel Fixing Supervisor** at TWYFORD INTERNATIONAL (Kenya) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/steel-fixing-supervisor-0kgrrz
+- **UI/UX Design Intern** at SafariDesk (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/uiux-design-intern-j64kk4
+- **Technical Support Agent (L2)** at Influx. Inc (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/technical-support-agent-l2-x8jepq-v1
+- **Design Engineer** at Safal Group (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/design-engineer-45jnd9-v3
+- **Project Manager / Site Engineer – Road Construction (Project-Based Consultant)** at MMT Alliance (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/project-manager-site-engineer-road-construction-project-based-consultant-j6468g-v1
+- **Web Developer Cum SEO Expert** at Digital Masterminds (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/web-developer-cum-seo-expert-7j822g
+- **Engineer - Enterprise Customer Support** at SAFARICOM (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/engineer-enterprise-customer-support-wre98j-v1
+- **ICT Cloud Officer** at MEDECINS SAN FRONTIERES (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ict-cloud-officer-rrz0zq-v1
+- **Senior Platform/ Solution Architect** at Tezza Business Solutions (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-platform-solution-architect-ern48k
+- **Data & Technology Manager, Acumen East & West Africa** at Acumen Fund (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-technology-manager-acumen-east-west-africa-wre460
+- **IT Infrastructure Lead** at CloudFactory (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/it-infrastructure-lead-z8vmq9
+- **Cybersecurity Trainer** at Mediacrest Training College (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/cybersecurity-trainer-7jvgd8-v1
+- **Internal Account Manager** at Exclusive Networks (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/internal-account-manager-n9g6ek
