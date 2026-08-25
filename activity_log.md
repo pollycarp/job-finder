@@ -5587,3 +5587,18 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/cybersecurity-trainer-7jvgd8-v1
 - **Internal Account Manager** at Exclusive Networks (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/internal-account-manager-n9g6ek
+
+## 2026-08-25 06:35 UTC — 6 new job(s)
+
+- **Product Lead, Apps** at Amini (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/product-lead-apps-amini/
+- **PMO Lead** at Amini (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/pmo-lead-amini/
+- **Construction Manager – Senior -level (Nairobi)** at Victory Farms (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/construction-manager-senior-level-nairobi-k7r0em-v1
+- **Data & Technology Manager, Acumen East & West Africa** at Acumen Fund (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-technology-manager-acumen-east-west-africa-d9e8zm
+- **Intern - EAC4Nature** at GIZ KE (Kisumu) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/intern-eac4nature-x8jr9w
+- **Senior Platform/ Solution Architect** at Tezza Business Solutions (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-platform-solution-architect-d9e8mm
