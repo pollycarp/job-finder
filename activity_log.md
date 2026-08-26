@@ -5683,3 +5683,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/data-platform-system-administrator-inkomoko/
 - **Full-stack Developer Intern** at RWK Group (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/full-stack-developer-intern-m05x6m
+
+## 2026-08-26 16:47 UTC — 1 new job(s)
+
+- **ICT Technician** at Kirinyaga University (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-technician-kirinyaga-university-1
