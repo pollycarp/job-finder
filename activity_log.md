@@ -5615,3 +5615,48 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/manager-technology-portfolio-delivery-britam/
 - **Submit CVs – New Recruitment** at Lake Victoria North Water Services Board (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-lake-victoria-north-water-services-board/
+
+## 2026-08-26 04:36 UTC — 21 new job(s)
+
+- **Ph.D. Scholar - Rapid Cycling and Predictive Breeding** at International Maize and Wheat Improvement Center (CIMMYT) (Full Time) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/phd-scholar-rapid-cycling-and-predictive-breeding-0kgegg
+- **STAFF ACCOUNTANT** at Naval Facilities Engineering Systems Command (NAVFAC) (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/staff-accountant-rrzp8g
+- **Post-Doctoral Fellow, Sorghum Breeding (Internationally Recruited) - IRS26256** at International Maize and Wheat Improvement Center (CIMMYT) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/post-doctoral-fellow-sorghum-breeding-internationally-recruited-irs26256-k7r4rv
+- **Software Developer/Analyst** at International Rescue Committee (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/software-developeranalyst-gmq05m-v1
+- **Web Development Internship** at Blue Oak Consulting (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/web-development-internship-2kjmpv
+- **Deposit Mobilization Relationship Manager** at Umba (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/deposit-mobilization-relationship-manager-k8we8n-v1
+- **Relationship Officer- Deposit Mobilization** at Umba (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/relationship-officer-deposit-mobilization-m05xgm
+- **Carpenter** at British Army Training Unit Kenya (BATUK) (Full Time) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/carpenter-9kme88
+- **2046/2047/2048/2049 Sr Salesforce Developer** at In All Media (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/2046204720482049-sr-salesforce-developer-k7r4mv
+- **Associate Data Engineering Manager** at The Balance Hub (Full Time) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/associate-data-engineering-manager-n9gmpv
+- **Software Development Internship** at RIFT Innovation Lab (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/software-development-internship-8mv6qp
+- **Frontend Engineer Intern** at Blue Oak Consulting (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/frontend-engineer-intern-m05x0m
+- **Junior Product Specialist - Mauritius** at Cybernaptics Kenya (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/junior-product-specialist-mauritius-8mve46
+- **Superintendent Pharmacist | Imperial Managed Solutions East Africa Limited** at DP World (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/superintendent-pharmacist-imperial-managed-solutions-east-africa-limited-454znz
+- **Software Quality Assurance Engineer** at Solvo Global (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/software-quality-assurance-engineer-6qxekz
+- **Manager, Technology Portfolio and Delivery** at Britam (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/manager-technology-portfolio-and-delivery-x8j02q
+- **Endpoint Solutions Architect** at Chase Doors (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/endpoint-solutions-architect-9kmejx
+- **Endpoint Solutions Architect** at Eliason Corporation (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/endpoint-solutions-architect-vd47e5
+- **IT Executive** at Tire World Ltd (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/it-executive-2kj5ve-v1
+- **KEY ACCOUNT MANAGER - ENTERPRISE** at Liquid Intelligent Technologies East Africa (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/key-account-manager-enterprise-6qxp0g
+- **IT Manager** at City Walk (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/it-manager-d9e4q5-v1
