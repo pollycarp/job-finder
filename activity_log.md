@@ -5660,3 +5660,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/key-account-manager-enterprise-6qxp0g
 - **IT Manager** at City Walk (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/it-manager-d9e4q5-v1
+
+## 2026-08-26 06:35 UTC — 1 new job(s)
+
+- **Backend Developer** at Savannah Informatics (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/backend-developer-savannah-informatics-5
