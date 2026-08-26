@@ -5670,3 +5670,16 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Sr Software Engineer** at Solvo Global (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/sr-software-engineer-solvo-global-1
+
+## 2026-08-26 12:36 UTC — 5 new job(s)
+
+- **Data Scientist** at Gulf African Bank (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-scientist-gulf-african-bank
+- **Data Analyst- Operations (Modern Trade)** at Hotpoint Appliances Ltd (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-analyst-operations-modern-trade-hotpoint-appliances-ltd
+- **Financial Crime Systems Analyst** at Safaricom Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/financial-crime-systems-analyst-safaricom-kenya/
+- **Data Platform System Administrator** at Inkomoko (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/data-platform-system-administrator-inkomoko/
+- **Full-stack Developer Intern** at RWK Group (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/full-stack-developer-intern-m05x6m
