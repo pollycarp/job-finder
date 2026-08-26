@@ -5665,3 +5665,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Backend Developer** at Savannah Informatics (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/backend-developer-savannah-informatics-5
+
+## 2026-08-26 08:36 UTC — 1 new job(s)
+
+- **Sr Software Engineer** at Solvo Global (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/sr-software-engineer-solvo-global-1
