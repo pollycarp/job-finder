@@ -5699,3 +5699,26 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/ict-technician-3-positions-rift-valley-national-polytechnic
 - **Head of REP Program/ REP Director, Kenya** at Finagra (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/head-of-rep-program-rep-director-kenya-454g05-v1
+
+## 2026-08-27 17:12 UTC — 10 new job(s)
+
+- **Full Stack Data Scientist III/IV** at IDinsight (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/full-stack-data-scientist-iii-iv-idinsight
+- **Data Analyst** at TakaTaka Solutions (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-analyst-takataka-solutions-1
+- **Fullstack Developer** at iTravel Holidays (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/fullstack-developer-itravel-holidays
+- **ICT Journalism-4 Positions (Mwachon Campus)** at Rift Valley National Polytechnic (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-journalism-4-positions-mwachon-campus-rift-valley-national-polytechnic
+- **ICT-3 Positions (Kuresoi Campus)** at Rift Valley National Polytechnic (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-3-positions-kuresoi-campus-rift-valley-national-polytechnic
+- **Machine Operator** at Mars (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/machine-operator-mars/
+- **Plant Engineer / Engineering Manager / Maintenance Manager** at MSVL Group (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/plant-engineer-engineering-manager-maintenance-manager-msvl-group/
+- **General Manager** at Christian Health Association of Kenya (CHAK) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/general-manager-christian-health-association-kenya-chak/
+- **ICT Technician** at Kirinyaga University (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/ict-technician-kirinyaga-university/
+- **Machine Operator Apprentice.** at Newmatic Countertops Limited (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/machine-operator-apprentice-9kme6v
