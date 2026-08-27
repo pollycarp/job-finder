@@ -5688,3 +5688,14 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **ICT Technician** at Kirinyaga University (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/ict-technician-kirinyaga-university-1
+
+## 2026-08-27 05:55 UTC — 4 new job(s)
+
+- **Data Analyst Intern** at KEPRO - Kenya Extended Producer Responsibility Organization (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-analyst-intern-kepro-kenya-extended-producer-responsibility-organization
+- **Part-time Lecturer - Software Engineering and Programming - 2 Posts** at Chuka University (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/part-time-lecturer-software-engineering-and-programming-2-posts-chuka-university
+- **ICT Technician-3 Positions** at Rift Valley National Polytechnic (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-technician-3-positions-rift-valley-national-polytechnic
+- **Head of REP Program/ REP Director, Kenya** at Finagra (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/head-of-rep-program-rep-director-kenya-454g05-v1
