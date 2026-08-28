@@ -5722,3 +5722,16 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/ict-technician-kirinyaga-university/
 - **Machine Operator Apprentice.** at Newmatic Countertops Limited (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/machine-operator-apprentice-9kme6v
+
+## 2026-08-28 13:38 UTC — 5 new job(s)
+
+- **Regulatory Data & Reporting Analyst** at Cigna (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/regulatory-data-reporting-analyst-cigna-1
+- **CS Engineer (Tech Intern)** at ABNO Softwares International (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/cs-engineer-tech-intern-abno-softwares-international
+- **Data Analyst** at TakaTaka Solutions (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/data-analyst-takataka-solutions-2/
+- **Fullstack Developer** at iTravel Holidays (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/fullstack-developer-itravel-holidays/
+- **A/V Engineering and Production Coordinator** at U.S. Embassy to Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/v-engineering-production-coordinator-u-s-embassy-kenya/
