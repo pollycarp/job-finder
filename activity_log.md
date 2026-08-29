@@ -5735,3 +5735,40 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/fullstack-developer-itravel-holidays/
 - **A/V Engineering and Production Coordinator** at U.S. Embassy to Kenya (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/v-engineering-production-coordinator-u-s-embassy-kenya/
+
+## 2026-08-29 04:56 UTC — 17 new job(s)
+
+- **Full Stack Data Scientist III/IV** at IDInsight (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/full-stack-data-scientist-iiiiv-gmqvqm
+- **Data Analyst** at Takataka Solutions (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-analyst-5p6gd2-v1
+- **Senior Project Manager** at Code for Africa (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-project-manager-7j84e8-v2
+- **Graduate - Commercial & Data** at Tropical Heat Ltd (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/graduate-commercial-data-454q4v-v2
+- **Financial Crime Systems Analyst** at SAFARICOM (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/financial-crime-systems-analyst-pgdz90
+- **Product Lead, Apps** at Amini (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/product-lead-apps-8mvjv0
+- **Lead Product Designer, Marketplace** at Jobgether (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/lead-product-designer-marketplace-qz4jp6
+- **Web Researcher** at Go Offer (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/web-researcher-x8j04n
+- **LiDAR Labeling Operations Policy & Quality Expert** at Fuzu Atlas (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/lidar-labeling-operations-policy-quality-expert-2kjex8
+- **Consulting Service Line, Cybersecurity Consultant, Kenya** at EY (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/consulting-service-line-cybersecurity-consultant-kenya-rrzg2q
+- **Staff Software Engineer, Google Play** at Google (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/staff-software-engineer-google-play-d752p4-v3
+- **Lead Application Engineer** at The Nairobi Hospital (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/lead-application-engineer-d9ej60-v2
+- **ICT Officer I (Software Developer).** at Meru University of Science and Technology (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ict-officer-i-software-developer-vd47zp
+- **Integrations and Microservices** at NCBA (Full Time) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/integrations-and-microservices-9kmp07
+- **ERP Web Portal Developer** at Kenya Red Cross Society (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/erp-web-portal-developer-7j8k7q
+- **Civil and Structural Engineering Intern - Field Operations** at Synnefa (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/civil-and-structural-engineering-intern-field-operations-qz400n
+- **INTERNAL AUDITOR - ICT** at CIC Insurance Group (Full Time) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/internal-auditor-ict-k7rw5p
