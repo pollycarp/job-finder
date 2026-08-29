@@ -5772,3 +5772,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/civil-and-structural-engineering-intern-field-operations-qz400n
 - **INTERNAL AUDITOR - ICT** at CIC Insurance Group (Full Time) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/internal-auditor-ict-k7rw5p
+
+## 2026-08-29 12:03 UTC — 3 new job(s)
+
+- **Technology Risk and Cybersecurity Manager** at CIC Insurance (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/technology-risk-and-cybersecurity-manager-cic-insurance-1
+- **Consulting Service Line, Cybersecurity Consultant, Kenya** at Ernst & Young (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/consulting-service-line-cybersecurity-consultant-kenya-ernst-amp-young
+- **Operating Effectiveness Manager** at Cigna (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/operating-effectiveness-manager-cigna/
