@@ -5798,3 +5798,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/audit-compliance-officer-african-institute-development-policy-afidep/
 - **Technical Recruiter** at Hired (Rest of Kenya) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/technical-recruiter-ern6jz
+
+## 2026-08-31 18:32 UTC — 1 new job(s)
+
+- **Software Engineering Internship** at TRINOVA TECHNOLOGIES LIMITED (Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/software-engineering-internship-wred9m
