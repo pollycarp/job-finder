@@ -5781,3 +5781,20 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/consulting-service-line-cybersecurity-consultant-kenya-ernst-amp-young
 - **Operating Effectiveness Manager** at Cigna (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/operating-effectiveness-manager-cigna/
+
+## 2026-08-31 10:21 UTC — 7 new job(s)
+
+- **Data Engineering Lead Analyst** at Cigna (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-engineering-lead-analyst-cigna-2
+- **ICT Officer Service Delivery – 2 Positions** at United States International University - USIU Africa (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-officer-service-delivery-2-positions-united-states-international-university-usiu-africa
+- **ICT Officer Multimedia – 3 Positions** at United States International University - USIU Africa (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-officer-multimedia-3-positions-united-states-international-university-usiu-africa
+- **Technology Risk and Cybersecurity Manager** at CIC Insurance (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/technology-risk-cybersecurity-manager-cic-insurance/
+- **IT Security Manager** at CIC Insurance (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/security-manager-cic-insurance/
+- **Audit and Compliance Officer** at African Institute for Development Policy (AFIDEP) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/audit-compliance-officer-african-institute-development-policy-afidep/
+- **Technical Recruiter** at Hired (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/technical-recruiter-ern6jz
