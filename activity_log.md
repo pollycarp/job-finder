@@ -5803,3 +5803,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Software Engineering Internship** at TRINOVA TECHNOLOGIES LIMITED (Kenya) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/software-engineering-internship-wred9m
+
+## 2026-09-01 09:05 UTC — 1 new job(s)
+
+- **Intern -  ICT and Communication** at Ministry of Water and Irrigation (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/intern-ict-and-communication-ministry-of-water-and-irrigation
