@@ -5808,3 +5808,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Intern -  ICT and Communication** at Ministry of Water and Irrigation (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/intern-ict-and-communication-ministry-of-water-and-irrigation
+
+## 2026-09-02 08:19 UTC — 1 new job(s)
+
+- **Software QA Engineer** at Tana (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/software-qa-engineer-tana
