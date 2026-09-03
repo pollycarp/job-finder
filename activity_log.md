@@ -5813,3 +5813,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Software QA Engineer** at Tana (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/software-qa-engineer-tana
+
+## 2026-09-03 14:04 UTC — 3 new job(s)
+
+- **ICT Officer- Business Systems** at Priority Activator Consulting (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-officer-business-systems-priority-activator-consulting
+- **Sacco ICT Officer** at Co-operative Bank of Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/sacco-ict-officer-co-operative-bank-of-kenya-2
+- **ICT & Maths Teacher** at Kileleshwa Academy (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-maths-teacher-kileleshwa-academy
