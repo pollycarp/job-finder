@@ -5822,3 +5822,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/sacco-ict-officer-co-operative-bank-of-kenya-2
 - **ICT & Maths Teacher** at Kileleshwa Academy (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/ict-maths-teacher-kileleshwa-academy
+
+## 2026-09-03 17:41 UTC — 2 new job(s)
+
+- **Data Insights & Analytics Manager** at Standard Bank Group (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/data-insights-analytics-manager-standard-bank-group-2/
+- **Business Development Manager** at Viscar Industrial Capacity (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/business-development-manager-viscar-industrial-capacity/
