@@ -5829,3 +5829,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/data-insights-analytics-manager-standard-bank-group-2/
 - **Business Development Manager** at Viscar Industrial Capacity (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/business-development-manager-viscar-industrial-capacity/
+
+## 2026-09-04 17:21 UTC — 3 new job(s)
+
+- **Principal Engineer Cybersecurity Assurance** at NCBA Group (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/principal-engineer-cybersecurity-assurance-ncba-group
+- **IT Security and Systems Developer** at Plan International (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/security-systems-developer-plan-international/
+- **Remote Administrative Assistant-Behavioural Health** at CDL Human Resource (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/remote-administrative-assistant-behavioural-health-cdl-human-resource/
