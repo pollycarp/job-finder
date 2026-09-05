@@ -5838,3 +5838,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/security-systems-developer-plan-international/
 - **Remote Administrative Assistant-Behavioural Health** at CDL Human Resource (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/remote-administrative-assistant-behavioural-health-cdl-human-resource/
+
+## 2026-09-05 08:01 UTC — 2 new job(s)
+
+- **Teacher for IGCSE and A-level ICT and Computer Science** at Harton Grange Academy (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/teacher-for-igcse-and-a-level-ict-and-computer-science-harton-grange-academy
+- **Software Support Engineer at Boost Technology** at Jack & Jill (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/software-support-engineer-at-boost-technology-7j8mxz-v2
