@@ -5854,3 +5854,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/principal-engineer-cybersecurity-assurance-ncba-group/
 - **IT & Systems Manager (Male)** at Transwide Pharmaceuticals Ltd (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/systems-manager-male-transwide-pharmaceuticals-ltd/
+
+## 2026-09-07 13:52 UTC — 2 new job(s)
+
+- **Data Engineering Lead Analyst** at Cigna (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-engineering-lead-analyst-cigna-3
+- **Full-stack Software Engineer** at Kebarick Ventures (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/full-stack-software-engineer-kebarick-ventures
