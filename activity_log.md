@@ -5845,3 +5845,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/teacher-for-igcse-and-a-level-ict-and-computer-science-harton-grange-academy
 - **Software Support Engineer at Boost Technology** at Jack & Jill (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/software-support-engineer-at-boost-technology-7j8mxz-v2
+
+## 2026-09-07 06:56 UTC — 3 new job(s)
+
+- **Software Engineer** at International Scholars Program (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/software-engineer-international-scholars-program
+- **Principal Engineer Cybersecurity Assurance** at NCBA Group (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/principal-engineer-cybersecurity-assurance-ncba-group/
+- **IT & Systems Manager (Male)** at Transwide Pharmaceuticals Ltd (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/systems-manager-male-transwide-pharmaceuticals-ltd/
