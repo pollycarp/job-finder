@@ -5876,3 +5876,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/senior-sales-officer-ict-solutions-ladies-encouraged-to-apply-8mz0k0
 - **Head Trainer (For IT Managed Services)** at Job Whisper (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/head-trainer-for-it-managed-services-45djr4
+
+## 2026-09-08 14:05 UTC — 1 new job(s)
+
+- **Senior Data Analyst** at BrighterMonday Consulting (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-data-analyst-j6jmez
