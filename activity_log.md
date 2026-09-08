@@ -5861,3 +5861,18 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/data-engineering-lead-analyst-cigna-3
 - **Full-stack Software Engineer** at Kebarick Ventures (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/full-stack-software-engineer-kebarick-ventures
+
+## 2026-09-08 08:31 UTC — 6 new job(s)
+
+- **Trainer-ICT and Computing** at Alupe University College (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/trainer-ict-and-computing-alupe-university-college
+- **ICT Officer I** at Bandari Maritime Academy (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-officer-i-bandari-maritime-academy
+- **Full-stack Software Engineer** at Kebarick Ventures (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/full-stack-software-engineer-kebarick-ventures/
+- **TECHNICAL CYBERSECURITY INTERN** at Zerofrax Solutions Limited (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/technical-cybersecurity-intern-9k80dn
+- **Senior Sales Officer - ICT Solutions (Ladies Encouraged To Apply)** at Job Whisper (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-sales-officer-ict-solutions-ladies-encouraged-to-apply-8mz0k0
+- **Head Trainer (For IT Managed Services)** at Job Whisper (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/head-trainer-for-it-managed-services-45djr4
