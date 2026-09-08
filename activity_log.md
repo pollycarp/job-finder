@@ -5881,3 +5881,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Senior Data Analyst** at BrighterMonday Consulting (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/senior-data-analyst-j6jmez
+
+## 2026-09-08 17:54 UTC — 1 new job(s)
+
+- **Data Scientist** at Kasha Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-scientist-kasha-kenya-1
