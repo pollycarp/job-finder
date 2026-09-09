@@ -6033,3 +6033,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/business-development-manager-d9e5gw
 - **ASSISTANT PROCUREMENT MANAGER** at CIC Insurance Group (Full Time) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/assistant-procurement-manager-5p4w7x
+
+## 2026-09-09 14:22 UTC — 1 new job(s)
+
+- **Data Scientist** at Kasha Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/data-scientist-kasha-kenya-3/
