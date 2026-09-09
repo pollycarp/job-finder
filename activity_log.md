@@ -6038,3 +6038,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Data Scientist** at Kasha Kenya (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/data-scientist-kasha-kenya-3/
+
+## 2026-09-09 19:04 UTC — 1 new job(s)
+
+- **Software Developer/Analyst** at International Rescue Committee (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/software-developer-analyst-international-rescue-committee-2/
