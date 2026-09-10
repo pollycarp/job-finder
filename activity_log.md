@@ -6043,3 +6043,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Software Developer/Analyst** at International Rescue Committee (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/software-developer-analyst-international-rescue-committee-2/
+
+## 2026-09-10 08:35 UTC — 2 new job(s)
+
+- **Data Scientist** at Kenya Airways (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-scientist-kenya-airways-1
+- **Data Analyst** at Kenya Airways (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-analyst-kenya-airways-1
