@@ -6050,3 +6050,18 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/data-scientist-kenya-airways-1
 - **Data Analyst** at Kenya Airways (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/data-analyst-kenya-airways-1
+
+## 2026-09-10 14:02 UTC — 6 new job(s)
+
+- **Data Engineer** at Kenya Airways (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/data-engineer-kenya-airways/
+- **ARMO Maintenance Engineer – Wireline** at Baker Hughes (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/armo-maintenance-engineer-wireline-baker-hughes/
+- **Assistant Chief Engineer** at Marriott (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/assistant-chief-engineer-marriott/
+- **Senior Product Manager (AI-Native)** at Umba (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-product-manager-ai-native-umba-2/
+- **Managed Services Specialist** at Solvo Global (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/managed-services-specialist-solvo-global/
+- **E T Consultant for Digital Health Transformation-Kenya** at World Bank Group (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/e-t-consultant-digital-health-transformation-kenya-world-bank-group/
