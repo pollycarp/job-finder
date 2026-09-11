@@ -6129,3 +6129,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-central-bank-kenya-4/
 - **Terminal Supervisor** at Nairobi Inland Cargo Terminal (NICT) (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/terminal-supervisor-nairobi-inland-cargo-terminal-nict/
+
+## 2026-09-11 20:20 UTC — 1 new job(s)
+
+- **Senior Data Scientist** at CIC Insurance (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-data-scientist-cic-insurance-1
