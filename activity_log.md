@@ -6120,3 +6120,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/devops-engineer-part-time-remote-qzd4re
 - **Relationship Manager – Bancassurance** at SMEP Microfinance Bank Limited (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/relationship-manager-bancassurance-rrqzwj
+
+## 2026-09-11 14:04 UTC — 3 new job(s)
+
+- **Senior Data Scientist** at Natural State (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-data-scientist-natural-state
+- **Submit CVs – New Recruitment** at Central Bank of Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-central-bank-kenya-4/
+- **Terminal Supervisor** at Nairobi Inland Cargo Terminal (NICT) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/terminal-supervisor-nairobi-inland-cargo-terminal-nict/
