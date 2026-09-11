@@ -6065,3 +6065,58 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/managed-services-specialist-solvo-global/
 - **E T Consultant for Digital Health Transformation-Kenya** at World Bank Group (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/e-t-consultant-digital-health-transformation-kenya-world-bank-group/
+
+## 2026-09-11 08:32 UTC — 26 new job(s)
+
+- **Analyst Master Data** at The Coca-Cola Company (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/analyst-master-data-the-coca-cola-company
+- **Head of Engineering, Supply Chain** at Moniepoint (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/head-engineering-supply-chain-moniepoint/
+- **Head of Engineering, Payment Gateway** at Moniepoint (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/head-engineering-payment-gateway-moniepoint/
+- **Head of Engineering, Sales & Marketing Tools** at Moniepoint (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/head-engineering-sales-marketing-tools-moniepoint/
+- **Data Scientist** at KQ Health (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-scientist-vdp4vm
+- **Data Analyst** at KQ Health (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-analyst-n9dgev
+- **Data Engineer** at KQ Health (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-engineer-pgwd4m
+- **NATIONAL POST: Planning, Monitoring and Evaluation Analyst (FTA-NOA) Nairobi Kenya** at International Civil Aviation Organization (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/national-post-planning-monitoring-and-evaluation-analyst-fta-noa-nairobi-kenya-j6j40r
+- **Channel and Customer Research Analyst** at Tribeca Venture Partners (Full Time) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/channel-and-customer-research-analyst-45d4wr
+- **E T Consultant for Digital Health Transformation-Kenya - req38274** at The World Bank Group (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/e-t-consultant-for-digital-health-transformation-kenya-req38274-9k8mvx
+- **Middle/Senior AI Developer** at GEM Careers (Full Time) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/middlesenior-ai-developer-2krjmk
+- **Head of Engineering, Sales & Marketing Tools** at Moniepoint Group (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/head-of-engineering-sales-marketing-tools-er5nm4
+- **Staff Software Engineer (Back-End)** at Open Function (OpenFn) (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/staff-software-engineer-back-end-k75rnv
+- **2027 Internship Opportunities - Multiple Disciplines & Locations** at Lochmueller Group (Full Time) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/2027-internship-opportunities-multiple-disciplines-locations-9k8mx8
+- **Senior Product Manager, Caregiver Experience** at Caribou (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-product-manager-caregiver-experience-er5nz4
+- **Marketing Director** at Open Function (OpenFn) (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/marketing-director-5p4620
+- **Access Network Engineer - Readvertised** at Jamii Telecommunications (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/access-network-engineer-readvertised-wrzexp
+- **Head of Engineering, Payment Gateway** at Moniepoint Group (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/head-of-engineering-payment-gateway-k75re5
+- **Junior Technical Project Manager** at We Are Kusudi (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/junior-technical-project-manager-2krj9v
+- **GIS Support Analyst** at Proto Energy (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/gis-support-analyst-0k2grx
+- **Career Opportunity: Full Charge Bookkeeper (CPA) at Remote Raven (Remote / Kenya)** at Vedastus Watosha (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/career-opportunity-full-charge-bookkeeper-cpa-at-remote-raven-remote-kenya-n9dg8x
+- **VACANCY ANNOUNCEMENT FOR THE POST OF PROGRAMME ASSOCIATE (WASH, Shelter and Settlements))** at EUBAM Libya (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/vacancy-announcement-for-the-post-of-programme-associate-wash-shelter-and-settlements-7j78zm
+- **Cloud Business Development Manager (Public & Private Cloud)** at Beijing Foreign Enterprise Management Consultants Co.,Ltd. (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/cloud-business-development-manager-public-private-cloud-wrze0p
+- **Managed Services Specialist** at Solvo Global Careers (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/managed-services-specialist-7j786m
+- **DevOps Engineer (Part-Time / Remote)** at SDA (Contract) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/devops-engineer-part-time-remote-qzd4re
+- **Relationship Manager – Bancassurance** at SMEP Microfinance Bank Limited (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/relationship-manager-bancassurance-rrqzwj
