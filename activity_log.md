@@ -6139,3 +6139,16 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **ICT Intern** at AIC Kijabe Hospital (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/ict-intern-aic-kijabe-hospital-3
+
+## 2026-09-12 13:21 UTC — 5 new job(s)
+
+- **ICT & Data Officer** at Tenwek Hospital (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-data-officer-tenwek-hospital
+- **Senior Data Scientist** at CIC Insurance (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-data-scientist-cic-insurance/
+- **Senior Data Scientist** at Natural State (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-data-scientist-natural-state/
+- **Finance Manager** at Apollo Agriculture (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/finance-manager-apollo-agriculture/
+- **Software Developer** at Optiven Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/software-developer-optiven-limited-2/
