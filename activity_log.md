@@ -6152,3 +6152,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/finance-manager-apollo-agriculture/
 - **Software Developer** at Optiven Limited (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/software-developer-optiven-limited-2/
+
+## 2026-09-12 16:43 UTC — 2 new job(s)
+
+- **Head of IT** at Stratostaff (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/head-of-it-at-stratostaff/
+- **Submit CVs – Latest Recruitment** at Pope Benedict XVI Catholic Hospital (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-latest-recruitment-pope-benedict-xvi-catholic-hospital/
