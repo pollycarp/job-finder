@@ -6134,3 +6134,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Senior Data Scientist** at CIC Insurance (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/senior-data-scientist-cic-insurance-1
+
+## 2026-09-12 08:18 UTC — 1 new job(s)
+
+- **ICT Intern** at AIC Kijabe Hospital (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-intern-aic-kijabe-hospital-3
