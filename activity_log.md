@@ -6159,3 +6159,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/head-of-it-at-stratostaff/
 - **Submit CVs – Latest Recruitment** at Pope Benedict XVI Catholic Hospital (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/submit-cvs-latest-recruitment-pope-benedict-xvi-catholic-hospital/
+
+## 2026-09-13 20:05 UTC — 2 new job(s)
+
+- **Frontend Software Developer** at Riset Software & Systems LTD (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/frontend-software-developer-riset-software-systems-ltd
+- **Backend Software Developer** at Riset Software & Systems LTD (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/backend-software-developer-riset-software-systems-ltd
