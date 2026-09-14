@@ -6166,3 +6166,16 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/frontend-software-developer-riset-software-systems-ltd
 - **Backend Software Developer** at Riset Software & Systems LTD (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/backend-software-developer-riset-software-systems-ltd
+
+## 2026-09-14 16:08 UTC — 5 new job(s)
+
+- **Customer Success Engineer (Finance and Accounts)** at ABNO Softwares International (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/customer-success-engineer-finance-and-accounts-abno-softwares-international
+- **ICT Trainer** at St. Kizito Vocational Centre Utawala (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-trainer-st-kizito-vocational-centre-utawala-1
+- **ICT Technician - Digital Workplace Services** at International Livestock Research Institute (ILRI) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-technician-digital-workplace-services-international-livestock-research-institute-ilri
+- **Frontend Software Developer** at Riset Software & Systems LTD (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/frontend-software-developer-riset-software-systems-ltd/
+- **Backend Software Developer** at Riset Software & Systems LTD (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/backend-software-developer-riset-software-systems-ltd/
