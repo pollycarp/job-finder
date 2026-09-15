@@ -6195,3 +6195,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/manager-adept-systems-2/
 - **Software Developer Intern (3 positions)** at FREMONT INTERNATIONAL ASSOCIATES LTD (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/software-developer-intern-3-positions-9k88vn
+
+## 2026-09-15 17:54 UTC — 1 new job(s)
+
+- **Senior Infrastructure & Cybersecurity Engineer** at Green Com Enterprise Solutions Ltd (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-infrastructure-cybersecurity-engineer-green-com-enterprise-solutions-ltd
