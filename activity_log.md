@@ -6179,3 +6179,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/frontend-software-developer-riset-software-systems-ltd/
 - **Backend Software Developer** at Riset Software & Systems LTD (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/backend-software-developer-riset-software-systems-ltd/
+
+## 2026-09-15 07:02 UTC — 1 new job(s)
+
+- **French & ICT / Computer Studies Teachers** at Maville Academy (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/french-ict-computer-studies-teachers-maville-academy
