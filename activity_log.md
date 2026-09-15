@@ -6184,3 +6184,14 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **French & ICT / Computer Studies Teachers** at Maville Academy (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/french-ict-computer-studies-teachers-maville-academy
+
+## 2026-09-15 13:04 UTC — 4 new job(s)
+
+- **IT & Systems Engineer (Frontend Developer)** at West Indian Ocean Cable Company (WIOCC) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/it-systems-engineer-frontend-developer-west-indian-ocean-cable-company-wiocc-1
+- **Senior Backend Engineer** at M-KOPA Solar (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-backend-engineer-m-kopa-solar-5/
+- **IT Manager** at Adept Systems (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/manager-adept-systems-2/
+- **Software Developer Intern (3 positions)** at FREMONT INTERNATIONAL ASSOCIATES LTD (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/software-developer-intern-3-positions-9k88vn
