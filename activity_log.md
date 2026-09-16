@@ -6200,3 +6200,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Senior Infrastructure & Cybersecurity Engineer** at Green Com Enterprise Solutions Ltd (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/senior-infrastructure-cybersecurity-engineer-green-com-enterprise-solutions-ltd
+
+## 2026-09-16 09:01 UTC — 3 new job(s)
+
+- **ICT Data Scientist & AI Developer** at Britam (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-data-scientist-ai-developer-britam
+- **District Representative III** at Nalco Water (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/district-representative-iii-nalco-water/
+- **ICT / Computer Science Teacher** at BrighterMonday Consulting (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ict-computer-science-teacher-2krqzd
