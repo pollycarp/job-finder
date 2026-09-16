@@ -6216,3 +6216,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/senior-data-scientist-natural-state-1
 - **ICT Technician** at Outspan Hospital (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/ict-technician-outspan-hospital-1
+
+## 2026-09-16 19:17 UTC — 2 new job(s)
+
+- **Head of AI & Program Technology Engineering** at International Rescue Committee (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/head-of-ai-program-technology-engineering-international-rescue-committee-1
+- **Senior ICT Risk Officer** at Family Bank Ltd (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-ict-risk-officer-family-bank-ltd
