@@ -6223,3 +6223,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/head-of-ai-program-technology-engineering-international-rescue-committee-1
 - **Senior ICT Risk Officer** at Family Bank Ltd (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/senior-ict-risk-officer-family-bank-ltd
+
+## 2026-09-17 09:05 UTC — 2 new job(s)
+
+- **Sr Software Engineer** at Solvo Global (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/sr-software-engineer-solvo-global-2
+- **ICT Intern** at Meru National Polytechnic (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-intern-meru-national-polytechnic
