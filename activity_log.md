@@ -6245,3 +6245,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/head-ai-program-technology-engineering-international-rescue-committee-2/
 - **Senior ICT Risk Officer** at Family Bank Ltd (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/senior-ict-risk-officer-family-bank-ltd/
+
+## 2026-09-17 19:29 UTC — 1 new job(s)
+
+- **Branch Assistant** at Victory Farms (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/branch-assistant-victory-farms/
