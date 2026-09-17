@@ -6230,3 +6230,18 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/sr-software-engineer-solvo-global-2
 - **ICT Intern** at Meru National Polytechnic (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/ict-intern-meru-national-polytechnic
+
+## 2026-09-17 14:37 UTC — 6 new job(s)
+
+- **DevOps Engineer (SAS AML Platform)** at Andela (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/devops-engineer-sas-aml-platform-andela
+- **Senior Data Scientist** at Natural State (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-data-scientist-natural-state-2/
+- **Procurement Manager** at The Science for Africa Foundation (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/procurement-manager-science-africa-foundation/
+- **Human Capital Business Partner** at The Science for Africa Foundation (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/human-capital-business-partner-science-africa-foundation-2/
+- **Head of AI & Program Technology Engineering** at International Rescue Committee (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/head-ai-program-technology-engineering-international-rescue-committee-2/
+- **Senior ICT Risk Officer** at Family Bank Ltd (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-ict-risk-officer-family-bank-ltd/
