@@ -6263,3 +6263,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/sacco-information-systems-administrator-co-operative-bank-kenya-2/
 - **Platform Architect – Security (IC5)** at Equity Bank Kenya (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/platform-architect-security-ic5-equity-bank-kenya/
+
+## 2026-09-18 14:04 UTC — 3 new job(s)
+
+- **Data Engineering Lead Analyst** at Cigna (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-engineering-lead-analyst-cigna-4
+- **IT & Systems Engineer (Network Automation)** at West Indian Ocean Cable Company (WIOCC) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/systems-engineer-network-automation-west-indian-ocean-cable-company-wiocc/
+- **Senior Infrastructure & Cybersecurity Engineer** at GREEN COM ENTERPRISE SOLUTIONS LIMITED (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-infrastructure-cybersecurity-engineer-8mz527
