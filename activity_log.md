@@ -6250,3 +6250,16 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Branch Assistant** at Victory Farms (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/branch-assistant-victory-farms/
+
+## 2026-09-18 08:41 UTC — 5 new job(s)
+
+- **ICT - Interns - 2 Posts** at Kenya Pipeline Company (KPC) Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-interns-2-posts-kenya-pipeline-company-kpc-limited
+- **Head, Data, Analytics and AI** at Kenya Airways (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/head-data-analytics-ai-kenya-airways/
+- **DevOps Engineer (SAS AML Platform)** at Andela (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/devops-engineer-sas-aml-platform-andela/
+- **Sacco Information Systems Administrator** at Co-operative Bank of Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/sacco-information-systems-administrator-co-operative-bank-kenya-2/
+- **Platform Architect – Security (IC5)** at Equity Bank Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/platform-architect-security-ic5-equity-bank-kenya/
