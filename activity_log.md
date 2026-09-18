@@ -6272,3 +6272,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/systems-engineer-network-automation-west-indian-ocean-cable-company-wiocc/
 - **Senior Infrastructure & Cybersecurity Engineer** at GREEN COM ENTERPRISE SOLUTIONS LIMITED (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/senior-infrastructure-cybersecurity-engineer-8mz527
+
+## 2026-09-18 17:37 UTC — 1 new job(s)
+
+- **Staff Software Engineer, Google Play** at Google (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/staff-software-engineer-google-play-google-4
