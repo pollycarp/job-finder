@@ -6277,3 +6277,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Staff Software Engineer, Google Play** at Google (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/staff-software-engineer-google-play-google-4
+
+## 2026-09-18 20:14 UTC — 1 new job(s)
+
+- **Senior QA Engineer** at Ezra (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-qa-engineer-ezra/
