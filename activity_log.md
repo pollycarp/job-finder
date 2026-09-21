@@ -6301,3 +6301,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/manager-information-technology-digital-divide-data-ddd-kenya/
 - **Software Development & Technical Support Intern** at Kaluari Limited (Kenya) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/software-development-technical-support-intern-9k88d5
+
+## 2026-09-21 16:10 UTC — 1 new job(s)
+
+- **Part-Time Lecturers - Information And Communication Technologies (ICT)** at Regional Centre for Mapping of Resources for Development (RCMRD) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/part-time-lecturers-information-and-communication-technologies-ict-regional-centre-for-mapping-of-resources-for-development-rcmrd
