@@ -6306,3 +6306,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Part-Time Lecturers - Information And Communication Technologies (ICT)** at Regional Centre for Mapping of Resources for Development (RCMRD) (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/part-time-lecturers-information-and-communication-technologies-ict-regional-centre-for-mapping-of-resources-for-development-rcmrd
+
+## 2026-09-21 21:29 UTC — 1 new job(s)
+
+- **Electrical Engineer Supervisor** at U.S. Embassy to Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/electrical-engineer-supervisor-u-s-embassy-kenya/
