@@ -6282,3 +6282,22 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Senior QA Engineer** at Ezra (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/senior-qa-engineer-ezra/
+
+## 2026-09-21 09:30 UTC — 8 new job(s)
+
+- **Software Engineer** at JKUAT Enterprises Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/software-engineer-jkuat-enterprises-limited
+- **ICT Department - Attachment** at Nakuru Training Institute (NTI) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-department-attachment-nakuru-training-institute-nti
+- **Sales Engineer – Ethiopia (Nairobi based)** at The Timken Company (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/sales-engineer-ethiopia-nairobi-based-timken-company/
+- **WSO2 Implementation Engineer – CIAM / API Management / Ballerina** at Sybyl Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/wso2-implementation-engineer-ciam-api-management-ballerina-sybyl-limited/
+- **Biomedical Engineer – IVF** at Fertility Point (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/biomedical-engineer-ivf-fertility-point/
+- **Laboratory Specialist Trainee** at SLB (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/laboratory-specialist-trainee-slb/
+- **Manager, Information Technology** at Digital Divide Data (DDD Kenya) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/manager-information-technology-digital-divide-data-ddd-kenya/
+- **Software Development & Technical Support Intern** at Kaluari Limited (Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/software-development-technical-support-intern-9k88d5
