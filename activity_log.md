@@ -6323,3 +6323,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/deputy-director-ict-services-maseno-university-1
 - **Director, Information, Communication & Technology (ICT)** at Amref Kenya (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/director-information-communication-technology-ict-amref-kenya
+
+## 2026-09-22 17:54 UTC — 2 new job(s)
+
+- **Senior Data Scientist — Clean Cooking (PAYG LPG)** at Sun King (Formerly Greenlight Planet) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-data-scientist-clean-cooking-payg-lpg-greenlight-planet
+- **Associate Director/Director – East and Southern Africa** at IDinsight (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/associate-director-director-east-southern-africa-idinsight/
