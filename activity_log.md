@@ -6311,3 +6311,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Electrical Engineer Supervisor** at U.S. Embassy to Kenya (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/electrical-engineer-supervisor-u-s-embassy-kenya/
+
+## 2026-09-22 07:08 UTC — 1 new job(s)
+
+- **Senior Software Engineer, Google Play** at Google (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-software-engineer-google-play-google-2
