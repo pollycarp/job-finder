@@ -6316,3 +6316,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Senior Software Engineer, Google Play** at Google (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/senior-software-engineer-google-play-google-2
+
+## 2026-09-22 13:01 UTC — 2 new job(s)
+
+- **Deputy Director, ICT Services** at Maseno University (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/deputy-director-ict-services-maseno-university-1
+- **Director, Information, Communication & Technology (ICT)** at Amref Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/director-information-communication-technology-ict-amref-kenya
