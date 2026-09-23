@@ -6343,3 +6343,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/network-security-engineer-1-year-contract-zamara-kenya/
 - **Conflict Resolution Officer (P)** at International Organization for Migration (IOM) (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/conflict-resolution-officer-p-international-organization-migration-iom/
+
+## 2026-09-23 14:38 UTC — 1 new job(s)
+
+- **SAP CI DevOps Engineer** at Deloitte Consulting (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/sap-ci-devops-engineer-deloitte-consulting-1
