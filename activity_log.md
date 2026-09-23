@@ -6330,3 +6330,16 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/senior-data-scientist-clean-cooking-payg-lpg-greenlight-planet
 - **Associate Director/Director – East and Southern Africa** at IDinsight (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/associate-director-director-east-southern-africa-idinsight/
+
+## 2026-09-23 09:00 UTC — 5 new job(s)
+
+- **Frontend Developer** at Ideon Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/frontend-developer-ideon-limited
+- **Backend Developer** at Ideon Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/backend-developer-ideon-limited
+- **Quality Associate - ICT** at Aga Khan University Hospital (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/quality-associate-ict-aga-khan-university-hospital
+- **Network & Security Engineer (1 Year Contract)** at Zamara Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/network-security-engineer-1-year-contract-zamara-kenya/
+- **Conflict Resolution Officer (P)** at International Organization for Migration (IOM) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/conflict-resolution-officer-p-international-organization-migration-iom/
