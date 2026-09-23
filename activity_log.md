@@ -6348,3 +6348,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **SAP CI DevOps Engineer** at Deloitte Consulting (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/sap-ci-devops-engineer-deloitte-consulting-1
+
+## 2026-09-23 19:24 UTC — 1 new job(s)
+
+- **Quality Associate – ICT** at Aga Khan University Hospital (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/quality-associate-ict-aga-khan-university-hospital/
