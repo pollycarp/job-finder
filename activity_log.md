@@ -6353,3 +6353,18 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Quality Associate – ICT** at Aga Khan University Hospital (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/quality-associate-ict-aga-khan-university-hospital/
+
+## 2026-09-24 08:56 UTC — 6 new job(s)
+
+- **Data Analyst** at MSVL Group (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-analyst-msvl-group
+- **ICT & Database Intern** at Urgent Action Fund-Africa (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-database-intern-urgent-action-fund-africa
+- **Intelligence and Automation Lead** at Safaricom Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/intelligence-automation-lead-safaricom-kenya/
+- **Product Manager** at Ideon Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/product-manager-ideon-limited/
+- **Server & Systems Security Administrator** at Mawingu (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/server-systems-security-administrator-mawingu/
+- **Head of Platform & Architecture** at Turnkey Africa Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/head-platform-architecture-turnkey-africa-kenya/
