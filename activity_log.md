@@ -6375,3 +6375,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/ai-specialist-farsight-africa-group/
 - **Software Developer (Intern) - AI Agent Engineering Focus** at GREEN COM ENTERPRISE SOLUTIONS LIMITED (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/software-developer-intern-ai-agent-engineering-focus-8mzm64
+
+## 2026-09-25 14:57 UTC — 3 new job(s)
+
+- **Junior Data Scientist** at Pezesha (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/junior-data-scientist-pezesha-2
+- **AI Product Manager – CLEAR Project** at Norwegian Refugee Council (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/ai-product-manager-clear-project-norwegian-refugee-council/
+- **Maintenance Manager** at Victory Farms (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/maintenance-manager-victory-farms/
