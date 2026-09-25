@@ -6368,3 +6368,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/server-systems-security-administrator-mawingu/
 - **Head of Platform & Architecture** at Turnkey Africa Kenya (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/head-platform-architecture-turnkey-africa-kenya/
+
+## 2026-09-25 09:17 UTC — 2 new job(s)
+
+- **AI Specialist** at Farsight Africa Group (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/ai-specialist-farsight-africa-group/
+- **Software Developer (Intern) - AI Agent Engineering Focus** at GREEN COM ENTERPRISE SOLUTIONS LIMITED (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/software-developer-intern-ai-agent-engineering-focus-8mzm64
