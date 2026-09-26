@@ -6391,3 +6391,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/junior-data-scientist-african-centre-for-data-science-analytics-ltd
 - **IT Executive (Odoo ERP & IT Infrastructure)** at Match Masters Limited (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/executive-odoo-erp-infrastructure-match-masters-limited/
+
+## 2026-09-26 17:41 UTC — 3 new job(s)
+
+- **Junior Data Scientist** at Pezesha (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/junior-data-scientist-pezesha/
+- **IT & Systems Engineer (NetSuite)** at West Indian Ocean Cable Company (WIOCC) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/systems-engineer-netsuite-west-indian-ocean-cable-company-wiocc-2/
+- **Team Leader, SRE** at Remote (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/team-leader-sre-remote/
