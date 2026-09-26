@@ -6384,3 +6384,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/ai-product-manager-clear-project-norwegian-refugee-council/
 - **Maintenance Manager** at Victory Farms (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/maintenance-manager-victory-farms/
+
+## 2026-09-26 09:00 UTC — 2 new job(s)
+
+- **Junior Data Scientist** at African Centre for Data Science & Analytics Ltd (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/junior-data-scientist-african-centre-for-data-science-analytics-ltd
+- **IT Executive (Odoo ERP & IT Infrastructure)** at Match Masters Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/executive-odoo-erp-infrastructure-match-masters-limited/
