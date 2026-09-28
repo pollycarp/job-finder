@@ -6407,3 +6407,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/principal-software-engineer-mastercard-1
 - **DATA ANALYST** at BrighterMonday Consulting (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/data-analyst-9k85xj
+
+## 2026-09-28 22:51 UTC — 1 new job(s)
+
+- **Submit CVs – New Recruitment** at Muranga County Government (14 Positions) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-muranga-county-government-14-positions/
