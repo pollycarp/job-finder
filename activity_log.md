@@ -6400,3 +6400,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/systems-engineer-netsuite-west-indian-ocean-cable-company-wiocc-2/
 - **Team Leader, SRE** at Remote (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/team-leader-sre-remote/
+
+## 2026-09-28 16:34 UTC — 2 new job(s)
+
+- **Principal Software Engineer** at MasterCard (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/principal-software-engineer-mastercard-1
+- **DATA ANALYST** at BrighterMonday Consulting (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-analyst-9k85xj
