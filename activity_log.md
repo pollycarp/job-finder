@@ -6429,3 +6429,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/information-extraction-specialist-pmkgeq-v1
 - **Fullstack Django / React Developer Internship (Unpaid Intern Role)** at Vibes Meet LLC (Rest of Kenya) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/fullstack-django-react-developer-internship-unpaid-intern-role-wrzgdk
+
+## 2026-09-29 17:22 UTC — 3 new job(s)
+
+- **Full Stack Developer** at Brookfox Technologies Ltd (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/full-stack-developer-19
+- **ICT Officer II** at Jomo Kenyatta University of Agriculture Technology (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-officer-ii-jomo-kenyatta-university-of-agriculture-technology
+- **Submit CVs – New Recruitment** at Solvo Global (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-solvo-global-4/
