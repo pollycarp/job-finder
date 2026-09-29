@@ -6412,3 +6412,20 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Submit CVs – New Recruitment** at Muranga County Government (14 Positions) (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-muranga-county-government-14-positions/
+
+## 2026-09-29 10:20 UTC — 7 new job(s)
+
+- **Chief Engineer** at Enashipai Resort & Spa (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/chief-engineer-enashipai-resort-spa/
+- **Principal Software Engineer** at MasterCard (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/principal-software-engineer-mastercard-2/
+- **Senior Frontend Engineer** at HFCB Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-frontend-engineer-hfcb-kenya/
+- **Solutions Architect** at NCBA Group (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/solutions-architect-ncba-group-3/
+- **Regulatory Data & Reporting Analyst** at The Cigna Group (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/regulatory-data-reporting-analyst-z84r2v
+- **Information Extraction Specialist** at Odixcity Consulting (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/information-extraction-specialist-pmkgeq-v1
+- **Fullstack Django / React Developer Internship (Unpaid Intern Role)** at Vibes Meet LLC (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/fullstack-django-react-developer-internship-unpaid-intern-role-wrzgdk
