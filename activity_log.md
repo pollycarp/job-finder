@@ -6438,3 +6438,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/ict-officer-ii-jomo-kenyatta-university-of-agriculture-technology
 - **Submit CVs – New Recruitment** at Solvo Global (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-solvo-global-4/
+
+## 2026-09-29 21:45 UTC — 1 new job(s)
+
+- **Submit CVs – New Recruitment** at Victory Farms (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-victory-farms-2/
