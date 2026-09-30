@@ -6443,3 +6443,14 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Submit CVs – New Recruitment** at Victory Farms (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-victory-farms-2/
+
+## 2026-09-30 07:48 UTC — 4 new job(s)
+
+- **Sacco ICT Assistant** at Co-operative Bank of Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/sacco-ict-assistant-co-operative-bank-of-kenya-1
+- **ICT Senior Analyst** at United Nations Office for Project Services (UNOPS) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-senior-analyst-united-nations-office-for-project-services-unops-1
+- **ICT Senior Analyst** at UNOPS (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ict-senior-analyst-wree4d-v2
+- **Staff Research Engineer - AI & Machine Learning** at Gramian Consulting (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/staff-research-engineer-ai-machine-learning-m0rje9
