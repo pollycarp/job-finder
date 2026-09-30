@@ -6454,3 +6454,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/ict-senior-analyst-wree4d-v2
 - **Staff Research Engineer - AI & Machine Learning** at Gramian Consulting (Rest of Kenya) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/staff-research-engineer-ai-machine-learning-m0rje9
+
+## 2026-09-30 14:32 UTC — 2 new job(s)
+
+- **Software Engineer - Environmental Data Capacity (EDC) Toolkit** at United Nations Environment Programme (UNEP) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/software-engineer-environmental-data-capacity-edc-toolkit-united-nations-environment-programme-unep
+- **Principal Infrastructure Engineer** at Solvo Global (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/principal-infrastructure-engineer-solvo-global/
