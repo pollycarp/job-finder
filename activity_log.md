@@ -6461,3 +6461,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/software-engineer-environmental-data-capacity-edc-toolkit-united-nations-environment-programme-unep
 - **Principal Infrastructure Engineer** at Solvo Global (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/principal-infrastructure-engineer-solvo-global/
+
+## 2026-09-30 20:29 UTC — 2 new job(s)
+
+- **Research Scientist** at Strathmore University (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/research-scientist-strathmore-university/
+- **Software Engineer – Environmental Data Capacity (EDC) Toolkit** at United Nations Environment Programme (UNEP) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/software-engineer-environmental-data-capacity-edc-toolkit-united-nations-environment-programme-unep/
