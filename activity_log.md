@@ -6468,3 +6468,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/research-scientist-strathmore-university/
 - **Software Engineer – Environmental Data Capacity (EDC) Toolkit** at United Nations Environment Programme (UNEP) (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/software-engineer-environmental-data-capacity-edc-toolkit-united-nations-environment-programme-unep/
+
+## 2026-10-01 08:07 UTC — 2 new job(s)
+
+- **Data Scientist** at Britam (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-scientist-britam-1
+- **Cloud Support Engineer** at Solvo Global Careers (Confidential) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/cloud-support-engineer-pgw8jj
