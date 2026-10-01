@@ -6475,3 +6475,16 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/data-scientist-britam-1
 - **Cloud Support Engineer** at Solvo Global Careers (Confidential) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/cloud-support-engineer-pgw8jj
+
+## 2026-10-01 16:54 UTC — 5 new job(s)
+
+- **ICT Support Associate** at Aga Khan Education Service, Kenya (AKESK) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-support-associate-aga-khan-education-service-kenya-akesk-1
+- **CRM, Systems and Data Specialist** at Medecins Sans Frontieres (MSF) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/crm-systems-data-specialist-medecins-sans-frontieres-msf/
+- **Subject Matter Expert – Networking & Infrastructure** at Abacus (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/subject-matter-expert-networking-infrastructure-abacus/
+- **Submit CVs – New Recruitment** at Aga Khan Education Service, Kenya (AKESK) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-aga-khan-education-service-kenya-akesk/
+- **Remote Administrative Assistant-Behavioural Health** at CDL Human Resource (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/remote-administrative-assistant-behavioural-health-cdl-human-resource-2/
