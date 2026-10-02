@@ -6501,3 +6501,18 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/mathematics-expert-ai-training-8mzgrx
 - **Physics Expert - AI Training** at Braintrust (Rest of Kenya) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/physics-expert-ai-training-gmg87e
+
+## 2026-10-02 17:08 UTC — 6 new job(s)
+
+- **AI Platform Engineer** at International Rescue Committee (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ai-platform-engineer-international-rescue-committee-2
+- **Learner - Cybersecurity** at NTT Ltd (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/learner-cybersecurity-ntt-ltd-2
+- **Software Architect** at Solvo Global (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/software-architect-solvo-global/
+- **Software Developer Analyst** at International Rescue Committee (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/software-developer-analyst-international-rescue-committee-3/
+- **IT Risk Manager – Risk** at Equity Bank Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/risk-manager-risk-equity-bank-kenya/
+- **Submit CVs – Latest Recruitment** at Kingdom Bank Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-latest-recruitment-kingdom-bank-limited/
