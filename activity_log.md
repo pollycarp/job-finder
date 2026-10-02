@@ -6488,3 +6488,16 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-aga-khan-education-service-kenya-akesk/
 - **Remote Administrative Assistant-Behavioural Health** at CDL Human Resource (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/remote-administrative-assistant-behavioural-health-cdl-human-resource-2/
+
+## 2026-10-02 10:14 UTC — 5 new job(s)
+
+- **Drone Data Analyst** at Victory Farms (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/drone-data-analyst-victory-farms
+- **Head of Cybersecurity and Information Systems** at Jambojet (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/head-of-cybersecurity-and-information-systems-jambojet
+- **Data Analyst-Intern** at Eezy Track Limited (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-analyst-intern-n9dwrz
+- **Mathematics Expert - AI Training** at Braintrust (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/mathematics-expert-ai-training-8mzgrx
+- **Physics Expert - AI Training** at Braintrust (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/physics-expert-ai-training-gmg87e
