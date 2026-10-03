@@ -6521,3 +6521,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Business Development Manager-Bancassurance** at Liberty & Heritage Insurance (Rest of Kenya) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/business-development-manager-bancassurance-d9wd5m-v1
+
+## 2026-10-03 17:46 UTC — 1 new job(s)
+
+- **Flight Operations Assistant** at Victory Farms (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/flight-operations-assistant-victory-farms/
