@@ -6516,3 +6516,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/risk-manager-risk-equity-bank-kenya/
 - **Submit CVs – Latest Recruitment** at Kingdom Bank Limited (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/submit-cvs-latest-recruitment-kingdom-bank-limited/
+
+## 2026-10-03 07:24 UTC — 1 new job(s)
+
+- **Business Development Manager-Bancassurance** at Liberty & Heritage Insurance (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/business-development-manager-bancassurance-d9wd5m-v1
