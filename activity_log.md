@@ -6526,3 +6526,14 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Flight Operations Assistant** at Victory Farms (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/flight-operations-assistant-victory-farms/
+
+## 2026-10-05 08:02 UTC — 4 new job(s)
+
+- **ICT Trainer - Kisumu** at Ujima Foundation for Training and Development (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-trainer-kisumu-ujima-foundation-for-training-and-development
+- **ICT Trainer - Nakuru** at Ujima Foundation for Training and Development (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-trainer-nakuru-ujima-foundation-for-training-and-development
+- **TVET Trainers - Information and Communication Technology (ICT)** at The East African University (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/tvet-trainers-information-and-communication-technology-ict-the-east-african-university
+- **Regulatory Data & Reporting Analyst** at The Cigna Group (Full Time) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/regulatory-data-reporting-analyst-z84r2v-v1
