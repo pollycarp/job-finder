@@ -6537,3 +6537,14 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/tvet-trainers-information-and-communication-technology-ict-the-east-african-university
 - **Regulatory Data & Reporting Analyst** at The Cigna Group (Full Time) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/regulatory-data-reporting-analyst-z84r2v-v1
+
+## 2026-10-05 16:47 UTC — 4 new job(s)
+
+- **Trainer-ICT** at KIPS Technical College (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/trainer-ict-kips-technical-college-1
+- **Trainer - KASNEB ICT** at KIPS Technical College (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/trainer-kasneb-ict-kips-technical-college
+- **ICT Teacher** at Sunrise Virtual School (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-teacher-sunrise-virtual-school
+- **Data Engineer** at Moringa School (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/data-engineer-moringa-school/
