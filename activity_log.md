@@ -6548,3 +6548,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/ict-teacher-sunrise-virtual-school
 - **Data Engineer** at Moringa School (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/data-engineer-moringa-school/
+
+## 2026-10-06 11:00 UTC — 3 new job(s)
+
+- **ICT Manager – Grade XIV** at Masinde Muliro University of Science & Technology (MMUST) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-manager-grade-xiv-masinde-muliro-university-of-science-amp-technology-mmust
+- **Quality Assurance Specialist** at Ajinit Digital Hub (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/quality-assurance-specialist-6q6zgz
+- **Data Center Technician - Kenya - Miritini - On-site** at Reboot Monkey (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-center-technician-kenya-miritini-on-site-d7x0z8-v1
