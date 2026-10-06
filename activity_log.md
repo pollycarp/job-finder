@@ -6557,3 +6557,14 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/quality-assurance-specialist-6q6zgz
 - **Data Center Technician - Kenya - Miritini - On-site** at Reboot Monkey (Rest of Kenya) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/data-center-technician-kenya-miritini-on-site-d7x0z8-v1
+
+## 2026-10-06 17:42 UTC — 4 new job(s)
+
+- **Digital Marketing & Customer Service Assistant** at Zurid ICT (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/digital-marketing-customer-service-assistant-zurid-ict
+- **Senior Assistant Director, ICT - AN- Scale -KMTC 3** at Kenya Medical Training College (KMTC) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-assistant-director-ict-an-scale-kmtc-3-kenya-medical-training-college-kmtc
+- **Planning Engineer** at Tai Talent Matters (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/planning-engineer-tai-talent-matters/
+- **Genesys Cloud CX Developer** at Andishi (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/genesys-cloud-cx-developer-andishi/
