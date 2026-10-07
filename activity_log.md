@@ -6568,3 +6568,20 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/planning-engineer-tai-talent-matters/
 - **Genesys Cloud CX Developer** at Andishi (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/genesys-cloud-cx-developer-andishi/
+
+## 2026-10-07 10:47 UTC — 7 new job(s)
+
+- **ICT & Systems Manager** at Flexi-Personnel (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-systems-manager-flexi-personnel
+- **ISP Technician-Nairobi** at Fireside Engineering Group (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/isp-technician-nairobi-fireside-engineering-group/
+- **Engineer – Information Security** at MAL Consultancy (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/engineer-information-security-mal-consultancy/
+- **Consultant Trainers** at Trainingcred Institute (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/consultant-trainers-trainingcred-institute-2/
+- **Information Management Assistant** at U.S. Embassy to Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/information-management-assistant-u-s-embassy-kenya/
+- **Digital Marketing & Customer Service Assistant** at Zurid ICT (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/digital-marketing-customer-service-assistant-zurid-ict/
+- **VACANCY ANNOUNCEMENT FOR THE POST OF PROGRAMME ASSOCIATE (WASH, Shelter and Settlements))** at EUBAM Libya (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/vacancy-announcement-for-the-post-of-programme-associate-wash-shelter-and-settlements-7j78zm-v3
