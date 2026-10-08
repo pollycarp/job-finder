@@ -6585,3 +6585,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/digital-marketing-customer-service-assistant-zurid-ict/
 - **VACANCY ANNOUNCEMENT FOR THE POST OF PROGRAMME ASSOCIATE (WASH, Shelter and Settlements))** at EUBAM Libya (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/vacancy-announcement-for-the-post-of-programme-associate-wash-shelter-and-settlements-7j78zm-v3
+
+## 2026-10-08 11:07 UTC — 1 new job(s)
+
+- **IT & Cybersecurity Specialist** at Miale Solar Inventions Ltd (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/it-cybersecurity-specialist-miale-solar-inventions-ltd
