@@ -6590,3 +6590,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **IT & Cybersecurity Specialist** at Miale Solar Inventions Ltd (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/it-cybersecurity-specialist-miale-solar-inventions-ltd
+
+## 2026-10-08 18:16 UTC — 1 new job(s)
+
+- **Submit CVs – New Recruitment** at Victoria Court (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-victoria-court/
