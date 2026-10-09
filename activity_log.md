@@ -6604,3 +6604,14 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/manager-technology-risk-ebkl-equity-bank-kenya/
 - **Head of Platform & Architecture** at Caava Group (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/head-platform-architecture-caava-group/
+
+## 2026-10-09 16:47 UTC — 4 new job(s)
+
+- **Data Analyst** at Bollard Consulting Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-analyst-bollard-consulting-limited-1
+- **DevOps & Machine Learning Expert** at Intergovernmental Authority on Development (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/devops-machine-learning-expert-intergovernmental-authority-on-development
+- **Junior Full Stack Developer** at Bollard Consulting Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/junior-full-stack-developer-bollard-consulting-limited
+- **Head of Department - ICT & Engineering - Computer Science** at Zetech University (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/head-of-department-ict-engineering-computer-science-zetech-university
