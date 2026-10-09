@@ -6595,3 +6595,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Submit CVs – New Recruitment** at Victoria Court (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-victoria-court/
+
+## 2026-10-09 08:15 UTC — 3 new job(s)
+
+- **AI Solutions Architect** at Code for Africa (CfA) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/ai-solutions-architect-code-africa-cfa-2/
+- **Manager, Technology (IT) Risk (EBKL)** at Equity Bank Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/manager-technology-risk-ebkl-equity-bank-kenya/
+- **Head of Platform & Architecture** at Caava Group (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/head-platform-architecture-caava-group/
