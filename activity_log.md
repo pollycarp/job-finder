@@ -6615,3 +6615,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/junior-full-stack-developer-bollard-consulting-limited
 - **Head of Department - ICT & Engineering - Computer Science** at Zetech University (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/head-of-department-ict-engineering-computer-science-zetech-university
+
+## 2026-10-10 10:20 UTC — 2 new job(s)
+
+- **Submit CVs – New Recruitment** at Intergovernmental Authority on Development (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-intergovernmental-authority-development/
+- **Head of Department – ICT & Engineering – Computer Science** at Zetech University (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/head-department-ict-engineering-computer-science-zetech-university/
